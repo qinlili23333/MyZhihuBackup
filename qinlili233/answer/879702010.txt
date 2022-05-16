@@ -1,0 +1,3 @@
+戴尔inspiron153558型号的电脑安了固态硬盘能运行快点吗?
+<p data-pid="NsOuYDth">不一定</p><p data-pid="4z_3ikWx">固态只是木桶的一块板</p><p data-pid="dArK67Ac">如果CPU/显卡/内存等其他任何一块板比固态更短，固态的提升就可以近乎忽略</p><p data-pid="tAg5aWxV">电脑性能永远取决于最短的那块板</p>
+1572734358

@@ -1,0 +1,3 @@
+你高考完的那天晚上在想什么?
+<p data-pid="k7dERpAy">在想怎么用image magick实现在Android上的psd转bitmap</p><p data-pid="vSuzYtMJ">然后差不多花了两天才成功实现这个feature</p><p data-pid="EfeH7PPN">然后众所周知，6/10我发布了全新修改的ps touch，不闪退的同时支持了超多新特性</p><p data-pid="YGfnNWfl">（其实我高考前就一直在折腾ps touch差不多弄了半年，不过有些坑高考后才成功填上）</p>
+1575162228

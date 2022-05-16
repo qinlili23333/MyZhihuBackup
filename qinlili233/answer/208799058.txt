@@ -1,0 +1,3 @@
+干什么事可以感受到硬盘读取速度500M/s和2G/s的差异？
+<p data-pid="Y3uKMfwn">泻药</p><p data-pid="1knlpnz_">我每次做4k无损放大的视频，出正式片之前都会有一个高达几十g的暂存视频文件，可以播放，这个文件我一般会打开预览一下效果</p><p data-pid="uAlVUcla">500m/s打开需要差不多10秒才能开始播放</p><p data-pid="5zoBzB-u">2000m/s打开4秒就能播放了</p><p data-pid="Z6kFmKbe">当然播放起来遇到cpu瓶颈该卡还是卡</p>
+1501849168

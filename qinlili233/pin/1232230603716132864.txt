@@ -1,0 +1,1 @@
+微软也tm是个鬼才，surface go的pcie通道用不掉，于是读卡器都走的pcie，然后这么个走pcie的读卡器速度才80m/s

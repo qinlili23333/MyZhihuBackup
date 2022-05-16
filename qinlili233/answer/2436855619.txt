@@ -1,0 +1,3 @@
+12 代 Intel 出现小核有难大核围观的可能性大吗？
+<p data-pid="MG6_yPNe">啥叫可能性大，明明是几乎必然遇到</p><p data-pid="fW_YkXb7">所有无头程序都会莫名其妙跑到小核心上</p><p data-pid="AILcotr7">无头的爬虫用chrome，msbuild调用的msvc编译器，最小化后的转码软件，都跑小核上去了</p><p data-pid="RpckPve7">解决办法是process lasso的核心亲和性，锁死在大核上，但这个软件大部分功能需要付费，正版一百多人民币太贵了</p>
+1649811794

@@ -1,0 +1,3 @@
+ipad Pro今后会可能成为对标ps5和Xbox的新一代移动端游戏机吗?
+<h2>游戏机的性能释放是必须始终如一的稳定的</h2><p data-pid="o2pAagbA">但ipad pro显然做不到</p><p data-pid="qTuJnxnR">switch的那个tegra性能确实不如m1，但是switch有风扇，可以维持15w功耗持续满血释放</p><p data-pid="KSPiIv06">历史上因为过热导致虚焊的xbox360和ps3，也没有出现过降频，热了就直接虚焊了</p><h2>因为游戏机设计出来就是为了长时间连续玩游戏的</h2><p data-pid="M6X3dB_q">这就意味着不管你玩多久，体验都不应该降级</p><p><br></p><p data-pid="Uy110Htb">最近宝可梦大集结上架手机了，我也下下来玩了，888打三局以上就有可能因为过热掉下60fps，但是switch上虽然锁30却从来没有过掉帧，这就是散热的功效</p><h2>没有风扇的移动设备是不可能持续满血的，被动散热太拉跨了</h2><p data-pid="dQ52_xAU">倒不如看看现在越来越多的windows掌机，低压x86带风扇压，玩3a都不会降频</p><p><br></p><p><br></p><p data-pid="xKMOf_Ek">switch上的x1和ipad pro gen2上的a10x是差不多同代的，两者性能满血下半斤八两，但switch可以插电持续满血运行，gen2 12.9在插了快充头的情况下很快就残血了</p>
+1633146129

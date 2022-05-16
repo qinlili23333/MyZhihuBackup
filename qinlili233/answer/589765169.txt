@@ -1,0 +1,3 @@
+英特尔公司（Intel）为什么不做安谋（ARM）芯片？
+<p data-pid="FL_Zl8Io">做过，做不强，放弃了。</p><p data-pid="_txNc3XE">Intel有能力把x86做强去和arm竞争，为什么非要去玩arm呢？</p><p data-pid="8VtKg1On">iPhone上的基带，其实是一颗Intel双核x86处理器，而且频率达到了1.4Ghz（睿频未知），支持mmx甚至支持vt-x。Intel有实力把这么一颗在低端平板上的处理器塞进一台手机做基带，功耗控制水平已经相当强，不存在比arm费电一说。</p><p data-pid="xZRE7w6m">那么既然Intel的x86如此成熟，为什么要去做一个技术积累不足的arm？</p><p data-pid="iIQfCxx7">（另外，ptt上有人猜测iPhone这颗x86基带是Quake架构，但是我觉得不大可能，Quark架构最高频率都没有上过Ghz的，我觉得可能是AmberLake-Y）</p>
+1549331878

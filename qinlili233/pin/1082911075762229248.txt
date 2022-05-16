@@ -1,0 +1,3 @@
+gboard新版本加入了剪贴板功能，但是似乎还不可用。另外新版本修改了右下角按钮的式样，个人觉得反而没有原版好看了。
+https://pic4.zhimg.com/80/v2-78f18185fc28c63fd53bdd18e6ea94e1_qhd.jpg
+https://pic2.zhimg.com/80/v2-195eed346f91ec1897ad2f1e8883a9ef_qhd.jpg

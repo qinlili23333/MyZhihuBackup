@@ -1,0 +1,3 @@
+在US Domain Center买了域名之后怎么把自己做好的html（用webstorm做的）上传？
+<p data-pid="8pHnTz9b">泻药</p><p data-pid="tskJi-D7">光有域名不行，你还要有服务器</p><p data-pid="6sty59gM">如果你有了服务器，，那么去域名管理把你的服务器ip用a解析解析到域名就行</p>
+1500165405

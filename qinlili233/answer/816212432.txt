@@ -1,0 +1,3 @@
+如何评价荣耀 9 月 4 日推出的荣耀 MagicBook Pro 锐龙版？
+<p data-pid="UQXRk4rN">强调一点：3750H和3700U除了TDP外没有任何区别</p><p data-pid="JGGrWikc">这俩就是一个芯片锁了不同TDP而已</p><p data-pid="xjuaYUAr">再强调一点：所谓尝鲜版还有一个存在的意义，就是说明这机器的Linux驱动是完善的，不会出现Linux下没驱动的情况，对于需要Linux环境的开发者来说是好事</p><p></p>
+1567836197

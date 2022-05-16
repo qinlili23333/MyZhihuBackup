@@ -1,0 +1,3 @@
+挖过矿的显卡用来玩《绝地求生》等电脑游戏，是否会有非常短的寿命？
+<p data-pid="R6H5wsfL">问题不大</p><p data-pid="wto2_BYP">个人曾经挖过一段时间</p><p data-pid="ObkbqBk8">gtx680，小幅度超频挖了一年左右</p><p data-pid="AXrvnRYK">那张卡核心体质很不错，超到1.3g不加压都没事</p><p data-pid="FXth-fBq">现在那张卡在ubuntu上跑的好好的，无论是带游戏还是带tensorflow</p><p data-pid="h-ZaQdzx">换过硅脂，现在硅脂是7783，烤鸡74度，空载43度</p><p data-pid="GPKgye1I">不过显卡被压的有点弯于是自己做了个支架顶着</p><p data-pid="ePugNATV">风扇什么事都没有，毕竟这张卡的巨型涡轮还是很给力的，日常运行转速都在2000左右声音还没cpu的水冷吵，满载会破4000有些声音，但是很少触发最高转速</p>
+1522468219

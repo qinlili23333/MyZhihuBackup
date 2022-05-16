@@ -1,0 +1,2 @@
+大部分传统包裹式接口的缺点是容易松，而lightning和surface connect这类触点裸露的接头虽然不容易松，但是存在手汗腐蚀的致命问题（我的surface connect已经腐蚀掉一个头了）。其实我倒是觉得rj45这种带固定的半裸露接口可以小型化的话就好了，既不容易松也没有腐蚀的问题（得益于表面张力）
+https://www.zhihu.com/question/462432500/answer/2149645993?utm_source=zhihu&utm_medium=social&utm_oi=729630383821324288

@@ -1,0 +1,3 @@
+如何看待 12 月 23 日 12306 又崩溃了？你买到回家的火车票了吗？
+<p data-pid="_gMNYdJZ">正常</p><p data-pid="2XR1YbyV">支付宝5号才崩溃过一次，同款技术的12306崩溃自然可以理解</p><p data-pid="SveVrkGQ">PS：12306比支付宝崩溃概率会高一些。最新版本的12306同时有阿里聚安全（libsgmain.so）和梆梆企业版（libdexjni.so，libDexHelper.so）两层壳，两层甚至多层壳本来就极易导致内存泄漏和崩溃，更何况两个壳都是有动态写method的。</p><p></p>
+1577190108

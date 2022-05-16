@@ -1,0 +1,3 @@
+Java能不能像C语言不通过JVM虚拟机直接编译成二进制机器码，让计算机直接运行？
+<p data-pid="6zA7X842">可以</p><p data-pid="fXAunQiF">这种技术就是java2c</p><p data-pid="He_cbA4m">Android加固第四代常见方案了</p><p data-pid="hEt0yg8C">至于性能嘛，我自己的测试结果是，对于大量计算和复杂逻辑有10%左右性能提升（相比于speed-profile下的dex2oat），大量调用java层api的效率会降低40%以上，主要是jni交互消耗</p><p><br></p><p data-pid="4a5mmMa-">所以，综合来看，除了保护关键逻辑外，还不如老老实实交给系统自己的dex2oat去</p><p data-pid="LO2WyN40">我自己主要就保护一个序列号验证和一个签名校验</p>
+1591934556

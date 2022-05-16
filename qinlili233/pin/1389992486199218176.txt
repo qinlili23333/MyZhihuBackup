@@ -1,0 +1,2 @@
+这可能是我比较少见的和墨鱼观点相左的回答。没办法，我被非直连坑了四年，我实在是真的太懂非直连的痛了，下一台机器，不是直连真不买。当然对于有虚拟机passthrough和opencl独占需求的用户，如果不会折腾的话，我倒反而还是建议买非直连的机器好搞简直就是开箱即用。
+https://www.zhihu.com/question/465832825/answer/1950633348?utm_source=zhihu&utm_medium=social&utm_oi=729630383821324288

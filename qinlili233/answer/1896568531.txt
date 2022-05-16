@@ -1,0 +1,3 @@
+如何看待 IE 浏览器将于 2022 年 6 月 15 日正式停用？还有哪些软件兴起后又退出历史舞台？
+<p data-pid="2EdODHCM">最多删除ie启动方式，ie的trident内核肯定还会保留</p><p data-pid="QjrnQgZl">大量程序内嵌的WebView还在依靠ie内核，如果去掉内核这些程序都会崩溃</p><p data-pid="nQp6vFEP">edge直到90.0才支持webview模式（华硕armony crate成为首批使用edge webview控件的uwp程序之一），或许这也是微软敢去掉ie的原因吧，毕竟之前除了内嵌cef外只有ie webview可用，而内嵌cef包体积60m起步</p>
+1621503756

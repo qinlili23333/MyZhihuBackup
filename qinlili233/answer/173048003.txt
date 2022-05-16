@@ -1,0 +1,5 @@
+斐讯k2路由器不刷固件能用吗？
+<p data-pid="vxTLiNGh">k2折腾也好久了，简单讲讲</p><p data-pid="ihHvRj4W">首先不刷的话功能太少毫无可玩性</p><p data-pid="FyyD8rXP">其次就算不刷固件，也一定要刷breed或者uboot！！！(就是按着重置键开机时进的)</p><p data-pid="zI8T5Mtu">墙裂推荐刷openwrt系固件，可玩性高</p><br><br><p data-pid="UU_EfPQU">刷不上或者卡顿请按照下面的芯片硬改</p><p data-pid="EowIO6Vl">闪存
+W25Q128 （16M) 8脚 </p><p data-pid="dpXRkpOl">W25Q256  (32M) 16脚 </p><p data-pid="IkNB_2xA">注意CH341A编程器不支持
+ </p><p data-pid="pKLfXoRC">内存 </p><p data-pid="c_D0UwS3">W972GG6JB-25 256M</p><p data-pid="rNkRvZAC"> W971GG6JB-25 128M </p><p data-pid="CibAt4L4">拆二手的DDR2内存条 要2RX16的 16位的 </p>
+1495450296

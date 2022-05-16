@@ -1,0 +1,3 @@
+怎么看待微软砍掉 .NET 6 热重载代码惹恼开源社区？
+<h2>用户喜欢什么，微软就砍什么</h2><h2>Fuck you, Microsoft!</h2><p data-pid="daSPnelQ">本来已经着手把nwjs的项目往.net+webview2上移植了，这下不移植了，没有热重载我测试得累死</p><p data-pid="tdnKvN18">webview2这东西开发体验也是一坨屎，要不是可以削减安装包体积谁用啊</p><p data-pid="wPQ6ee0b">包大点就大点，nwjs好歹有热重载</p><p></p><p></p>
+1635556247

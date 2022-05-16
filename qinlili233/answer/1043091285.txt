@@ -1,0 +1,3 @@
+灵越7580  i58265u  MX250 可以换CPU和显卡么？
+<p data-pid="GqaUKrQp">CPU可以更换到8665U(理论上10710U也有希望,但可能BIOS不认),FCBGA1528的U都可以试试看都有希望启动</p><p data-pid="68ESr6Ad">不过,因为CPU是焊死在主板上的,你需要专门的机器来更换,或者艺高人胆大的话...试试热风枪?</p><p data-pid="Wp76nt91">具体更换操作,可以看看维修厮的视频<a href="http://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DXtRyP-aKxVE" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://www.</span><span class="visible">youtube.com/watch?</span><span class="invisible">v=XtRyP-aKxVE</span><span class="ellipsis"></span></a></p>
+1582859259

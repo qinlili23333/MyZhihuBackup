@@ -1,0 +1,3 @@
+以后 Mac 换了 ARM 架构，还能黑苹果吗?
+<p data-pid="fE2D9MyS">可以，这和运行win10的arm设备比如surface pro x更配</p><p data-pid="xYxeNtVZ">我相信早晚有办法在树莓派上启动arm版macos</p><p data-pid="Od3AnCx-">同样，甚至可能能在手机上启动</p>
+1595799994

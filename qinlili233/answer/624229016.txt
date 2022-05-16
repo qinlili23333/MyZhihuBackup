@@ -1,0 +1,3 @@
+大容量QLC真的能替代机械硬盘吗？
+<p data-pid="ACiRwPXb">目前出的几个QLC，缓存用完后速度都只有两位数，而最快的机械现在已经480m/s了（希捷双臂）</p><p data-pid="zwkTy-0-">QLC除了4k读写优势外，真的不如机械</p><p data-pid="FYcXfgku">有买QLC的钱，买个万转机械不好吗？</p><p data-pid="g7ZGULCH">除了笔记本经常移动，不推荐机械外，固定的存储，QLC真没有优势</p><p><br> </p>
+1552726058

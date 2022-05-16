@@ -1,0 +1,6 @@
+代码里写很多if会影响效率吗?
+<p data-pid="gdgngU1c">会</p><p data-pid="iaOx_VCe">我尽可能少写if</p><p data-pid="6JyM7Rm7">举个例子</p><p data-pid="JOHwI2L9">选择菜单</p><p data-pid="jPpp04pd">set /p xuanze＝请输入你的选择</p><p data-pid="1djeEzU0">假设有1和2两个选项，下面是这样的</p><p data-pid="7w1sGpxZ">:1
+代码部分1
+:2
+代码部分2</p><p data-pid="dwA6ZSW5">不用if我这么写</p><p data-pid="LQDyxDGx">goto %xuanze%</p><p data-pid="Pn6klYv9">用if我要这么写</p><p data-pid="oEI1F1o8">if %xuanze%＝＝1  (goto 1) else (goto 2)</p><br><p data-pid="pAj22h8-">你觉得哪个简单？当然不用if简单啊</p><p data-pid="ItH80wNo">而且如果选项有很多很多比如40个</p><p data-pid="VfDT8akl">goto %xuanze%仍然可以用</p><p data-pid="54oO7h-c">if的话就要</p><p data-pid="cTJXiSGH">if...else(if...else(if...else(..........省略总计40个.............)))</p><p data-pid="Z6UpQOTK">你说选哪个方便</p><br><br><br><p data-pid="5H7rWZvY">当然if有他的好处，goto如果输入一个不存在的选项会直接crash</p><p data-pid="Hsd3K7c5">如果if 可以层层递进，如果到了最后一层仍然不匹配可以返回输入界面</p>
+1498687777

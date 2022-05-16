@@ -1,0 +1,3 @@
+页面将一部分计算放在前端页面是否可以减轻服务器压力？
+<p data-pid="xJBBK19a">是</p><p data-pid="fgcDy--2">比如我们来看一个经典的例子</p><a href="http://link.zhihu.com/?target=http%3A//inloop.github.io/svg2android/" data-draft-node="block" data-draft-type="link-card" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">inloop.github.io/svg2an</span><span class="invisible">droid/</span><span class="ellipsis"></span></a><p data-pid="fCXG0_I-">这个页面可以把svg转换为Android矢量xml</p><p data-pid="I14ly0b3">这是一个完全静态的页面，它没有服务器，它只是托管在github pages上</p><p data-pid="8yOP0TIF">它完全使用js，读取并处理文件</p><p><br></p><p data-pid="0bUm0kPe">以及包括像基于套壳的nwjs，electron等等，都是前端计算的典例</p><p><br></p><p data-pid="92A8o2e1">你看，把计算放在前端甚至可以实现无服务器运行</p><p></p>
+1587036695

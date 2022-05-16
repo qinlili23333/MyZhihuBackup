@@ -1,0 +1,3 @@
+未来三年内手机主流的运行内存会升到12G嘛？
+<p data-pid="ehjypc8C">必然</p><p data-pid="-RAxSzyW">在火龙800时代，最多大家也就做3g内存，因为800/801是32位soc，做4g也用不上</p><p data-pid="WcjXLXRU">810时代开始大家都开始上4g了，64位时代到来，内存全面进入4g时代，但是810最大也就支持4g，做不了更大</p><p data-pid="-Sh6jR5T">82x最大可以支持6g，所以6g内存出现了</p><p data-pid="yq8iaVll">845最大支持8g，8g内存出现了</p><p data-pid="deqGVJKv">855最大支持16g，但是受限于成本只出现了12g内存</p><p data-pid="CU9Bdeqc">你看这内存发展，就是跟着soc最大支持来的</p><p data-pid="Y6jfgAq8">所以等各家soc最大支持都超过12g了肯定12g普及了</p>
+1571267027

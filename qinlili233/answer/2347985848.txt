@@ -1,0 +1,3 @@
+我是租客，客厅有个路由器牵了一根网线到我卧室，目前链接的是我笔记本，笔记本给手机开热点很慢，怎么办？
+<p data-pid="9hcFzaCI">如果没猜错的话是intel的网卡</p><p data-pid="yuWLSOoF">这就不得不提到intel那个铸币驱动的含金量了</p><p data-pid="Nc2fM7l6">这个驱动铸币在哪里呢？你不连接5ghz的wifi，就开不出5ghz的热点</p><p data-pid="DW_3wsqR">对于ax时代以前的大部分intel ac网卡（包括8260，9260等），有一个非常离谱但有效的解决方法</p><p><br></p><p><br></p><p data-pid="-od1m37D">第一步：手机开一个5ghz热点，电脑连接这个热点</p><p data-pid="0B4wXqsp">第二步：电脑热点设置改为5ghz，电脑打开热点</p><p data-pid="VFKfsUH1">第三步：手机热点关闭，连接电脑热点</p><p><br></p><p><br></p><p data-pid="pZ5YDhle">至于为什么intel到现在这么多年了都不修这个问题，我暂且蒙在新德里</p><p data-pid="agvwbtzi">高通网卡没有这毛病，所以显然不是windows的锅</p>
+1644833270

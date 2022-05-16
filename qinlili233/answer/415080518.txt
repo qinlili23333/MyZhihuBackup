@@ -1,0 +1,3 @@
+4k30帧与4k60帧的区别？
+<p data-pid="Pn0xicaq">给你一个4k60fps的视频</p><p data-pid="5ywWu-gz">[waifu2x-4k by qinlili]灵梦60fps.mp4: <a href="http://link.zhihu.com/?target=https%3A//qinlili.ctfile.com/fs/8067059-211402766" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">qinlili.ctfile.com/fs/8</span><span class="invisible">067059-211402766</span><span class="ellipsis"></span></a> </p><p data-pid="ynl5SjrQ">找一台同时有hdmi1.2和dp的4k显示器，先插dp，播放一次，此时是60帧，再插hdmi，播放一次，此时是30帧</p><p data-pid="L2b3KBVJ">经过这样的对比，你就会显著感觉出差距了</p>
+1528710564

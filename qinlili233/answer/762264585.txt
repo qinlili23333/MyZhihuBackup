@@ -1,0 +1,3 @@
+为啥充电宝数据线不更新type-C？
+<p data-pid="dTfLqpo6">因为你没看高端充电宝，支持pd的充电宝全是typec，因为pd不能用microUSB</p><p></p>
+1564060372

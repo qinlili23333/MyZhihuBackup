@@ -1,0 +1,3 @@
+运营商不愿意给公网IP怎么办？
+<p data-pid="A1554iNg">公网ip和网络是否稳定毫无关系</p><p data-pid="LaajC0MD">一直稳定的连不上用不了，可能是没有公网ip问题</p><p data-pid="wT62lrNC">时好时坏，那么和公网ip一定无关</p><p data-pid="0busC9I_">请不要啥锅都甩给公网ip</p><p data-pid="uwOuUwBw">建议先检查设备问题，把稳定性解决了，再去搞公网ip</p><p><br></p><p data-pid="wxbvUmQe">至于搞不到公网ip怎么办，很简单，工信部一波就拿下了，非常简单</p>
+1627534346

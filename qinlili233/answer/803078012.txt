@@ -1,0 +1,3 @@
+关于闪耀暖暖分享获得奖励的困惑 叠纸为什么要自己欺骗自己 也教会我们可以弄虚作假？
+<p data-pid="ZXE0FtNV">简单逆向了一下</p><p data-pid="w71kQctQ">憨批叠纸用的startActivity而不是startActivityForResult，当然不能判断有没有分享成功了</p><p></p>
+1566799095

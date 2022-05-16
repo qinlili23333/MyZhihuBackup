@@ -1,0 +1,3 @@
+刚买的笔记本要进行哪些配置？
+<p data-pid="O2xg6DZD">0，先下载chrome，得到一个能用的浏览器（可能需要把魔法丝袜先请回来）</p><p data-pid="tZ05uOYU">1，下载idm/aria2，得到一个能用的下载工具</p><p data-pid="GHmUgY4M">2，手动更新所有能更新的驱动</p><p data-pid="NOlZRHVB">3，下载office（推荐OTools自动完成）</p><p data-pid="nNw4HQek">4，配置开发环境（vs2017，python，java等）</p><p data-pid="GOYYqtpB">5，校准屏幕颜色</p><p data-pid="nQR_LzFq">6，更新系统到最新版本</p><p data-pid="-8KsI5Vz">7，在这里做一个备份</p><p data-pid="6NFcyGMr">8，安装各类不需要配置环境的软件比如adobe全家桶，magix全家桶等等</p><p data-pid="NmYVJ-uL">9，安装各类游戏平台</p><p data-pid="di9Z_aAb">10，禁用各类无用服务，修改组策略禁用windows defender，修改自动更新频率和触发器</p><p data-pid="UVqPwVv4">到现在，这样的笔记本我已经可以日常使用了</p>
+1535780638

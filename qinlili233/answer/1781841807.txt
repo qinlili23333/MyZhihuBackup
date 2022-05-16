@@ -1,0 +1,3 @@
+都2020了amd和intel为什么还在生产双核处理器？
+<p data-pid="0OIkkkt7">你是觉得4.5w的tdp里塞四个八个二十四个核心会比两个表现好吗？</p><p data-pid="eXdTZqUt">低功耗设备也是有需求的，比如surface go</p>
+1615816916

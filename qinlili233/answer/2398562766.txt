@@ -1,0 +1,3 @@
+如何评价 Thinkbook 14+ 的首发售价，RTX 2050 是否加价过多？
+<p data-pid="0HNx7j6w">这机器的2050版本其实我不推荐，可以说2050版本没什么性价比</p><p data-pid="QOk0xXKO">2050最大的一刀砍在显存带宽和pcie通道上</p><p data-pid="PfBFcXti">64bit显存和4.0x8通道是一个比较大的瓶颈</p><p data-pid="YWHMqqTn">独显直连情况下这个问题不会表现得那么严重，但这机器显然是optimus的，带纯核显sku的机器我就没见过有mux直出的</p><p data-pid="vShDEaad">optimus下独显渲染完画面需要先copy回核显显存（即内存）里，这必然会占用大量的带宽</p><p data-pid="4ID4XMPQ">这也就是为什么独显直连在特定游戏中能相比optimus提升最多一倍帧率的原因，带宽瓶颈是大多数参数党都忽略了的问题</p><p><br></p><p data-pid="kax1CZWh">如果用雷电4外接显卡传回内屏玩的话，可怜的x4带宽更少，将面临更剧烈的性能损失，所以一直以来外接显卡都不推荐上高端卡就是这个原因，发挥不出来</p><p><br></p><p data-pid="F5lJkCZA">当然，离屏计算是不需要copy带宽的</p><p></p><p></p>
+1647769091

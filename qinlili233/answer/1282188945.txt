@@ -1,0 +1,3 @@
+有没有可能通过steam的云存档功能将汉化补丁上传以免去之后卸载重装后仍需要打补丁的麻烦?
+<p data-pid="POIJEtT5">可以是可以，只是你需要把补丁用mklink的办法放到存档目录</p><p data-pid="UYydYVF1">但是你每次换机器或者重装都要手动mklink，还是不能全自动</p><p data-pid="fHPHUqcw">而且mklink只能在ntfs上使用，所以exfat格式的分区你还用不了这个功能</p><p><br></p><p data-pid="tLIazS4Y">可以参考我很久以前写的文章<a href="https://zhuanlan.zhihu.com/p/27983563" class="internal"><span class="invisible">https://</span><span class="visible">zhuanlan.zhihu.com/p/27</span><span class="invisible">983563</span><span class="ellipsis"></span></a></p>
+1592106146

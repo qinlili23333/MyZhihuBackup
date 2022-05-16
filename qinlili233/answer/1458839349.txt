@@ -1,0 +1,3 @@
+是选择Ac+Ap，还是选择mesh？
+<p data-pid="8GKQ3z9e">每个房间都有网线接口，那就ac+ap</p><p data-pid="RM0UE_Oj">每个房间放一个挂墙/吸顶ap，全部poe供电</p><p data-pid="ZpKTVgya">切记，因为你每个房间现在都有ap，一定要把ap功率拉低，至少75%，最好是直接拉到50%，一些特别小的房间甚至25%都足够了，只要保证单个房间满格就行，如果所有ap全开100%功率反而容易互相干扰</p><p><br></p><p data-pid="C3-R5I2L">ac下挂一个poe交换机</p><a data-draft-node="block" data-draft-type="mcn-link-card" data-mcn-id="1286325363661426688"></a><p data-pid="NiWtfDY2">然后poe交换机的网口连接到各个房间去（请检查墙体内网线是否可承载大电流，如预埋网线质量太差可能导致供电损耗过大ap无法启动）</p><p></p>
+1599463952

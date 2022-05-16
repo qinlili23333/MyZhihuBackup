@@ -1,0 +1,3 @@
+为什么7-Zip至今没取代ZIP？
+<p data-pid="wvTPHGab">在大多数编程语言中原生支持也很重要</p><p data-pid="UiUgqOAK">我用 .net 6.0写一个软件更新器，如果我用zip，那么我不需要引第三方nuget包，用 .net 自带的ZipArchive类就解决了</p><p data-pid="1wyr3fq8">那你说我为什么要多花时间去研究7z的nuget库呢？</p><p></p>
+1646492101

@@ -1,0 +1,3 @@
+台式电脑突然出现 Bootmgr  is compressed…怎么解决？
+<p data-pid="j2NoT2z-">切换到uefi启动可以解决</p>
+1519919408

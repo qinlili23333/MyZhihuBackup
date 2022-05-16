@@ -1,0 +1,3 @@
+为什么一些程序员很傲慢？
+<p data-pid="C0YL3rLz">首先，你问的问题太简单了</p><p data-pid="BTens_sp">有官方文档或者能搜到解答的问题，骂你笨非常正常</p><p data-pid="khVCSjkk">其次写代码遇到问题，第一反应应该是去看文档，没文档或者文档不能解决问题，那就去看看issue或者stackoverflow里面有没有人问过，没有的话自己提一个</p><p><br></p><p><br></p><p data-pid="MYvYxnf5">反正每次有人问我xxx怎么做我都觉得他比较央青</p><p data-pid="dKXaNnpb">但如果有人给我的项目提了个issue我就觉得是不是我真写出bug了</p>
+1631841114

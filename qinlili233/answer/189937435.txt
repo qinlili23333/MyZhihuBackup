@@ -1,0 +1,3 @@
+国内ROM哪些功能是原生Android不解锁、Root做不到的？
+<p data-pid="u3aSOX9C">泻药</p><p data-pid="4PI7l09Y">所有功能都有替代品</p><p data-pid="seQ3AiHO">什么你说没有root？adb解决问题啊</p><p data-pid="Uror-_BE">备份不能备份数据？进rec备份啊twrp欢迎你</p><p data-pid="JdXLVkrM">长截屏有第三方工具免root，用的投屏权限做的</p><p data-pid="fZjqST6r">电话短信标记大把大把xx安全卫士这种毒瘤有这种功能</p>
+1498539283

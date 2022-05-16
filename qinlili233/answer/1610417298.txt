@@ -1,0 +1,3 @@
+为什么有些前端一直用 div 当按钮，而不是用 button？
+<p data-pid="36Xs8bcJ">我是建议使用button的，语义化标签，最大的优势就是自带的界面表现</p><p data-pid="JegKe6LK">如果css因为某些原因没有加载出来或者和浏览器不兼容，语义化标签可以保证页面的内容仍然可以显示，而如果全部div，就会导致css加载失败时整个页面完全无法使用</p><p data-pid="iJtL272Q">一些设备比如kindle的浏览器，并不支持全部css样式，语义化标签可以保证这些设备上的使用体验</p><p data-pid="Pfqr4KfK">另外语义化标签可以在使用getElementsByTagName时，获得一个更小的array，有效节约内存和js执行时间</p><p></p>
+1607062133

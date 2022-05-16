@@ -1,0 +1,2 @@
+实锤三星给优酷乐视等视频软件以及微信qq开后台后门允许其后台运行，代码位于设备维护（com.samsung.android.lool）的Lcom/samsung/android/sm/database/a;类
+https://pica.zhimg.com/80/v2-4ef1df638d5581edd1c259b8470a693b_qhd.jpg

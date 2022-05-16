@@ -1,0 +1,3 @@
+win10的电脑word,exacle,ppt都打不开，提示无法启动错误0x0000142？
+<p data-pid="YkYKeiPK">泻药</p><p data-pid="ws8wPrWD">ccleaner删除安装记录，下载clicktorun版office找到setup64.exe运行可以解决问题</p>
+1521355957

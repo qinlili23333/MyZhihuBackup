@@ -1,0 +1,3 @@
+A卡和N卡的架构有什么区别？
+<p data-pid="2VCoa_qi">nvidia是geforce8000系列进入的cuda流水线时代，农企从hd7750开始进入gcn架构时代</p><br><br><p data-pid="nv1GvLKd">看nvidia的文档我能静下心看进去</p><p data-pid="UXwBhc0X">你要我看农企的文档那你不如叫我自杀</p><p data-pid="L-aWr9t4">另外针对vs2017，nvidia提供了nsight插件（虽然400m的体积是真的大），而农企啥也没推出，开发者好感度-99</p><p data-pid="risCQ3TG">虽然说nsight会导致vs2017启动变慢一大截</p>
+1525050335

@@ -1,0 +1,1 @@
+百度加固很聪明，没有new application，导致xposed找不到hook点一直不会开始hook，自动脱壳根本不起作用，但是，明明启动后直接手动dump就能把dex脱出来啊

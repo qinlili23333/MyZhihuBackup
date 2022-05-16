@@ -1,0 +1,3 @@
+有哪些曾经的硬件杀手级的老游戏，它的画面是怎样的？（有图吗？）当时是怎样的配置才能玩转？
+<p data-pid="KVctGVXI">Minecraft</p><p data-pid="PF_GA9d2">不用解释，这个游戏想吃多少性能就吃多少</p><p data-pid="hPzX7qRw">多核优化(负优化)很到位，来多少核吃满多少核(5820k高频红石32渲染已跪)</p><p data-pid="Zg88hs6r">内存吃的很到位(16g日常爆内存)</p><p data-pid="NObcmG1p">显卡吃的更到位(980ti满载60fps不到)</p><p data-pid="OqfUsglx">无需上图，玩过的都知道</p><p data-pid="TaWPiLBQ">如果你想装十几个甚至几百个mod的话，墙裂建议e5＋64g内存！！！</p><p data-pid="TZZVAwTR">这游戏促使我不停的更新硬件，每一次版本更新都是性能需求更新</p>
+1490957936

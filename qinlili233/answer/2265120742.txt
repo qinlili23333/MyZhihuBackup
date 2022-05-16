@@ -1,0 +1,3 @@
+为什么本人笔记本使用 Linux 和 Windows 编译速度完全不一样？（尤其是arduino）？
+<p data-pid="PCM1auAT">空项目两分钟肯定不对劲</p><p><br></p><p data-pid="i6zp204e">可能是某些准备工作出了问题</p><p data-pid="0rZIQjDX">比如某些项目编译前会执行pip install xxx模块</p><p data-pid="ar1-qieL">windows下设置了系统代理但没有设置http_proxy变量时pip会超时五次然后失败</p><p data-pid="tJ2g5aPk">但linux下只能使用变量设置代理</p><p data-pid="TWp2sltc">然后windows下超时五次就差不多两分钟了</p><p></p><p></p>
+1639121074

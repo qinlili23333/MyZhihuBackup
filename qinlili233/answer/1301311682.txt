@@ -1,0 +1,3 @@
+1万3左右能不能给我挤一个2080ti出来？
+<p data-pid="Qcne8xxh">完全可以</p><p data-pid="bdCPTfjV">x58现在彻底白菜价了，300不到，两颗x5650+工作站主板拿下</p><p data-pid="jLu_B5cy">recc 4g，22一根来他个四根</p><p data-pid="UjhCFl0S">400捡一块sm843（480g），这种老平台就别上nvme了没法启动的</p><p data-pid="-ouNPyZr">80块的台达800w电源来个一条</p><p data-pid="BBZXbw75">现在才花了一千不到</p><p data-pid="cd5a_buD">最后1w1来个2080ti</p><a data-draft-node="block" data-draft-type="mcn-link-card" data-mcn-id="1259406113310998528"></a><p data-pid="OyGWhWXM">还剩下1000怎么办？散热器换换，加点RGB信仰，或者换个好点的鞋盒，如果实在找不到地方用就再加点内存或固态</p><p><br></p><p><br></p><p data-pid="3NCBufi8">至于到底什么需求才能在这样的平台上吃满2080ti，那就是：nvenc视频编码！拿来做8k视频编码，CPU几乎没占用，2080ti直接风扇起飞</p><p data-pid="aJubF4yE">当然，特定模型炼丹也可以吃满，以及其他各类opencl大规模并行计算</p><p></p>
+1593046001

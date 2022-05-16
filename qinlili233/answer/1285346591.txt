@@ -1,0 +1,3 @@
+如何评价 MacBook Pro 16 寸新增的 Radeon Pro 5600M 独立显卡选配项？
+<p data-pid="fEDEIUA-">5600m=5600xt换了hbm2显存</p><p data-pid="INtHgHUN">pro5600m=5700xt换了hbm2显存</p><p data-pid="GCv6QHBk">5600xt的tdp是150w</p><p data-pid="h5XQBTA2">5700xt的tdp是235w</p><p data-pid="HItwDFJL">果子必压不住5600m</p><p data-pid="F_EemFDo">虽然5600m理论性能可以战平2070maxq</p><p data-pid="zM6Nf6Rx">但我觉得如果以游戏持续帧率（1小时以上）为基准的话，mbp上的5600m估计只能战平1660ti，而且还是在这个游戏不怎么吃cpu的前提下</p><p><br></p><p data-pid="lMsBd37s">感觉就和那些把2080塞本子里的一样，大多是噱头，能真正压住的是少数</p><p data-pid="zb9WAD-4">我不推荐选配，真有高显卡需求老老实实同价位上败家眼去</p>
+1592279998

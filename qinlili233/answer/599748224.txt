@@ -1,0 +1,3 @@
+「京东金融 app 疑似自行获取用户私人图片」是真的吗？可能有哪些风险？
+<p data-pid="4jpaPtw4">分析结果已经出来</p><p data-pid="XEOhAeK-">京东金融本身没有窃取用户隐私，但是存在一个莫名其妙的显示截图的功能，因为开源库的代码设计导致截图出现在私有目录下</p><p data-pid="Sp6EX-Kr">请程序员和产品经理享受五emoji分尸</p><br><p data-pid="1qMZt6vb">具体分析看我文章</p><p data-pid="ifj4sIIC">文章第一节<a href="https://zhuanlan.zhihu.com/p/56875556" class="internal"><span class="invisible">https://</span><span class="visible">zhuanlan.zhihu.com/p/56</span><span class="invisible">875556</span><span class="ellipsis"></span></a></p><p data-pid="hO2PCLp2">文章第二节<a href="https://zhuanlan.zhihu.com/p/56877625" class="internal"><span class="invisible">https://</span><span class="visible">zhuanlan.zhihu.com/p/56</span><span class="invisible">877625</span><span class="ellipsis"></span></a></p>
+1550303361

@@ -1,0 +1,1 @@
+紧急警告：刚发现chrome插件Font Changer已被黑客利用，被修改过的moment.js会注入来自cwsstats。com和thisadsfor。us的恶意js，请务必立即卸载该插件。该插件可被change all UI fonts完美替代。

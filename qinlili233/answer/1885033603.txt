@@ -1,0 +1,3 @@
+微软有能力控制每一台装windows系统的电脑吗？
+<p data-pid="1YFHAHmz">可以</p><p data-pid="8OBnILJE">通过windows update服务推送一个恶意更新就行</p><p data-pid="5bpfq_7z">update服务是TrustedInstaller高权限，比管理员权限还高</p><p data-pid="GMy4gn4H">所以用update服务提权也是很多病毒选择的攻击点</p>
+1620949237

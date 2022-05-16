@@ -1,0 +1,3 @@
+b站新版首页动态如果字体模糊的话把max-height去掉就清晰了
+https://pic4.zhimg.com/80/v2-e00e426aa02e8e8cd1ac513b1fa30505_qhd.jpg
+https://pic2.zhimg.com/80/v2-50a6e3b806543aa34ef38191bbdc414f_qhd.jpg

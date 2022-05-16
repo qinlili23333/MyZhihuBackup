@@ -1,0 +1,3 @@
+像纪念碑谷这类游戏是怎么做出来的？
+<p data-pid="gvDCfjJN">纪念碑谷使用unity引擎</p><p data-pid="6iRp_QTo">所以做出来的方法就是：在电脑上安装unity3d，登录unity账号并配置许可证（作为商业游戏，纪念碑谷这类游戏必须使用付费的许可证），安装指定版本引擎的编辑器，启动编辑器，拖资源写代码，打包导出unity项目，打开Android studio，配置gradle，使用gradle生成apk文件，对齐apk文件，签名apk文件，就这么做出来了</p><p></p>
+1573008153

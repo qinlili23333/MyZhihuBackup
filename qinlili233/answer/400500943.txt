@@ -1,0 +1,3 @@
+微信聊天记录如何快速备份到电脑呢？
+<p data-pid="M47RFbbq">adb所在盘根目录建一个wxbackup文件夹，然后运行下面的命令</p><p data-pid="4yOqmtX4">adb devices</p><p data-pid="i9iBrd_T">adb root</p><p data-pid="bSP8Weyg">adb pull /data/data/com.tencent.mm wxbackup</p>
+1527199788

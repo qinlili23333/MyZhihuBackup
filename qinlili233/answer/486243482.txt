@@ -1,0 +1,3 @@
+WPS相比Office2016有哪些不足或者区别？
+<p data-pid="CLCa6bRT">我在学校里做展示的时候，彩排时我提前开始装msoffice2016，某老师问我为什么不用WPS明明WPS快，我默默用WPS打开了我那个87M，大量4k+分辨率图片，每一页特效超过三十个，几乎所有文字都有3d投影的ppt，WPS当场直接崩溃</p><p data-pid="mUtsrXYm">后来msoffice2016装好了，打开，丝滑流畅</p><p data-pid="lBazc7wX">WPS对大文件处理能力就是狗屎</p>
+1536187742

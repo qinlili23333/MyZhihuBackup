@@ -1,0 +1,1 @@
+gs66更新bios后会出现拔掉电源重新插电后cpu功耗异常且卡的不能自理的情况，解决办法是用throttle stop打到High Performance再切回来一次就正常了之后就再也不会出问题了

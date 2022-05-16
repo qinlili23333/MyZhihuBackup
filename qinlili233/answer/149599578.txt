@@ -1,0 +1,3 @@
+那个牌子路由器可绑迅雷离线下载。可作简单NAS。投屏功能。？
+<p data-pid="81Ta4OIu">迅雷离线下载是个openwrt就能搞，这年头除了海思平台大概都可以openwrt了</p><p data-pid="9RxLQXiY">nas的话能接驳存储设备就行，CPU有USB/pcie/sata接口之一的能力就行</p><p data-pid="W0CkbC-n">投屏是WLAN DIRECT，不需要路由器，是两台设备直连的</p>
+1488552029

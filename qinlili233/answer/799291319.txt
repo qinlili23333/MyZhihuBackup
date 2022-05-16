@@ -1,0 +1,3 @@
+决定笔记本电脑日常轻度使用（浏览网页，看视频，编辑文档等）的流畅度是哪一个部分，怎样获得更快的流畅度？
+<p data-pid="2NH20PIs">笔记本是个木桶，任何一块板短了都会卡</p><p data-pid="6jYUgHG_">cpu太差劲，会卡</p><p data-pid="uodNX9To">内存太小/频率太低/单通道，会卡</p><p data-pid="xi3J31E6">显卡太差劲，会卡</p><p data-pid="-xllsx-p">硬盘太慢，会卡</p><p data-pid="tsQ1xUYC">散热太差，会卡</p><p data-pid="_0tELYCE">供电不足，会卡</p><p data-pid="Hymf_ceb">系统设置存在问题或冲突，会卡</p><p data-pid="AW7xCT9H">瞎装软件尤其是杀软和国产流氓，会卡</p><p data-pid="XgqlS1LE">软件开发者是憨批，也会卡</p><p><br></p><p data-pid="0QXY4ACj">只有以上任何一条都没有发生，笔记本才能流畅运行</p>
+1566525314

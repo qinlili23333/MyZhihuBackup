@@ -1,0 +1,3 @@
+想问下常用电脑的大佬们，电脑只有固态硬盘256G够用吗？
+<p data-pid="hcopshoR">不够。</p><p data-pid="0tH0Ndng">256g能装什么？系统30g，vs2019全家桶40g，Adobe全家桶15g，magix全家桶10g</p><p data-pid="h1168OFN">，Androidstudio5g，已经100g了，再装个战地1装个泰坦掉了2，满了...连虚拟机都没地方塞了</p><p></p><p></p>
+1556057665

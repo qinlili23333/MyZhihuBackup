@@ -1,0 +1,3 @@
+手机soc似乎性能过剩，开发逻辑是否该改变？
+<p data-pid="-2uKZ11I">不该。</p><p data-pid="gImVo0Oh">我一直坚持一个观点，那就是程序员不能仅仅追求程序跑起来，而要追求让程序高效率的跑起来</p><p data-pid="dFQxWay0">性能过剩，那就用更强的功能去榨干它，而不是用负优化</p><p data-pid="d6vNuMHH">现在大部分程序的消耗都超出功能应有的了</p><p><br></p><p data-pid="nXuhXIaz">另外，现在手机soc性能并没有过剩。</p><p data-pid="PBjlkf72">我自己网站的客户端，一个webview套壳，尽管我已经尽可能深度优化甚至人肉写smali了，启动速度在855上仍然达到了280ms左右，还是太慢了。我认为一个app，启动速度只有100ms以内，才有资格算快。（hello world的demo测试下来只用了14ms）</p><p></p>
+1571560749

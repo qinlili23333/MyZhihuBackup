@@ -1,0 +1,1 @@
+知乎在模拟器上闪退的问题算是基本弄清楚了<br>糟糕的程序员把DexHelper-x86.so给删掉了，但是DexHelper.so检测到x86架构设备时会主动加载DexHelper-x86.so，删掉后显然不能加载就抛出dolpen错误<br>如果把DexHelper.so直接改名为DexHelper-x86.so塞进去是没用的，因为这个so还是会检测到x86后不断的进入寻找x86.so的循环，最后爆栈<br>6.44是最后一个模拟器可用的版本，但是因为DexHelper.so的版本发生了变化，直接拖过来也不可用<br>目前在模拟器上正常使用知乎的办法就是单独新建一个模拟器把prop里面的x86去掉，但是则会导致支持x86的app也跑在houdini翻译模式下变慢<br>考虑写一个模块hook知乎的架构检测

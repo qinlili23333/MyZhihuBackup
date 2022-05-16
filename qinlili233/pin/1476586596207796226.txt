@@ -1,0 +1,1 @@
+我超，最新的mesa3d下能用vulkan跑osu了（低分辨率下比原生opengl帧率高，超过720p后会出现单核瓶颈，比opengl反而帧率低了）

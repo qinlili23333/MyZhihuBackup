@@ -1,0 +1,3 @@
+如何看待第三方测试结果为 iPhone 12 Pro 续航超过 Mate 40 Pro？
+<p data-pid="gJ4y0udm">就这么说吧</p><p data-pid="UoZd_Dlq">续航好不好，只要不是遇到810这种离谱的soc，真的是只看电池容量大小的</p><p data-pid="MnsocWy1">软件优化在续航上的体现根本超过不了10%</p><p data-pid="YbDrPizF">要想续航好，唯一的解决办法就是做大电池</p><h2>续航是唯一一个没有技术含量，把电池做大就可以解决的地方</h2><p data-pid="wY5f6mVl">5000mah真的就是比4000mah强，大1000mah你根本优化不出来，除非直接全局powersave调度，卡的用不了</p><p><br></p><p data-pid="86VDMQaB">三星，华为，小米，ov，华硕都认识到这一点了，果子（以及索尼和夏普）不知道还需要多少时间才能认清这点</p>
+1605568085

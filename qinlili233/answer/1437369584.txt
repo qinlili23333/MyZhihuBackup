@@ -1,0 +1,3 @@
+求一带pd充电的typec扩展HDMI或者dp接口 要能上4k 60hz的?
+<p data-pid="YtwMNiYH">苹果598元那个可以</p><p data-pid="T2KkibJr">那玩意原理是typec输出dp，转成hdmi，所以避开了牙膏厂的拉垮核显问题</p><p data-pid="tUF4puEt">就是有点小贵</p>
+1598522438

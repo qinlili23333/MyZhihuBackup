@@ -1,0 +1,3 @@
+你写代码的起手式是什么样的？
+<p data-pid="CeKyFD1U">console.log("Initializing...-Qinlili Tech")</p><p><br></p><p><br></p><p data-pid="FwwmWpxN">当某个项目引用了太多自己写的库之后，一运行就是十几个Initializing</p>
+1636426502

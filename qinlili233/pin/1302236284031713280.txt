@@ -1,0 +1,2 @@
+测试了下vulkan下的cad，虽然整体性能不如d3d11下，但是相比d3d11下竟然少了很多突然的卡顿
+https://pic2.zhimg.com/80/v2-8554bd69e44accb2ec98da8261f6f7bc_qhd.jpg

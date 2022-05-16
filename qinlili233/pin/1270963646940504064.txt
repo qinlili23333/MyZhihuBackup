@@ -1,0 +1,1 @@
+某些显示器的typec真的就只是把typec作为dp的interface用，连pd协议都不支持，手机一插就是五福一安

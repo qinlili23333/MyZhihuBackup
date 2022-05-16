@@ -1,0 +1,2 @@
+铁总这个nt页面，页面是https，下载文件是http，点下载当然就被chrome拦截了，写这个页面的程序员不知道高版本chrome会拦截https页面上的http下载么
+https://pic4.zhimg.com/80/v2-fdeb41f2bde4751ceba3ba09b8e46bac_qhd.jpg

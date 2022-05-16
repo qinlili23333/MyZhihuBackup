@@ -1,0 +1,3 @@
+苹果Mac迁移到arm架构，那2020款MacBook Pro还值得买吗?
+<p data-pid="oLw2ylnr">值得</p><p data-pid="5xc59gCz">刚迁移到arm的时候肯定需要架构翻译，架构翻译的效率损失非常大</p><p data-pid="iuspN-E7">隔壁windows的x86翻译到arm效率为30%左右，你可以参考一下</p><p data-pid="UTES9mpz">也就是说，只有arm芯片理论算力达到x86的3.3倍，两者才能运行x86程序时性能相等</p><p data-pid="fJYzb4a5">目前大多数程序都尚未针对arm编译，.net这种天然跨平台的还好，有些老程序代码里面甚至还夹杂着汇编的，上arm非常困难</p><p><br></p><p data-pid="8uj00bxi">等哪天架构翻译效率达到60%了，或者60%以上软件都针对arm编译了，再考虑arm桌面端设备吧</p>
+1592280928

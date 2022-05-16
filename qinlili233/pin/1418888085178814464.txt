@@ -1,0 +1,2 @@
+把chrome的ua改成firefox，清除b站全部cookies和local storage后重新打开b站登录，可以体验新版的b站首页，之后ua恢复也可以保留
+https://pic4.zhimg.com/80/v2-e268d88adc594e58c2e848c61ec523ad_qhd.jpg

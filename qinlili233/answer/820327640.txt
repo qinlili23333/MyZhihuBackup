@@ -1,0 +1,3 @@
+WPS 在什么方面比 Office 强，在什么方面比 Office 弱？
+<p data-pid="tUmaUxYU">WPS厉害在它基于qt实现了这么多功能，因为基于qt，WPS的跨平台能力很显然更强。（所以wps支持linux而ms office不支持）</p><p data-pid="1QfW4kZW">ms office最牛批的是完全自主实现的click to run，首次启动只需要下载极少文件，边运行边下载/更新，再也不怕启动前需要更新了</p>
+1568182222

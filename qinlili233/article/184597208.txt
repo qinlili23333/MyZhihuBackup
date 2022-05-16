@@ -1,0 +1,31 @@
+开启知乎网页版隐藏的夜间模式
+<p data-pid="iwp6ntTP">偶然间在知乎页面上打开f12,发现data-theme下有个light</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/v2-7171094f8c7622eb3d412209fdd65de8_720w.jpg?source=3af55fa1" data-caption="" data-size="normal" data-rawwidth="707" data-rawheight="112" class="origin_image zh-lightbox-thumb" width="707" data-original="https://pic3.zhimg.com/v2-7171094f8c7622eb3d412209fdd65de8_r.jpg?source=3af55fa1"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='707'%20height='112'&gt;&lt;/svg&gt;" data-caption="" data-size="normal" data-rawwidth="707" data-rawheight="112" class="origin_image zh-lightbox-thumb lazy" width="707" data-original="https://pic3.zhimg.com/v2-7171094f8c7622eb3d412209fdd65de8_r.jpg?source=3af55fa1" data-actualsrc="https://pic2.zhimg.com/v2-7171094f8c7622eb3d412209fdd65de8_720w.jpg?source=3af55fa1"></figure><p data-pid="0E5BTJUL">改成dark试试,果然就是夜间模式</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/v2-1699ddabebebdce00d93ba12b345ab2b_720w.jpg?source=3af55fa1" data-caption="" data-size="normal" data-rawwidth="2184" data-rawheight="1952" class="origin_image zh-lightbox-thumb" width="2184" data-original="https://pic3.zhimg.com/v2-1699ddabebebdce00d93ba12b345ab2b_r.jpg?source=3af55fa1"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='2184'%20height='1952'&gt;&lt;/svg&gt;" data-caption="" data-size="normal" data-rawwidth="2184" data-rawheight="1952" class="origin_image zh-lightbox-thumb lazy" width="2184" data-original="https://pic3.zhimg.com/v2-1699ddabebebdce00d93ba12b345ab2b_r.jpg?source=3af55fa1" data-actualsrc="https://pic2.zhimg.com/v2-1699ddabebebdce00d93ba12b345ab2b_720w.jpg?source=3af55fa1"></figure><p data-pid="2NUTBU_N">那么现在我们要让这个过程自动化,显然,该写脚本了</p><p><br></p><p data-pid="DkssiduV">显然,html这个大标签,它没有id也没有class,但是</p><p data-pid="6Q5UIfP7">一个网页里面必然就一个html标签</p><p data-pid="XGFAZDOw">那就好办啊</p><div class="highlight"><pre><code class="language-text"><span></span>document.getElementsByTagName("html")[0]
+</code></pre></div><p data-pid="85ETIGlS">根据Tag获取这个html对象不就完事了</p><p><br></p><p data-pid="QLtwb3V_">那么该怎么设置这个属性呢?当然是setAttribute啊</p><div class="highlight"><pre><code class="language-text"><span></span>.setAttribute("data-theme","dark");
+</code></pre></div><p data-pid="PreSBHBC">这样就可以了</p><p><br></p><p><br></p><p data-pid="aQiAA0C_">拼起来,试试效果</p><figure data-size="normal"><noscript><img src="https://pic1.zhimg.com/v2-643e8b2c1b13db031c3a32ec2486441b_720w.jpg?source=3af55fa1" data-caption="" data-size="normal" data-rawwidth="3537" data-rawheight="1936" class="origin_image zh-lightbox-thumb" width="3537" data-original="https://pica.zhimg.com/v2-643e8b2c1b13db031c3a32ec2486441b_r.jpg?source=3af55fa1"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='3537'%20height='1936'&gt;&lt;/svg&gt;" data-caption="" data-size="normal" data-rawwidth="3537" data-rawheight="1936" class="origin_image zh-lightbox-thumb lazy" width="3537" data-original="https://pica.zhimg.com/v2-643e8b2c1b13db031c3a32ec2486441b_r.jpg?source=3af55fa1" data-actualsrc="https://pic1.zhimg.com/v2-643e8b2c1b13db031c3a32ec2486441b_720w.jpg?source=3af55fa1"></figure><p><br></p><p data-pid="1UbEb0Gc">那么接下来,要实现检测浏览器是否在暗色模式</p><p data-pid="83bBcjc7">很好办,copy一下前人的代码</p><div class="highlight"><pre><code class="language-text"><span></span>    if (
+        window.matchMedia &amp;&amp;
+        window.matchMedia("(prefers-color-scheme: dark)").matches
+    ) {
+        //do something here
+    }
+</code></pre></div><p><br></p><p><br></p><p><br></p><p data-pid="q1IcVteO">效果很好,那么接下来就要自动化</p><p data-pid="tosdgsmb">请出老朋友,油猴子</p><p><br></p><p data-pid="G2sEMzor">拼起来就是一个脚本来</p><div class="highlight"><pre><code class="language-text"><span></span>// ==UserScript==
+// @name        熬夜刷知乎
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  自动开启知乎的原生夜间模式
+// @author       琴梨梨
+// @match        https://*.zhihu.com/*
+// @grant        none
+// @run-at document-idle
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    if (
+        window.matchMedia &amp;&amp;
+        window.matchMedia("(prefers-color-scheme: dark)").matches
+    ) {
+        document.getElementsByTagName("html")[0].setAttribute("data-theme","dark");
+    }
+})();
+</code></pre></div><p><br></p><p><br></p><p><br></p><p><br></p><p data-pid="eEFL2ugD">项目开源地址<a href="http://link.zhihu.com/?target=https%3A//github.com/qinlili23333/ZhihuNight/" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">github.com/qinlili23333</span><span class="invisible">/ZhihuNight/</span><span class="ellipsis"></span></a></p><p data-pid="2wAacfyE">安装脚本<a href="http://link.zhihu.com/?target=https%3A//greasyfork.org/zh-CN/scripts/408769" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">greasyfork.org/zh-CN/sc</span><span class="invisible">ripts/408769</span><span class="ellipsis"></span></a></p>

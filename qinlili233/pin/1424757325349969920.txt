@@ -1,0 +1,2 @@
+地图秒加载只能说pc玩家但凡有个32g以上的内存，普通的sata固态甚至企业机械都能实现...pc这边可以用更大的内存来极大的减少硬盘开销，数据都给缓存在内存里了比硬盘不知道快多少倍
+https://www.zhihu.com/question/488200399/answer/2135909274?utm_source=zhihu&utm_medium=social&utm_oi=729630383821324288

@@ -1,0 +1,3 @@
+自动翻译最厉害的网站就是 DeepL 吗？
+<p data-pid="hzXa0dyI">目前是</p><p data-pid="5puowhq-">但我在使用过程中有遇到过被污染的情况，翻译ppt的时候有时候会把单独文本框里的一个单词变成毫不相关的东西的可能性</p><p data-pid="XSqzWLWL">应该是训练的语料库里面有毒的问题</p><p data-pid="m7xv3wkU">总之还是建议自己仔细校对</p><p data-pid="HXTaofhF">也用过有道的翻译，在对文档格式的处理上比deepl更好，但翻译质量不如deepl</p>
+1651224916

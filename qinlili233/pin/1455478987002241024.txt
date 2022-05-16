@@ -1,0 +1,2 @@
+所以其实我个人建议的配置方法是2.4g只接入wifi6设备，5g接入wifi5/wifi4设备。wifi6很好的解决了wifi4在2.4g上跳ping和丢包的问题，而ofdma降低延迟针对的是延迟敏感的场景也不需要5g的大带宽，wifi5/wifi4继续用5g频段带宽优先。当然这个配置方法仅限于没有2.4g wifi4 only的设备的情况下，如果有一台2.4g wifi4 only的设备比如kindle接入，ofdma又被打破了。频段干扰不严重的情况下可以用1,6,11分频的办法再把老路由器切AP模式开在不干扰的另一个频段上专供老设备
+https://www.zhihu.com/question/351311168/answer/871119525?utm_source=zhihu&utm_medium=social&utm_oi=729630383821324288

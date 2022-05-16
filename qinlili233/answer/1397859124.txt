@@ -1,0 +1,3 @@
+大一新生应该先学习什么软件技能呢？
+<p data-pid="73h9nNVZ">先学会git</p><p data-pid="nRam6JMF">不管你学什么语言，搞不搞开发，先把git的基本操作掌握了</p><p data-pid="L3a1uP27">我见过太多人，让我分享一个软件给他，我给他一个git地址他反手在浏览器里打开了...</p><p><br></p><p data-pid="PmI_LGkd">再怎么不济，也给我把git clone命令掌握了吧，不然别人给你一个git地址你怎么办</p><p></p>
+1597034514

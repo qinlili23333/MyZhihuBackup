@@ -1,0 +1,3 @@
+为什么打开5MB的txt文件比打开同样大小的word文档慢这么多？
+<p data-pid="G4rGLq-D">因为你在用憨憨记事本</p><p data-pid="57y5RzFH">但凡你用vscode都比word快</p>
+1595215813

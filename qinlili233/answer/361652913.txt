@@ -1,0 +1,3 @@
+OPPO R15是支持双电信卡吗？
+<p data-pid="fXqDzUxk">高通进入sdm时代后6系8系都支持了</p><p data-pid="F9Q0Pjn3">835是msm8998，所以不支持</p><p data-pid="J7yE5Rmi">这也是为什么660是刀法没玩好的原因，gpu刀过头，基带反而比835给力</p>
+1523181194

@@ -1,0 +1,1 @@
+小米4和iphone6都是14年的手机，小米4虽然不能运行现在的64位app，但是仍然可以获得webview组件的更新来流畅的上网并运行复杂的pwa（包括wasm和webgl支持），而iphone6因为系统停留在ios12，而ios12的safari不支持wasm，苹果也不允许第三方浏览器内核上架商店，导致iphone6已经无法打开一些使用wasm的网站了。

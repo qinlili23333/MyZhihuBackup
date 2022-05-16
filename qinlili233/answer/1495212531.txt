@@ -1,0 +1,3 @@
+没有集成显卡的CPU可以通过软件模拟输出显示信号吗？
+<p data-pid="vrKuiDJB">可以，比如使用swiftshader下的chrome os</p>
+1601162597

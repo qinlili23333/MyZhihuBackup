@@ -1,0 +1,3 @@
+如何看待 Weex 未能从 Apache Incubator 毕业？
+<p data-pid="Oawz_Acg">weex的退休我认为是必然的</p><p data-pid="PjjQ5kxI">首先不可否认，weex真的是非常优秀的跨平台框架</p><p data-pid="KHdg96xp">但weex诞生于一个特定的生态时期下，即web尚未有足够的性能表现承载复杂页面，而flutter等绕过系统组件直接渲染界面的框架尚未诞生。在这个特殊时期，weex实现了相对优秀的复杂页面表现，尤其是长列表。要知道在早期移动端，webview里跑长列表的流畅度简直是灾难</p><p data-pid="pS6bLY-4">但是现在时代变了，web界除了性能的常规改善外，wasm可以说是完全颠覆了web性能差的印象，web wasm的执行效率甚至超过了weex（weex用的js，执行效率其实是低于rust编译为wasm的）。同时flutter为代表的直接绕过系统渲染的跨平台框架也削弱了weex，rn这类转换为系统组件的跨平台框架的市场</p><p data-pid="yjPZ45HQ">现在做跨平台，性能要求不那么高的都去web套壳了，性能要求高的也有flutter，淘宝自己都已经放弃weex转flutter了</p><h2>只能说weex未来没有上升空间了，不适合再继续发展了</h2><h2>但还是要感谢weex在跨平台开发历史上写下的这不可抹去的一笔</h2>
+1623390055

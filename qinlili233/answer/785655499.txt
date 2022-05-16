@@ -1,0 +1,3 @@
+如何看待华为智慧屏中的鸿蒙系统带有安卓的ADB？
+<p data-pid="PKfkOobB">谁告诉你们android只能跑在linux底层上的？</p><p data-pid="Sa2w8Cjx">yunos里面也有一个android，跑在yunos自己底层上。</p><p data-pid="dGjppFtp">android只要java层和native层可以交互就能跑，只是一般来说native层是基于linux内核开发。</p><p data-pid="xG99GWij">所以，在鸿蒙上跑android，不是问题</p>
+1565614515

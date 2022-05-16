@@ -1,0 +1,1 @@
+win10-18290一切正常没有bug，但是battleye不兼容会导致绿屏，所以battleye是傻逼反作弊（隔壁easyanticheat没有任何问题）

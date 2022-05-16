@@ -1,0 +1,3 @@
+RTX3090要配4k显示器吗？
+<p data-pid="PFxs9ZXz">就这么说吧，gt730以上显卡都应该配4k（因为gt730是最低的支持4k输出的卡）</p><p data-pid="v5gjTNYK">显卡带不动的时候，你就当1080p甚至720p用</p><p data-pid="JM-RGoQZ">带的动的时候，4k就是极致享受</p><p data-pid="IgoPwe5N">大部分场景，尤其是干活的时候，显卡完全带的动4k没瓶颈</p><p data-pid="JJCdQMst">4k刷知乎比1080p舒服多了</p><p><br></p><p data-pid="spoH7v4w">1050以上，我甚至建议配5k，5k比4k又再爽一些</p><p data-pid="TWsfOGtn">不过8k就算了，8k远远超过视网膜了，提升不大</p>
+1617860664

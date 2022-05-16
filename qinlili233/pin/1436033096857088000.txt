@@ -1,0 +1,1 @@
+surface pen在wsa内只能识别为触摸，android版onenote无法识别压感，但在手机上onenote支持spen的压感

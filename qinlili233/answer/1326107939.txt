@@ -1,0 +1,3 @@
+一台已联网但没有任何浏览器的Windows机器如何装上浏览器？
+<p data-pid="1RAF_YZM">使用二维码</p><p data-pid="DKXZze6v">用电脑摄像头不断扫描手机上的二维码流(由大量二维码构成),实现电脑从手机下载文件</p><p data-pid="l6WF5O96">每个二维码可以传输数百字节,浏览器安装包只有1m出头(因为联网,所以用在线安装包,edge/chrome在线安装包都是1m出头),所以只要扫描几千个二维码,就可以了</p><p data-pid="YNx6XtjC">比下面那个16进制手打的肯定快一些</p><p><br></p><p data-pid="5vArUhcU">还有个更骚操作的办法</p><p data-pid="3I_cyJWB">没有浏览器，但不代表一定没有libcef.dll</p><p data-pid="XDuDGMQz">cef本质就是chromium内核，但是它没有浏览器界面</p><p data-pid="WTf_T_2c">搜索libcef.dll（腾讯魔改版qbcore.dll也可以）</p><p data-pid="VIDcx886">找到目录后用wget下一个cef包里的调试用的cef browser文件进去，就可以把libcef重新变成浏览器</p>
+1628383597

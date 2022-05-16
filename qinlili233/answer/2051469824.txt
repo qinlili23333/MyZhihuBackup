@@ -1,0 +1,3 @@
+为什么 Steam 删除 80G 的游戏只用了一秒？
+<p data-pid="P07Y6e8p">因为你用的是ntfs而不是exfat</p><p data-pid="xc4Ls68c">因为sd卡用ntfs折寿的快，所以我们这些surface用户还是会选择把sd卡格成exfat</p><p data-pid="6fNsNi8G">而如果有幸在sd卡上装了steam，你就知道有多酸爽了</p><p data-pid="T_LwdYY7">下载会因为写入跟不上报网络错误，删除游戏要删老半天，真的灾难性体验</p><p><br></p><p data-pid="xGNQGP5n">所以题主发现steam删除游戏只用了一秒的原因很简单</p><p data-pid="mfpC4BO4">题主的存储设备没有格式化为exfat</p><p><br></p><p><br></p><p data-pid="6y1mIPka">别问我为什么在surface上装steam，没有比surface更适合推galgame的设备了</p>
+1628589824

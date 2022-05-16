@@ -1,0 +1,3 @@
+零拍摄基础，现负责公司产品视频策划，应该学习哪些东西？
+<p data-pid="ESeTA6h8">泻药</p><p data-pid="3BlfUuW1">做视频请先学会怎么使用ffmpeg，这是基础，然后学习x264和x265</p><p data-pid="VQgG3lnS">这些都会了之后可以考虑练拍摄了，先练习怎么不抖手</p><p data-pid="TIkPWHR1">提示:x264和x265不知道什么参数最好的话直接无脑placebo预设即可</p>
+1496219255

@@ -1,0 +1,3 @@
+为什么楼道电闸总跳？
+<p data-pid="mXuv1ZIp">跳闸基本就是漏电</p><p data-pid="E61iTGca">漏电就是该从零线回去的电跑到地线上去了</p><p data-pid="lxz9u7DK">比如零地反接，插啥都跳</p><p data-pid="SaveS8D3">或者电机尤其是水泵外壳漏电</p><p data-pid="x3sADlPl">核心就是测零地电阻</p>
+1642474037

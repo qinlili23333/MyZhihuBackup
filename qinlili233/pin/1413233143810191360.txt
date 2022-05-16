@@ -1,0 +1,2 @@
+左边argb色域，右边p3色域，视频色域是srgb，但怎么右边反而看起来更过饱和一点
+https://pic1.zhimg.com/80/v2-557c97018cb11af4b9e89ef67604a2b8_qhd.jpg

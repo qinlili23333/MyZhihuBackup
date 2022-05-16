@@ -1,0 +1,3 @@
+2021年中旬了，electron到底怎么样？
+<p data-pid="9t6ed8zs">感觉不如nw.js...方便</p><p data-pid="bvvho3mQ">nw.js不需要打包可以直接散装运行，有更方便的调试手段，可以快速热重载</p><p data-pid="Z1UKyfyE">小项目和开源项目，真的还是nw.js舒服</p>
+1634730576

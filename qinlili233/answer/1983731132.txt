@@ -1,0 +1,3 @@
+多设备连接WiFi，会频繁出现wifi的网络不可用，怎么解决？
+<p data-pid="etSrIzwg">简化问题条件：手机连wifi导致集体不能用，但有线可用</p><p data-pid="ZOc3BqwV">我和几位过热理论的观点这次又有点差异了</p><p><br></p><p data-pid="-UHKXe-j">单一特定设备接入无线后整个无线垮掉，但有线没问题，我个人的推测是ip/mac地址冲突了</p><p data-pid="tEt9M34T">如果你的手机的mac地址和局域网内另一无线设备的mac地址一样，就会在dhcp阶段获取到一样的ip</p><p data-pid="qC9TXh7P">或者你的手机可能手动配置ip时配置了重复的ip</p><p data-pid="Ll8R9lYC">一个无线下存在两个一样的ip，整个无线垮掉，常规操作了</p><p data-pid="vmnqoenf">重启后手机连上了，另一个设备还没连上时就是正常的，另一个设备也连上了那又垮了</p><p><br></p><p data-pid="oZp6KVwq">解决办法是检查手机的ip配置，如果是手动ip，分配一个新的不同的ip，如果是自动dhcp，就检查手机的mac地址是否和某一个设备重复了</p><p data-pid="IIj51wpl">现在一些手机有随机mac地址功能，是可能随机出和其他设备一样的mac地址的，建议在自己的网络环境下关闭随机mac地址功能</p>
+1625634396

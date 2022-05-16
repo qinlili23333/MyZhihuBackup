@@ -1,0 +1,3 @@
+电脑的usb口3.0和2.0对于鼠标有什么区别吗？
+<p data-pid="XHZwQ9OA">做一个重要的补充，USB3.0对2.4G无线干扰极其严重。</p><p data-pid="HPbmZyKO">如果你正在使用2.4Ghz的无线鼠标（例如绝大部分罗技无线），把接收器插在3.0口上会造成稳定接收距离急剧下降，本来可能10米不丢信号变成6米就丢信号（实测g703有这个现象）</p><p data-pid="gE5VWN5P">解决办法是换2.0的口</p><p data-pid="QECkF-zR">具体原理可以看牙膏厂这篇文章<a href="http://link.zhihu.com/?target=https%3A//www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">USB 3.0* Radio Frequency Interference on 2.4 GHz Devices</a></p>
+1563926303

@@ -1,0 +1,3 @@
+支付宝会把所有facebook和youtube链接的二维码认为存在安全风险，但twitter和google却不会提示，那么支付宝的安全风险到底是指什么呢？全球最大的视频网站到底不安全在哪里了呢？
+https://pic1.zhimg.com/80/v2-71b0b4409737ded5dbb9a9975451d506_qhd.jpg
+https://pic1.zhimg.com/80/v2-fb60a8f7a7dde651f03a55b133fde64d_qhd.jpg

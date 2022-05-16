@@ -1,0 +1,3 @@
+如何评价售价 169 元的红米AC2100路由器，有什么亮点和不足？
+<p data-pid="-V9k2rsA">割韭菜的而已</p><p data-pid="5nJ6z-fC">这个双核880mhz估计是mt7621a，两个mips核心，性能实际非常弱鸡</p><p data-pid="ggZdrfqc">友商pro2的四核1.4g肯定就是hi5651t了，四核A53，64位，仅次于bcm49408（四核B53，1.8g，B53是博通基于A53魔改的低功耗高发热版本）</p><p data-pid="rO4jJyGI">友商ac68u的双核800mhz是bcm4709降频（4709满血是1.0g，但是就arris这种堆料极致的厂敢跑满，太热了）</p><p data-pid="oxsf7NTq">hi5651t和bcm4709的路由器我手头都有，才做过一篇评测<a href="https://zhuanlan.zhihu.com/p/94863317" class="internal">琴梨梨：荣耀猎人游戏路由上手体验</a>，各位可以看看都是什么水平</p><p><br></p><p data-pid="_6Qn_2cE">至于比外置天线数量，更是割韭菜，我宿舍里现在用的俩都没外置天线，不还是稳稳的吗</p><p data-pid="SJEeEju4">最后，如果我没猜错的话，这路由器的1733m只能4x4，不能2x2 ht160，ac9260/9560还是只有867m</p><p></p><p></p>
+1576023004

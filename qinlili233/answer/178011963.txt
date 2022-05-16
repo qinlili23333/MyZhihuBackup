@@ -1,0 +1,3 @@
+为什么学习编程第一课要学习输出"hello, world"？这是谁规定的？
+<p data-pid="jgYAYeOQ">因为第一个人这么干了</p><br><br><p data-pid="maczQE07">普通程序猿输出hello world</p><p data-pid="5jmcOgPS">2b程序猿输出C:/user/administrator&gt;rem hello world</p><p data-pid="hY1JlHJr">智障程序猿输出“hello”不是内部或外部命令也不是可运行的程序</p>
+1496416674

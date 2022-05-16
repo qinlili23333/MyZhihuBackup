@@ -1,0 +1,2 @@
+2k下最大的瓶颈竟然是选人界面，开局后反而gpu没什么负载了
+https://pic3.zhimg.com/80/v2-6c0e647aab2e14373293aac1e3942015_qhd.jpg

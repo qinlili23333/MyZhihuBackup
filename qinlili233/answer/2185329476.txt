@@ -1,0 +1,3 @@
+微软为啥不用MacType作为系统级的字体渲染呢？
+<p data-pid="8OzSzkLg">兼容性是windows很重要的优势之一</p><p data-pid="5WwHQr_3">mactype我用过一段时间，后来被我卸载了</p><p data-pid="M_uGkG9h">原因很简单，这玩意会导致近月少女等很多日厂gal无法启动</p><p><br></p><p data-pid="2Azk1P1J">我更新到win11后第一件事就是去验证gal的兼容性，事实证明win11虽然是鲍汁老鼠屎，但gal兼容性相比win10没有问题</p><p data-pid="CjbeRfgP">如果windows哪次更新一下子干掉了一堆程序的兼容，估计微软的营收也得寄了</p>
+1634997795

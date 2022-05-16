@@ -1,0 +1,2 @@
+实现pandownload免服务器运行了。为了我的安全就不放安装包了。就给点提示吧，360加固的oncreate vmp只会处理在manifest里面声明的activity类，而不会处理其父类。pandownload的activity主要功能都在父类里，activity类里没有oncreate。（有两个第三方库的oncreate被vmp了，但是开源库修起来太容易了）
+https://pic1.zhimg.com/80/v2-e6aef3f7881837306d9101d0c2f6b2a6_qhd.jpg

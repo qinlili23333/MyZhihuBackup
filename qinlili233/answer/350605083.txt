@@ -1,0 +1,3 @@
+PowerPoint 到底有多厉害？
+<p data-pid="uxArQq9h">你甚至可以用ppt写程序</p><p data-pid="W0_g28LC">ppt内置了vb，你可以在上面写vb，完成一些简单的操作，甚至直接提权然后篡改系统文件</p><p data-pid="zsFlD9j6">嗯，拿ppt写个病毒什么的也不是做不到</p><p data-pid="3o2CuVGM">曾经试过在ppt里加入一个反复刷新刷浏览量的控件，效果还不错</p>
+1522017375

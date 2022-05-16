@@ -1,0 +1,3 @@
+现在的笔记本都只能装 Win10 了吗？
+<p data-pid="ryRxpafm">不，你还可以装dos，装黑苹果，装ubuntu，装debian等等</p><p data-pid="24E2yrBE">除了Windows，你的选择很多</p><p data-pid="lCcqZI1T">但是如果你只接受Windows，那么只能装win10，这是驱动兼容性的原因，当然通过技术手段把驱动封装到win7镜像也可以安装，但是难度太高，除了不得不用win7（兼容模式不能用）的情况绝对不推荐</p><p data-pid="t0zlDd6p">如果只是喜欢win7界面，可以使用startlsback配合aeroglass</p>
+1522062490

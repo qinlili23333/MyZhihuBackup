@@ -1,0 +1,3 @@
+i3 4170配GTX1065玩大型单机能普遍开中特效吗？
+<p data-pid="eAB7361t">不能。</p><p data-pid="8MJHZ1Ua">给你点参考：我的显卡是980ti，性能在1065之上。以下特效设置均不开抗狗牙</p><p data-pid="N1b0qj9k">doom：除了材质拉到顶外全低，50-70fps</p><p data-pid="4wQ37--h">cod4：无脑拉全高，60-80fps</p><p data-pid="3Q_ge9B6">cod13：材质拉到顶，阴影拉到顶，其余全低，70fps左右</p><p data-pid="5FntvA77">看门狗1：无脑拉全高，45-55fps</p><p data-pid="-8ghX6LR">荣耀战魂：材质拉到顶，其余中效，50fps左右</p><p data-pid="y2-FC5uy">另外，还有个绝对的例外：仙剑6，能60fps中效的电脑还不存在</p><p data-pid="3jnAv5q6">最后，i3也是瓶颈，预载着色器会很吃亏</p>
+1531696338

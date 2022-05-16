@@ -1,0 +1,2 @@
+鉴于ffmpeg漏洞，通知下各位使用我的视频转gif工具的用户，麻烦把安装目录下的ffmpeg.exe删除，下次启动就会自动拉取最新版本的ffmpeg来解决漏洞你们也可以选择运行tool.exe选择重新配置ffmpeg也可以达到一样的效果<br><br>对于新用户不用恐慌，第一次打开会自动拉取最新版本ffmpeg的
+https://pic3.zhimg.com/80/v2-d2952401ceda0dcb485c8ee170711410_qhd.jpg

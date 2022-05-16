@@ -1,0 +1,3 @@
+如何评价 Intel 新发布的九代 i7-9700K？
+<p data-pid="9LACkM-h">性能上没啥问题，就是因为还是1151，没有四通道内存</p><p data-pid="szMy-QZ6">所以我还是继续等epyc 2吧</p><p data-pid="uJS_ro_F">说起来为什么牙膏厂迟迟不更新hedt平台</p>
+1538001417

@@ -1,0 +1,3 @@
+Android9.0的后台管制真的可怕，手贱限制了QQ，然后QQ在后台再也没弹过消息。支付宝也试过了，压得死死的。至于推送，mipush+fcm双持，除了qq外大部分app没问题（qq反正都是聊天消息，我不想看的时候也不需要推送，想看会主动去看）。
+https://pic1.zhimg.com/80/v2-136d4f05bc604f64cd72ea5d6e730ec1_qhd.jpg
+https://pica.zhimg.com/80/v2-80e11ce8b770773997811178bd525b10_qhd.jpg

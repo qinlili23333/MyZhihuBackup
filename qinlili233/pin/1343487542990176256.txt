@@ -1,0 +1,2 @@
+如果不想买硬盘其实还有个相对廉价的办法，就是至少两个以上网盘双重备份，而且为了避免被撞md5撞死，要么手动压一遍，要么十六进制编辑器在最后加几个字符来打乱md5
+https://www.zhihu.com/question/443359014/answer/1720612719?utm_source=zhihu&utm_medium=social&utm_oi=729630383821324288

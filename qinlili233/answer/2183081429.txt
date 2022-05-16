@@ -1,0 +1,3 @@
+百度云管家的限速是合法的吗？
+<p data-pid="2Yf48Jlv">合法</p><p data-pid="qnwESzcq">我们来看这一系列案例</p><p><br></p><p data-pid="1vtunmxt">0.我很穷，我的服务器带宽只有1mbps，合法吗？当然合法</p><p data-pid="AqkH2H47">1.我的服务器带宽很大，但因为跨网或者跨国等原因，部分地区用户实际使用带宽只有1mbps，合法吗？当然也合法</p><p data-pid="3nSICeyE">3.访问我的服务器的人数太多了，导致部分用户只能得到1mbps的速率，合法吗？也合法</p><p><br></p><p data-pid="wgONop4T">那么现在我主动把服务器限制在1mbps，当然也合法啊</p><p></p><p></p><p></p>
+1634879045

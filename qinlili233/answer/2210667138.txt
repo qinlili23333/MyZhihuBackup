@@ -1,0 +1,3 @@
+如何评价Windows8(8.1)？
+<p data-pid="KgqDfAZ1">win8是第一个强制开启DWM窗口渲染并且彻底无法关闭的系统</p><p data-pid="OG6VQlWZ">而在win7和vista上，DWM是可以被临时禁用的</p><p data-pid="GyBDOFn1">而因为在win10之前，DWM一直没有Flip模型，这就导致在非独占全屏下DWM本身会消耗GPU资源</p><p data-pid="Z-4_UXSM">最能体现这个问题的就是高分屏+optimus的设备，在核显输出情况下独显上运行画面变化较大的游戏时，会因为DWM来不及copy而掉帧</p><p data-pid="IT2Nu2xa">而对于win7，可以通过把主题设置为Basic来临时关闭DWM</p><p><br></p><p data-pid="qugaGLjh">这就导致了在部分设备下，win8是游戏表现最糟糕的系统，不如关闭DWM的win7，也不如可以开Flip模型的win10</p><p></p><p></p><p></p>
+1636242948

@@ -1,0 +1,3 @@
+工业设计师应该选择Quadro p5000还是Titan XP？
+<p data-pid="ALWD8Bak">当然p5000，另外如果没有cuda需求可以考虑上农企的vega fe，两种驱动随心切换，打的来游戏做的来图</p>
+1501111061

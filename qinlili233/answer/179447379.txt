@@ -1,0 +1,3 @@
+如何评价 WWDC2017 苹果宣布 iOS11 将使用 HEIF 作为图片格式？
+<p data-pid="Mvhdao3m">泻药</p><p data-pid="NspZARMm">xnview看样子又要更新了</p><p data-pid="EDtTjOUo">而且看样子heif并没有webp理想，webp在极限无损压缩后画质仍然在png无损级别，但是体积已经比绿了的jpg都要小了，而webp已经成为通用格式</p>
+1496702374

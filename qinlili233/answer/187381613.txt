@@ -1,0 +1,3 @@
+为什么大部分软件在iOS都适配了沉浸式通知栏，在Android却并不愿意适配，或者没有完美适配？
+<p data-pid="Npdxlc-V">泻药</p><p data-pid="KIQi75u4">QQ微信淘宝都适配了安卓沉浸状态栏</p><p data-pid="7TUxxayr">QQ觉得默认沉浸不好看可以去下第三方萌化版，推荐坂坂大佬的originodu和imikko大佬的茕兔</p><p data-pid="O06Yn5US">微信觉得默认沉浸灰色不容易看出的自己使用substratum应用其他颜色</p><p data-pid="8PY65p8d">淘宝使用国内版最新版即可</p>
+1498101580

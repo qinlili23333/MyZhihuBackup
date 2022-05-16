@@ -1,0 +1,2 @@
+现在有没有办法调节GPU进程优先级<br>一边打游戏一边看直播，直播会因为显卡功耗被游戏吃满而掉帧
+https://pica.zhimg.com/80/v2-dc11ffb4bec4f5c7aa2e10f1019388e6_qhd.jpg

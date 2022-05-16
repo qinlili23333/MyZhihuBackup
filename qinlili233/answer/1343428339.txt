@@ -1,0 +1,3 @@
+为什么unity愿意用c#作为代码语言,而虚幻却使用c++？
+<p data-pid="IKUpNspU">两者的打包方式完全不同</p><p data-pid="cwXcEPXT">unity采取dll独立于引擎的方案，代码或il2cpp的dll是单独打包的，而引擎本体是通用的</p><p data-pid="5vBpsLyd">ue是游戏代码和引擎一起编译为一个可执行文件</p><p><br></p><p data-pid="fxorIHgY">ue本身是用cpp写的，那么要把游戏代码和引擎本体代码编译到一起，那游戏代码也得cpp了</p><p></p>
+1594952031

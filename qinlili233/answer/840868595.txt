@@ -1,0 +1,3 @@
+2g独显mx110和集成显卡选哪个？
+<p data-pid="PMbhHSNn">当然是mx110</p><p data-pid="qbafDk78">mx110的性能确实是屎</p><p data-pid="dwiyHe78">但是相比集显，它有cuda，而且有独立显存分担内存压力</p><p></p>
+1569835101

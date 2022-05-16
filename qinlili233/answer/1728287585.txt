@@ -1,0 +1,3 @@
+为什么主流游戏本不去除2.5寸sata硬盘位呢？
+<p data-pid="1U8C40eH">m2现在的极限好像也就2t</p><p data-pid="te1uaFFl">可是2.5寸盘位可以上7.68t企业盘啊</p><p data-pid="imxsJKHu">要大容量，还得2.5盘位</p><p data-pid="-jHkbCgj">毕竟没有哪个厂商目前有能力把2.5盘位的空间换成四条m2，就算能换这pcie通道也不够使啊</p><p><br></p><p><br></p><p data-pid="Bkzpi9IR">哦对了，笔记本的2280m2上不了带掉电回写的企业盘</p><p data-pid="FpYZ7y-0">要实现掉电回写，也只能是2.5企业盘了</p>
+1613203642

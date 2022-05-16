@@ -1,0 +1,1 @@
+百度云加速污染了edx在国内的dns解析，手动在hosts内把edx指定为cloudflare的节点ip就好了

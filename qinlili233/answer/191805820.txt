@@ -1,0 +1,3 @@
+双路1070有搞头吗？
+<p data-pid="C77mfezJ">第一，很多东西不支持双卡</p><p data-pid="-SzWZm7y">比如windows界面，只要是单屏，都是在一张卡跑</p><p data-pid="1Q3ItUa4">(两台显示器接不同的卡可以同时激活双卡)</p><p data-pid="kRqgl6b4">对于单屏用户我不推荐双卡</p><p data-pid="A3vGlU6-">另外很多cuda应用也不支持双卡比如waifu2x只能指定一张卡</p><p data-pid="QR8t5Qpy">第二，你会面临过热危机</p><p data-pid="RPDIYRzA">两张卡一起烤，目测温度三位数，菊花直接烤黄</p><p data-pid="CUyPbr2i">第三，性能不是简单叠加，连挖矿都不是叠加</p><p data-pid="NrpOmxaN">双卡性能一般只有160%左右的单卡性能，挖矿也最多到180%左右</p><br><br><p data-pid="3R4CGrL9">适合双卡的情况有</p><p data-pid="DVz9Ki3Z">1显示器多，可以分散到两张卡用，提升性能</p><p data-pid="Mt-k2X3v">2性价比实在太高(挖矿情况下1060双卡效率高于1080)</p><p data-pid="jQoTW8Yd">3跑需要多卡的专业应用比如深度学习</p><p data-pid="1Qle6Xte">4顶级单卡已经无法满足的需求(比如地铁2033刚发布那会980ti根本带不起4k全高，只好再来一块)</p>
+1498868253

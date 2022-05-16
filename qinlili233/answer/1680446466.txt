@@ -1,0 +1,3 @@
+surface的手写笔记能有多少好？
+<p data-pid="z7VKrVEV">surface pen本身的实力是很好的，但是关键还是要看你的写字习惯来选择软件</p><p data-pid="gW3yuWQL">写字从来没有轻重的，用acrobat，acrobat不识别压感，所有笔画一样粗，就像印刷体（系统的照片应用的手写也没压感）</p><p data-pid="oNs98lES">写字本来就特别丑的，用onenote，onenote的笔迹纠正强度比较高，可以化腐朽为神奇，但如果你的字本来就写的很好，笔迹纠正会恰恰弄巧成拙（微软白板也带笔迹纠正）</p><p data-pid="8gFT0NEW">写字特别标准的，用nebo，nebo是实时ocr你的手写到文本的，标准的字识别非常准确</p><p data-pid="rtZh-5fe">需要各种颜色各种尺寸的笔的用ps，ps的手写支持已经非常完善了</p><p data-pid="anwISsq1">office三件套手写的防误触比较糟糕，只能少量标注，不适合大量书写</p>
+1610758905

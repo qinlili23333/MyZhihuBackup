@@ -1,0 +1,3 @@
+相比微信支付，支付宝在技术、业务上有哪些不同之处？
+<p data-pid="mVRAOnU0">支付宝的热更新！！！</p><p data-pid="P7fumudy">这个必须提一下，nebularApp这套框架支付宝做的是很优秀的，加载比微信快的多</p><p data-pid="6HBoeohD">另外支付宝是andfix＋插件化，每个插件单独dex2oat，所以oat一个小插件一秒都不到，所以热更新速度很快</p><p data-pid="iaSSqhQk">反观微信tinker，热更新后oat竟然是先补全完整dex再oat，一次oat可能需要数十秒，同时因为oat逻辑问题，和xposed冲突，在有xposed的机器上容易卡oat黑屏</p><p data-pid="AIgX-l4v">而且支付宝很聪明，文件权限禁止写入怎么办？丢cache啊！data不能写的东西全部写cache，哪怕cache写到300m也不怕</p><p data-pid="UP2qlVtZ">至于微信，我禁止写入这玩意还真他妈就不写入了</p>
+1519906294

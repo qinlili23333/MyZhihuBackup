@@ -1,0 +1,2 @@
+把鸿蒙的文档也给看了一遍，文档还是很详细的。鸿蒙没有系统级别的自动oom，需要应用自己调用MemboxFree来释放内存，所以先立个flag，有开发者写惯了Java，忘记释放内存，然后喜闻乐见的，MemoryLeak
+https://pic1.zhimg.com/80/v2-0c105caccd7651e301d2669e821f9c3b_qhd.jpg

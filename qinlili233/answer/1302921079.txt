@@ -1,0 +1,3 @@
+为什么arm版mac运行效率那么高？
+<p data-pid="s-dJ8mZ4">谁说surface pro x不能打游戏的？</p><p data-pid="6r6bMgyL">ue4可以编译为arm64版本，arm64版本可以在surface pro x上流畅运行（但必须使用dx/vulkan，opengl不支持）</p><p data-pid="0mo4XxCk">u3d目前打包uwp可以打包出arm64版本</p><p data-pid="w7TyyvFr">其他开源引擎和自研引擎更不用说了</p><p data-pid="cYkOjBK_">是某些开发者脑子里有水不会编译arm64版本，而不是arm设备就打不了游戏</p><p data-pid="8nTiQ6uc">别跟我说什么升级游戏引擎版本工程量大，股沟play要求64位后u3d游戏全部都升级了引擎版本，也没见几个开发者跳起来的</p>
+1593132933

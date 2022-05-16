@@ -1,0 +1,3 @@
+加固态后无法从固态盘启动？
+<p data-pid="tK4eNrex">泻药</p><p data-pid="d9LULsku">固态请用uefi启动</p>
+1501825161

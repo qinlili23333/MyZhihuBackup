@@ -1,0 +1,3 @@
+固态硬盘在日常使用中，使用SATA2和SATA3插口的区别大不大？
+<p data-pid="SbwAqRIj">我二奶机就是sata2上的sata3固态</p><p data-pid="2TuYfHEQ">nv790i末代nv主板平台（775），最高就sata2，cpu是q9650超频3.6g</p><p data-pid="SU-buoTk">固态是850evo，最早在大奶上用的</p><p data-pid="Ul9zc1PN">老机器没有快速启动，所以哪怕nvme都开机快不到哪里去，我这人又不喜欢关机所以不怎么感觉到启动速度的差距</p><p data-pid="HIca9dNk">这机器哪怕开游戏都一点都不慢，虽然cpu还是瓶颈导致游戏帧率上不去（但99%游戏在1080p下通杀还是不成问题的）</p>
+1616135987

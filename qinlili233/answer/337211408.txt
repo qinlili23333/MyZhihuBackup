@@ -1,0 +1,3 @@
+入了4k显示器老本带不动尴尬了，求推荐6000价位的笔记本，有合适的加点预算也行。？
+<p data-pid="cTwDmsYE">泻药</p><p data-pid="sL-MozUM">赞同楼上xps13</p><p data-pid="nFwmNPDX">毕竟xps13少见的并不算特别贵的雷电3的本子</p><p data-pid="6gM6tq4V">雷电3可以外接pcie设备，当然你也可以直接转dp核显输出4k60hz</p><p data-pid="4ed3mSXI">不过还是更推荐通过雷电3外接独显再连接显示器，性能完美发挥，不过外接显卡不推荐超过1070级别</p>
+1520523254

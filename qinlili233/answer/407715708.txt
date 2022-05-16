@@ -1,0 +1,3 @@
+如何关闭QQ电话功能？
+<p data-pid="Gthl1tML">把含有av字样的activity全部禁止或者从manifest里移除，问题解决</p>
+1527933839

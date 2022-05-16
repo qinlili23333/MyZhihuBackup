@@ -1,0 +1,2 @@
+winforms：我用10m内存能跑扫雷<br>wpf：我100m内存只能渲染没有图片的简单界面<br>cef：我要用1g内存跑一个hello world
+https://pic1.zhimg.com/80/v2-e028d6bf425a27361eac3009c24a9e75_qhd.jpg

@@ -1,0 +1,3 @@
+任天堂会用骁龙 8 Gen1 吗？或者下一代的 switch 性能会向骁龙 8 Gen1 看齐吗？
+<p data-pid="Y5XQ64gb">高通的Adreno到现在都缺少完整的Desktop GL支持，这是微软不得不把GL翻译为DX12的原因</p><p data-pid="F1LTxo3r">但X1的GPU就是完整的Maxwell架构，源于桌面平台，桌面平台的图形API在当时是全兼容的，即使放到现在Maxwell也就差了一个DX12Ultimate，但12U出来都什么年代了</p><p data-pid="14ypHOA1">现在除了找皮衣黄以外唯一能支持全图形API的只有把RDNA2搬过来的猎户座2200，但2200产量不够三星自己都不够用，而且成本不便宜老任抠成这样绝对不可能用</p><p data-pid="ijyOyFsK">所以可能大概率还是得找皮衣黄，还可能顺带把DLSS搞过来</p>
+1646983100

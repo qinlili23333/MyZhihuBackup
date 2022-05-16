@@ -1,0 +1,3 @@
+荣耀游戏本 Honor Hunter 即将发布，有哪些值得关注和期待的？
+<p data-pid="y0noA9SE">3a平台如果没猜错的话应该顶配版本是4900hs搭配5700m</p><p data-pid="LWaBTH9G">5700m的tdp达到了120w，对散热是个不小的挑战，至少外星人没怎么压住</p><p data-pid="42n2yUD7">3a平台肯定全系标配freesync（freesync又不要钱，不像gsync那芯片血妈贵）</p><p data-pid="o0XSMTVh">60hz的freesync意义不大，所以很可能屏幕是144甚至240的</p><p><br></p><p data-pid="02KvxEqk">所以我最终的预测结果是：4900hs+5700m，144hz freesync</p><p><br></p><p data-pid="1FmRlEXq">当然，也可能为了节约主板空间，5700m改成pro 5600m，用hbm显存节约空间</p>
+1596416349

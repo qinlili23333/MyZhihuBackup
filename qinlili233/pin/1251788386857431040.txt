@@ -1,0 +1,1 @@
+swiftshader最大的意义不是它的效率，而是它为headless终端提供了更多可能

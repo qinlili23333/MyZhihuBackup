@@ -1,0 +1,3 @@
+具体哪几个技术的实现导致了3D游戏在近十年内质的飞跃？
+<p data-pid="YvVaFWLN">光纤宽带技术(不用下载几天几夜了)</p><p data-pid="pTkyI9DE">还有多线程下载技术(不会越下越慢了)</p><p data-pid="GAWSuOh0">pcie3.0技术(显卡带宽更高，发挥更强)</p><p data-pid="TuZ0CxuQ">固态硬盘技术(告别缓慢的读条)</p><p data-pid="DVp8cC1H">DP1.2接口(4k清晰度不是梦)</p>
+1487467318

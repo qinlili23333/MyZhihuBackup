@@ -1,0 +1,3 @@
+如何把win10任务栏中的搜索换成用百度？
+<p data-pid="1z4WbNKA">用自签证书+hosts重定向+nginx本地反代的办法把本地的bing请求全部代理转发到百度</p><p data-pid="gafMjgMJ">这样不管在哪里用bing搜索都会变成百度，甚至地址栏可以继续显示bing的地址</p><p></p>
+1635298739

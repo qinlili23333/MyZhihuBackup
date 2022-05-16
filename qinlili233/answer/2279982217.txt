@@ -1,0 +1,3 @@
+我想知道这样的代码是做什么用的  很牛逼吗 被朋友装到了 我怎么回复他?
+<p data-pid="atyfMbSC">一个小写的getconfig里面调用了一个大写的getConfig，视力测试是吧</p><p data-pid="FgiSbn-u">捏麻麻滴谁要是想用这种代码给我pull request我把他头都给拧下来</p><p data-pid="NvKiIg1L">哪怕你弄个getconfig_1都比一个小写一个大写来的可读性强114514倍</p>
+1640062987

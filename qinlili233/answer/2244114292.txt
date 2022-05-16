@@ -1,0 +1,3 @@
+为什么 Windows 不内置 DirectX 等组件？
+<h2>那用不到的人也装着吃他们硬盘空间？</h2><p data-pid="rJ6nsDZs">组件化本来就是好事，你却还想开倒车</p><p data-pid="FnQ6-Upr">是不是下一步把vs也该内置了，再把所有nuget包也内置了</p><p data-pid="FOuz_Zdb">得了，这样下去装个系统2t硬盘都装不下了要</p>
+1637921402

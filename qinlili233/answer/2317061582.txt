@@ -1,0 +1,3 @@
+如何看待红米 K50 宇宙将全球首发「CyberEngine 超宽频马达」，有哪些值得关注的信息？
+<p data-pid="__IP1snV">实机出来之前先让子弹飞一会</p><p><br></p><p data-pid="ZiSXf_jz">等实机出来了跑跑下面这段代码，效果如何一试便知</p><blockquote data-pid="FiCaq6MS">function example1() {<br>  navigator.vibrate([10]);<br>}<br>setInterval(example1,20)</blockquote><p><br></p><p><br></p><p data-pid="J9eSmfQt">各位如果不会在手机上执行js的话，把下面这段代码复制到手机端chrome地址栏即可测试当前手机震动质量</p><blockquote data-pid="kJZM34_d">javascript:setInterval(function(){navigator.vibrate([10]);},20)</blockquote>
+1642588402

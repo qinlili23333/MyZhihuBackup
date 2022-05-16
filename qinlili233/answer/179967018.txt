@@ -1,0 +1,3 @@
+为什么知乎上有的人不推荐 C 语言入门？
+<p data-pid="dpgLfr4x">c入门是作死</p><p data-pid="oM_Cr1LJ">如果想认认真真搞开发的，先给我了解硬件去，系统跑在硬件上，硬件不了解玩个p</p><p data-pid="q1FOm4LC">了解了硬件给我了解windows去，软件跑在系统上，系统不了解玩个p</p><p data-pid="poa1Jq-a">还有利用好命令行，能用命令行解决的绝对不用c</p><p data-pid="Vp6Dl6Kj">如果以上你都掌握了，那么才可以考虑入门c</p><p data-pid="X8OuRh6b">永远不要想一口气吃成胖子</p>
+1496790633

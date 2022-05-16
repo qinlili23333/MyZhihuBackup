@@ -1,0 +1,3 @@
+华为笔记本部门对 Linux 版笔记本的做法是否不够优雅？
+<p data-pid="CTvnjPEX">1，没提供特色功能安装包确实该黑，这个是根本没有的问题</p><p data-pid="PyNJVm3W">期待后期能通过aptget来获取这些功能</p><p data-pid="K69nNaBR">2，不预装没的黑，做的对</p><p data-pid="qLv385Q9">linux本身就是轻量化的，需要什么，就自己装</p><p data-pid="KtdSIwUU">敲一句apt install难吗？</p><p data-pid="UQDcZmZv">系统只应该预装必要的依赖和驱动。比如pip，应该预装，如果空间足够，ffmpeg和gcc/clang也可以预装，但是QQ这种就不应该预装，ubuntu也没预装tg啊毕竟</p><p></p><p></p>
+1574912012

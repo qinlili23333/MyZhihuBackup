@@ -1,0 +1,3 @@
+I9-10900KF的CPU配丽台RTX 4000图形显卡，PR渲染慢如狗！具体配置如下图，怎么办？
+<p data-pid="J_ykyqTv">自从老黄给游戏卡专业驱动之后，专业卡的购买价值已经不大了</p><p data-pid="H_WkOYk4">你主要就亏在rtx4000上，如果换到3080就好了</p><p><br></p><p data-pid="4jCyk8AB">另外你的驱动安装顺序可能也不对，win10自动给你安装的驱动是有问题的，得自己装一遍</p><p data-pid="LwFYSt_z">对于游戏用户：ddu卸载驱动-官网下载最新geforce驱动清洁安装</p><p data-pid="QymbkI8g">对于游戏+开发用户：ddu卸载驱动-官网下载cuda sdk清洁安装，会自动给你补上较稳定的驱动</p><p data-pid="0gnU-WAx">对于纯专业用户：ddu卸载驱动-官网下载cuda sdk清洁安装-官网下载studio驱动清洁安装</p><blockquote data-pid="aPp8VsRI">就个人经验而言，cuda sdk给你补上的驱动不是最新的，也不是纯粹的专业驱动，但又比版本最接近的geforce驱动稳定那么一点，是比较均衡的选择，尤其适合丹师</blockquote>
+1601858404

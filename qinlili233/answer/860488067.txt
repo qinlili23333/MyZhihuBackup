@@ -1,0 +1,3 @@
+笔记本电脑的屏幕素质有啥用？
+<p data-pid="lkbBBcP_">用处很简单：保护眼睛</p><p data-pid="OhhNidJk">我们就几个方面举点例子</p><p data-pid="s_gG1h9p">1，没有人喜欢看红底蓝字吧，看久了就要瞎了</p><p data-pid="QQmIkFkm">偏色严重的显示器就这情况，颜色过于刺眼，看久了也会瞎</p><p data-pid="KJfiXIaI">所以高色准显示器护眼</p><p data-pid="jkAWNl1A">2，当看不清时，眼睛会拼命用力来尝试看清，近视的人不戴眼镜就会这样</p><p data-pid="zvZO-AUn">屏幕分辨率过低时，眼睛也看不清，于是眼睛也拼命用力</p><p data-pid="8tL09a6i">所以高分屏护眼，视网膜级别ppi确实对眼睛好</p><p data-pid="EaDkcSNW">3，你肯定不喜欢对着爆闪模式下的手电筒看</p><p data-pid="WwlNUvUJ">好的屏幕全程dc或高频pwm调光，眼睛无可感知闪烁，坏的屏幕低频pwm调光，就是个爆闪手电，看着看着就瞎了</p><p data-pid="EwVKdT9j">4，你肯定觉得辨认口红色号很困难，因为它们太接近了</p><p data-pid="J-GB9auu">如果两种颜色看上去太接近，也会很难辨认，这就是低色域显示器</p><p data-pid="tqSGoFrA">高色域显示器可以更好的展现每一种颜色，对比明显，辨认更轻松</p><p><br></p><p data-pid="wmk91vC9">所以，高素质的屏幕并没有其他意义，唯一的意义就是：保护眼睛</p><p></p>
+1571299616

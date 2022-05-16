@@ -1,0 +1,1 @@
+github的打包为zip下载会破坏ANSI编码的中文文本，请尽可能使用git clone而不是打包为zip下载

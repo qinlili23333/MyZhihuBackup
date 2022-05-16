@@ -1,0 +1,3 @@
+如何评价网传OPPO 智能手表没用行业通用的 WearOS，而使用深度定制版的 Android 内核？
+<p data-pid="iPNNAL2L">醒醒，wear os也是android底层</p><p data-pid="DGIFes8S">wear os相比正常Android最大的区别是缺了个webview，需要webview的程序跑不了</p><p data-pid="fC3rsUvl">但是绝大部分Android程序都能安装在wear os上，包括各种游戏</p><p data-pid="FAldrQpV">具体可以参考下阿哲的这个视频<a href="http://link.zhihu.com/?target=https%3A//youtu.be/Y_rEXo1I7Hg" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">youtu.be/Y_rEXo1I7Hg</span><span class="invisible"></span></a></p>
+1584145587

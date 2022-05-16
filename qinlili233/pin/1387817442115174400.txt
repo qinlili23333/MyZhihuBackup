@@ -1,0 +1,2 @@
+高通的gpu驱动也只能说在dx上是完善的...desktop gl还是八行，不然微软也不用写个基于dx12的opengl驱动甚至还合并到mesa分支了（该驱动在nvidia显卡上比原生opengl驱动性能下降超过三分之一）
+https://www.zhihu.com/question/463558139/answer/1933055051?utm_source=zhihu&utm_medium=social&utm_oi=729630383821324288

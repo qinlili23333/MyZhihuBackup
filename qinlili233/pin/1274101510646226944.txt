@@ -1,0 +1,1 @@
+Skylake核显在chrome软解av01视频时会出现极其严重的lag，目前无解，个人解决办法是强制chrome跑在独显上

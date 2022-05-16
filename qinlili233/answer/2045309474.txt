@@ -1,0 +1,3 @@
+geekbench和安兔兔， 哪个更能真实反映骁龙、猎户、麒麟等与A系芯片的实际性能差距？
+<p data-pid="Hg7F1cnY">applebench和雷兔兔都不大行</p><p data-pid="8ptAqCBc">3dmark和gpuflops比较靠谱</p>
+1628338327

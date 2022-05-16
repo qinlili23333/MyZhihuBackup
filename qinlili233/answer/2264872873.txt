@@ -1,0 +1,3 @@
+Apache 存在 Log4j 远程代码执行漏洞，将给相关企业带来哪些影响？还有哪些信息值得关注？
+<p data-pid="6Wld2jWV">由于minecraft java版也使用了log4j，这个漏洞甚至可以用来在生存模式下作弊</p><p data-pid="dwb-QajK">实测在低版本java（java8u191之前的版本）下可以在minecraft聊天内使用jndi注入，因为minecraft会把聊天输入内容打在log里，用的就是log4j，因为命令方块也可以实现此注入，在有外部程序配合的情况下，可以实现完全看不出任何破绽的作弊</p><p data-pid="nJxgPNFE">官方启动器+官方jre玩家不用进行任何操作，虽然正版的log4j版本是存在漏洞的版本，但是因为目前官方启动器用的jre是基于openjdk16的，openjdk16不能使用jndi注入</p><p data-pid="EaBuObHW">但是还在使用低版本java开服的服主，建议尽快升级log4j和java版本</p>
+1639111519

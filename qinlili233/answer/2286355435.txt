@@ -1,0 +1,3 @@
+桌面应用的开发，如果使用服务器+浏览器的模型，有什么优点和缺点呢？
+<p data-pid="jR5Jl6ef">最大的缺点就是复杂元素的渲染</p><p><br></p><p data-pid="3cD10p8o">你可以试着做一个10w行级别的复杂列表滚动</p><p data-pid="7L4XLSKJ">套壳的话你基本上得卡的动弹不得</p><p data-pid="tMIutq7w">但是完全native组件的话这样的长列表简直是小case，系统都给你优化的非常好了</p><p><br></p><p data-pid="fa3OxLRV">utorrent最新版就是把界面给做到浏览器里去了，结果就是新版utorrent无法下载我手头几个文件数量达到3w个级别的种子</p><p data-pid="mpKVw_KA">steam新的游戏库，库里游戏达到上千个之后也会卡的几乎不能自理，必须分组显示否则真的卡</p><p data-pid="nR7TjF0a">套壳目前对于长列表真的很难处理好，如果用lazy load的话对于滑动加载的问题不大，但用户没法直接拖右侧滑块一拉到底，或者就是一拉到底马上无响应</p><p><br></p><p><br></p><p data-pid="IRFrtSdY">当然，你可以用wasm+canvas做，会流畅很多，但这样都把套壳唯一的优势方便给舍弃了，我为什么不直接写native组件呢？难不成有人觉得webgl这种阉割过的东西比得过桌面的d3d？webgl连xp的d3d9都打不过好不好</p>
+1640488409

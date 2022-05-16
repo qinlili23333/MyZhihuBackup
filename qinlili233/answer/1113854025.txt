@@ -1,0 +1,3 @@
+如何对 0，0，0，0 进行运算得到 24？
+<p data-pid="_f25fru6">二更：其他的答案都是看作四个0做运算，现在我们来试试直接对0,0,0,0这个整体来</p><p data-pid="1B5Dsxqe">[0,0,0,0].length=4</p><p data-pid="q5mzjT9_">一步到位，都不用把四个0拆开来</p><p><br></p><p><br></p><hr><p data-pid="eXCuh60i">("0"+"0"+"0"+"0").length=4</p><p data-pid="GPFew35K">4!=24</p><p><br></p><p data-pid="fC6UVsAk">可惜js不能方便的算阶乘</p>
+1586095374

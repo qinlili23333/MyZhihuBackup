@@ -1,0 +1,3 @@
+2019 年上半年有哪些机械硬盘（根据预算）可以无脑买？
+<p data-pid="TOiKLx1k">最简单的避免踩坑方法：只买SAS硬盘。</p><p data-pid="CYBXzGxO">SAS硬盘都是企业级产品，不存在坑货。</p><p data-pid="yDOxYcz6">什么你说你没有SAS接口？一根SAS转SATA解决问题。</p><p data-pid="YXVTHxEo">哦对了，阵列卡现在x宝20一张，考虑一下？附加原装电池也只要15！</p><p data-pid="s-ZdVewb">另外强烈推荐万转级别的SAS，速写速度爽飞。</p><p data-pid="-A7pG8fj">不推荐15k5转速的，太热了，机箱散热不好容易出事。</p><p data-pid="Zs-KPopt">当然散热好的情况下15k5土豪随便上。</p><p data-pid="DFlb5QcK">SAS硬盘目前没有见到使用SMR的，也没见到有什么不稳定的坑货。</p><p data-pid="VYHauRVs">唯一缺点大概就是比一般机械贵了，当然还是比固态便宜的，很适合做游戏仓库盘，读条不输固态。</p>
+1550060293

@@ -1,0 +1,2 @@
+单核解压是真的慢，要是能多核就好了
+https://pic2.zhimg.com/80/v2-56578aa90a5da4353e9255bd3a883785_qhd.jpg

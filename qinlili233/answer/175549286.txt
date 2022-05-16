@@ -1,0 +1,3 @@
+怎么看cpu单核性能？
+<p data-pid="OlK_1XIJ">用vb6写个小程序，运行一万次数据交换，记录用时即可，vb6不支持多线程</p><p data-pid="26iK_w21">参考代码:</p><p data-pid="yFcmbXeN">Dim a As Integer</p><p data-pid="QLUKi_6B">Dim b As Integer</p><p data-pid="MsqYpL9m">Dim c As Integer</p><p data-pid="3YZCmdpX">a =1</p><p data-pid="gcBSxx6n">b = 2</p><p data-pid="v_oQ1ORz">c = 0</p><p data-pid="gfpgh4j5">Do While c &lt; 10001</p><p data-pid="9bl017a4">a = a ＋ b</p><p data-pid="1_IVocqr">b = a － b</p><p data-pid="NBA_TjI_">a = a － b</p><p data-pid="BIjfv74I">c = c  ＋1</p><p data-pid="jOeyMTob">Loop</p><p data-pid="hI3Tttjt">print "finish"</p>
+1495944315

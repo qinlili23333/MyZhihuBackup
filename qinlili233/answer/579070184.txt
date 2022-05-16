@@ -1,0 +1,3 @@
+2019年上半年有哪些固态硬盘是可以（根据预算）无脑买的？
+<p data-pid="vHNqdxTR">如果你能收到s3600/3610/3700/3710，别犹豫，买就对了</p><p data-pid="or8WqASY">真mlc，绝不掉速，超耐操</p><p data-pid="giPAokmv">每天写4t，你也能用五年</p><p data-pid="ePMUP_Gc">（大部分数据中心级的mlc盘，都能买，买就对了，人家敢用来放高吞吐的重要数据，你还担心什么？）</p><p data-pid="ZIQ-_57K">哦对了，这些真mlc盘的4k性能虽然是sata，完全可以对抗中端nvme</p>
+1548113543

@@ -1,0 +1,3 @@
+Windows 有哪些强烈不建议装的软件？
+<p data-pid="APEegNQb">所有安全软件</p><p data-pid="OkFzQ5RT">任何安全软件都会影响性能，没有例外</p><p data-pid="jfl3G7DY">为了极致性能发挥，不推荐安装任何安全软件</p><p data-pid="X6Kfw44T">勤备份比安全软件有用的多。一天一个还原点，一周一次全盘镜像，病毒能拿我怎么办？</p><p data-pid="UHV9p3fs">备份都在闲时进行，绝对不会影响使用时的性能</p><p></p>
+1589419413

@@ -1,0 +1,3 @@
+双碳电池靠谱吗？
+<p data-pid="6J9pe7SV">泻药</p><p data-pid="rP4gMSd2">替代锂电池不可能</p><p data-pid="sqr0pjUX">优势在于耐高温</p><p data-pid="hPn8SFoM">虽然目测这种电池里碳碳间是单键，但是碳碳之间的键要高温断裂都是348kj/mol＋的，键能高，仅仅加热的话不容易出问题</p><p data-pid="Dn0mFY4C">问题在于</p><p data-pid="8n9Z8vz6">碳，是可燃的，而电池是要求一定抗燃烧能力的，这玩意着火后比锂电池可怕多了(不过至少它不会boom，锂电会boom)</p><p data-pid="yq59A486">具体会应用在哪些领域，还要等结构式放出来</p>
+1495340905

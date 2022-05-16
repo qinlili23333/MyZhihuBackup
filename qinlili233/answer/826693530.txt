@@ -1,0 +1,3 @@
+为什么 iPhone 11 系列依然只支持 18w 的充电功率？
+<p data-pid="21c1G4I5">18w不是关键，关键是能维持在18w多少时间</p><p data-pid="XjGFpn0V">youtube上有一个1+7和zenfone6的充电对比视频</p><p data-pid="ZlYD6GO7">1+7用一小时充满（3700mah），而这一个小时里zenfone6全程保持18w充到69（3450mah）</p><p data-pid="ykmqEt_k">18w慢吗？很显然一小时3450mah不慢，成绩和33w的warp很接近（warp达速时间很短）</p><p data-pid="tbR9JaXU">现在就等真机测试，看看果子能持续多久18w，如果能和zf6一样一小时不减速，倒是也足够了</p><p><br></p><p data-pid="tLe-6MaC">ps：对于zf6的5000mah，18w恰好相当于接近1c倍率充电，和阿苏斯官方“养护电池‘的理由恰恰相符</p>
+1568712195

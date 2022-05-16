@@ -1,0 +1,5 @@
+网上有m1 mac 8g内存相当于x86 16g内存的结论，正确吗？请结合统一内存进行分析？
+<p data-pid="lQRqoSYH">显然错误</p><p data-pid="eyE3J-nQ">x86的16g是真的可以下载三个4g的压缩包到内存里（用下面的代码实现）</p><div class="highlight"><pre><code class="language-text"><span></span>Dim fileReq As HttpWebRequest = HttpWebRequest.Create("http地址")
+Dim fileResp As HttpWebResponse = fileReq.GetResponse()
+</code></pre></div><p data-pid="IGZ3_qF_">但m1的8g不用swap肯定完不成这个任务</p><p><br></p><p data-pid="E9TDdSzD">然而用swap的话也就失去了压缩包不落地减少固态磨损的意义了</p><p><br></p><p><br></p><p><br></p><blockquote data-pid="We87jRJm">反正我给macos虚拟机都拉了32g内存，大内存是真的香</blockquote>
+1648867860

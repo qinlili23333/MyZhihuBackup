@@ -1,0 +1,3 @@
+随着《黑神话：悟空》的预告发布，如何看待游戏的开发引擎是UE4而不是Unity，优势在哪？
+<p data-pid="L4y6UOKl">当你需要使用一些引擎的高级特性的时候，ue4的优势就出来了</p><p data-pid="YHDimEOD">unity如果有不会用的特性，只能对着文档或者找教程一点点摸索</p><p data-pid="kZTgDhWI">但是ue4就好得多了，不会用？去翻翻源码就行了</p><p data-pid="cL7AMB2D">看看源码里这个特性是如何实现的，就自然会用了</p><p data-pid="Z_X8rQlC">当你的团队里有几个能吃透ue4源码的大牛的时候，ue4比unity就好用的多了</p><p><br></p><p><br></p><p><br></p><p><br></p><p data-pid="egGxf1W4">以及unity的图形api兼容性属实很烂，pc端目前能稳定跑的就dx11（dx12极不稳定），ue4现在pc端有稳定的dx12和比较稳定的vulkan了</p>
+1598751528

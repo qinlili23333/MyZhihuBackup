@@ -1,0 +1,3 @@
+地铁离去莫名卡顿怎么办?
+<p data-pid="wcNtqS-5">这游戏就这样，正常</p><p data-pid="9DRTry5Z">本来优化就烂，dx12帧率还不如dx11，然后还有个万恶的denuvo，不卡才奇怪</p><p data-pid="Dq5Hek91">没有解决办法，只能等游戏移除denuvo，不然还是全低都卡</p>
+1577868034

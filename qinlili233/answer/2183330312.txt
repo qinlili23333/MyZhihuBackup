@@ -1,0 +1,3 @@
+2021年，Firefox 相比于 Chrome 来说还有哪些优势？
+<p data-pid="PTZAOtt7">构建快太多</p><p data-pid="yyuL6T90">克隆源码和准备环境在网络良好的情况下只需要二十分钟不到</p><p data-pid="6RPI5Ab2">而编译本身也只需要二十分钟出头</p><p data-pid="6xaRCPmM">全程用时不到一个小时</p><p><br></p><p data-pid="mK6KHzJX">chromium呢？</p><h2>一个小时？他娘的源码都还没克隆下来呢</h2>
+1634887990

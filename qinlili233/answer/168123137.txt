@@ -1,0 +1,3 @@
+如何看待腾讯推出宣称性能优于谷歌 webp 的新图片格式 TPG？
+<p data-pid="gFXhfwPh">讲个笑话，png吃空间</p><p data-pid="XOn4gH_r">认为png吃空间的应该不知道有个神器叫limitpng</p><p data-pid="WZZsm3vo">这个神器的功能就是压缩png，支持有损和无损，无损压缩很给力虽然略慢</p><p data-pid="UZ862Fes">另外恕我直言，不支持无损压缩和透明的格式都是辣鸡辣鸡大辣鸡</p><p data-pid="tetqoxxU">webp已经支持无损压缩和透明了，所以我选择webp是因为同画质比png略小一些而已</p><br><p data-pid="kcTGxlzI">另外tx一直都在用webp，难道webp满足不了tx？webp神器智图就是tx团队的作品，微信读书等tx系app也使用webp做界面，webp玩转后已经足够棒了，而且tx都玩转了，很明显这种新的tpg格式毫无优势尤其是兼容性</p>
+1494514249

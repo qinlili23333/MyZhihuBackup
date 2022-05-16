@@ -1,0 +1,1 @@
+已经确认，如果在Android开发中对activity设置parentActivity却并没有设置launchMode为singleTop/singleTask，就会导致内存泄漏

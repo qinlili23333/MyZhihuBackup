@@ -1,0 +1,3 @@
+为什么还有很多人用360安全浏览器？是真的很安全吗，还是edge和chrome不会用？
+<p data-pid="blU73vqR">实话实说，我巴不得所有不会用chrome/edge/firefox/safari的用户如果要用国内公司的浏览器至少也用个360浏览器</p><p data-pid="fjTRbiX2">360至少算是国内公司搞的浏览器里面跟进chromium版本号比较快的了，webgl啊wasm啊es6啊等等特性什么的都支持的比较好，我还没遇到过chrome/firefox能跑的页面360跑不了的情况</p><p><br></p><p data-pid="3klNEENJ">某些数字比360大得多的浏览器，wasm都跑不顺畅经常崩，es标准支持滞后连个SearchParams都没有的，用户用这些chromium基线版本还在三四年前的浏览器才是真的让我想一刀把用户脖子抹了的</p><p></p>
+1636717291

@@ -1,0 +1,2 @@
+修复内存占用不够高的界面，提升整体内存消耗
+https://pic1.zhimg.com/80/v2-35059cc533f4f96702605a8f191df6bf_qhd.jpg

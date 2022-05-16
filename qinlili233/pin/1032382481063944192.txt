@@ -1,0 +1,1 @@
+让你的支付宝秒开！build.prop加入以下四行<br>pm.dexopt.bg-dexopt=speed-profile<br>pm.dexopt.boot=speed<br>pm.dexopt.first-boot=speed<br>pm.dexopt.install=speed<br><br>如果已经有这四行就把后面的参数改成和我一样。<br>用幸运破解器等工具删除所有odex，清除虚拟机缓存并重启。<br>本次重启根据你安装app数量可能需要十分钟到一小时不等，保持电量充足并耐心等待。<br>重启完成后正常使用手机半天，之后你会发现不但支付宝秒开了，整个手机就像换了新机器一样快。

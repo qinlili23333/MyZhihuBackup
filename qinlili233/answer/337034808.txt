@@ -1,0 +1,3 @@
+如何看待谷歌的安卓嵌入式车机Android Auto Embedded?
+<p data-pid="sbn_Wk0Y">泻药</p><p data-pid="08Bv8x-x">个人认为这个可能会和智能驾驶紧密结合，前景还是挺广的</p><p data-pid="WGcrmQcA">另外老黄的新自动驾驶平台使用两颗扶他架构gpu配合两颗Tegra Xavier芯片，Xavier是arm64架构soc，可以完美运行安卓，所以接下来如果不出意外，可以看到在Tegra Xavier平台运行Android auto，考虑到老黄早就放出了arm平台的cuda库，这个希望还是挺大的</p><p data-pid="llBR5I9-">不过不知道老黄那边有没有这方面考虑</p><p data-pid="V-LVEg2f">两颗Xavier一颗运行Android auto，负责整体运算和网络通讯，另一颗负责调度gpu，我觉得挺合理</p>
+1520506166

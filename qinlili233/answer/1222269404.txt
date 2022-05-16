@@ -1,0 +1,3 @@
+加大笔记本风扇转速有助于散热吗？
+<p data-pid="zwp7FS_r">有帮助</p><p data-pid="UOB3C6DY">笔记本散热能力=空气比热容x风扇风量x进出风温差</p><p data-pid="VA8r0jHw">空气比热容改不了</p><p data-pid="GTQbTyHt">进出风温差看热管</p><p data-pid="2ACDuE1Z">风扇风量和转速有关</p><p data-pid="Prfn_bgS">加快转速，自然就有帮助了</p><p></p><p></p>
+1589441905

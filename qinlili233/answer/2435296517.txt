@@ -1,0 +1,3 @@
+为什么 WebStorm 这么好用还会有人去用 VSCode？
+<p data-pid="w2m8RP3Z">vscode不但可以写js，写php，还可以写cpp，写python，写rust，写java，用markdown写小说，甚至还可以刷知乎</p><p data-pid="5Aaign2X">webstorm显然不行</p>
+1649730570

@@ -1,0 +1,3 @@
+今日逆向小技巧：把x64dbg添加到steam游戏列表，在启动参数里保存要调试的steam游戏执行文件路径，即可调试带验证steam的游戏
+https://pic3.zhimg.com/80/v2-788520e047679514fdf0b1cca796f0e2_qhd.jpg
+https://pic3.zhimg.com/80/v2-28f53038c0e54ec53ded9b7cc38585ef_qhd.jpg

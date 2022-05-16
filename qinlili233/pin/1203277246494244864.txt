@@ -1,0 +1,1 @@
+ADLauncher今日更新内容：<br>-优化延时方式，废弃Timer.exe<br>-使用7za代替7z优化体积<br><br>截至到现在，部署到游戏时体积增加已经可控制在500k内<br><a href="https://link.zhihu.com/?target=https%3A//github.com/qinlili23333/ADLauncher" data-icon-type="link" data-original-url="https://github.com/qinlili23333/ADLauncher" class="external">链接</a>

@@ -1,0 +1,1 @@
+surface go的性能其实说实在有点意外的惊喜，corona blossom湿滑流畅全程60fps，面对现在性能需求越来越高的gal一点压力都没有

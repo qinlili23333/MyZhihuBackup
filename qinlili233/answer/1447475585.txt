@@ -1,0 +1,3 @@
+怎样看待unity 连年亏损？
+<p data-pid="2X-RltRa">搞开发的多少有点精神洁癖，尤其对于绑定手机这种比较敏感</p><p data-pid="XcqTND_4">结果unity非要搞让你登录时绑定手机</p><p data-pid="ui0h3e9H">原先用邮箱注册的账号也要你绑定</p><p><br></p><p data-pid="r5XNEQzZ">以及三天两头的你没有许可证</p><p><br></p><p data-pid="Laaee5RW">自己不把自己玩死才怪</p><p><br></p><p data-pid="7VCaq9tB">还有那屎一样的dx12兼容性，把编辑器改到dx12都能直接卡启动</p><p data-pid="XluW4-42">然后就这屎样还不开源，隔壁ce和ue出了问题至少可以翻源码解决</p><p><br></p><p data-pid="hwp4Z29i">打包器就更睿智了，有过几个版本il2cpp打不出64位包，第三方整合更是一塌糊涂，一点拓展性都没有（比如难以整合denuvo，虽然denuvo也是屎，但是unity根本没法很好的整合denuvo，反破解效果极差，毕竟游戏不可能像unity自己的编辑器一样整天找不到许可证）</p><p><br></p><h2>ce和ue二分天下的好时代，快来临力！</h2>
+1598948332

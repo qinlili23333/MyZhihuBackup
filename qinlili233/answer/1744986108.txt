@@ -1,0 +1,3 @@
+工作室拉了20根一百兆的宽带，想分享出来20个IP，一个IP联七八个手机，用什么路由器比较好?
+<p data-pid="vHEtGxGy">个人还是推荐软路由+有线交换机+usb网卡</p><p data-pid="L2jkcAmj">usb网卡和充电共存有很多方法：</p><p data-pid="JgxvW8Nv">双接口手机（rog phone等）直接一个充电一个接网卡</p><p data-pid="dykeHBC6">支持单口多功能复用转接头（笔记本typec用的那种）直接用充电+usb二合一转接头配usb网卡</p><p data-pid="fOAjfcJJ">无线充电手机直接usb网卡+无线充电解决</p><p><br></p><p data-pid="P6b0ym0P">网线传输才能告别信号拥堵！</p>
+1614056018

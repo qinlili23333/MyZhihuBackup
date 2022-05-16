@@ -1,0 +1,3 @@
+1TB+128G固态好用，还是256G固态好？
+<p data-pid="WPIyugZP">泻药</p><p data-pid="pY-VRjaa">256g固态好，峰值高的多</p><p data-pid="DoAR1K_U">当然如果内存32g以上我建议128＋1t，然后各给4g的ramcache</p>
+1501396098

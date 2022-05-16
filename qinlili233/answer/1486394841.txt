@@ -1,0 +1,3 @@
+微内核鸿蒙OS 2.0是如何做到不使用Linux和安卓代码同时又兼容Linux和安卓的呢？
+<p data-pid="Q8gLAJmV">单论技术上是完全可行的，只要把原来的api全部用自己的办法实现一遍就行了</p><p><br></p><p data-pid="xjxae-fq">有个库叫dxvk，支持用vulkan运行d3d程序，原理很简单，就是把d3d所有接口自己用vulkan实现了一遍</p><p data-pid="5_x-yo5A">wine也是，把win nt所有接口自己实现一遍来兼容win</p><p><br></p><p data-pid="7pHtiOe_">至于鸿蒙到底是怎么做的，这点我不清楚，但至少从技术上来看，不用linux代码来兼容linux必定可以做到，更别说linux上的安卓了</p><p></p>
+1600730966

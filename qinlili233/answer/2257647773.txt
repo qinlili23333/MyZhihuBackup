@@ -1,0 +1,3 @@
+现在有必要买4x4 MIMO 路由器吗?
+<p data-pid="agAlbdZp">有必要</p><p data-pid="T6A_gUQD">买了4x4的路由器，才可以搭配94360z4这类4x4的网卡跑出更快的速度</p><p data-pid="qUwmk-zY">4x4 80mhz速度和2x2 160mhz一样，但是对信号强度的要求更低，稳定性更强</p><p data-pid="Em-JdKWt">如果不开160mhz，2x2 wifi6也就1.2gbps，但是4x4 wifi5却能上1.73gbps，显然后者上限更高</p>
+1638704016

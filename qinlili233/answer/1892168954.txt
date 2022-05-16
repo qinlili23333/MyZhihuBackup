@@ -1,0 +1,3 @@
+为什么现在手机性能比switch好，却不能玩到3a呢，想老滚5之类不吃配置的应该也是带的动的吧？
+<p data-pid="lvxyFak5">opengl es就是一个灾难性的标准</p><p data-pid="fvLRTWd1">因为阉割了太多的特性，gles的极限非常低</p><p data-pid="3ru6TZ3y">而switch拥有完整的desktop gl4.5和原生vulkan1.1支持</p><p><br></p><p data-pid="O__Zstji">android11开始终于可以全面vulkan了，但是性能...（因为系统界面的vulkan本质是gles通过angle翻译过去的）</p><p><br></p><p data-pid="CKT5-Gho">desktop gl已经是3a大作的最低需求了（半条命1就是desktop gl，不支持gles）</p>
+1621305914

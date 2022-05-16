@@ -1,0 +1,3 @@
+2021年的DIY市场与笔记本市场，旧货的吸引力是否更高了?
+<p data-pid="bQlBMqlf">想多了</p><p data-pid="wNb59VEA">680和3060m的理论浮点性能差距只有三倍</p><p data-pid="qL-231In">680打apex只能1080p平均50fps</p><p data-pid="IcceEd41">3060m则可以2k150fps</p><p data-pid="I622xndC">两者的apex性能差距达到了六倍以上（2k负载是1080p的2.25倍）</p><p><br></p><h2>680是什么？是6系的单芯卡皇啊</h2><h2>是在2102年号称带入4k时代的卡啊</h2><p data-pid="KNfA9OQU">哦对了，680不支持hevc硬解，放个4k60的hevc视频cpu快冒烟了</p><p data-pid="a-ULy8mF">3060完美硬解，丝滑流畅</p><p><br></p><p><br></p><h2>旧货真不香</h2>
+1629856835

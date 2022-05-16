@@ -1,0 +1,2 @@
+java版mc已经可以运行在d3d12上，但目前帧率显然不如原生gl高，不过至少现在高通的arm64设备也可以跑java版了
+https://pica.zhimg.com/80/v2-b37eb090944f821492aeafbe784cd4fa_qhd.jpg

@@ -1,0 +1,3 @@
+怎么实现手机自动切换WIFI？
+<p data-pid="GNa9xBK4">在路由器支持的情况下，如果手机不能自动切换，那么打开下面这个文件（针对高通平台手机）</p><p data-pid="jL_dVbGJ">/system/vendor/etc/wifi/WCNSS_qcom_cfg.ini</p><p data-pid="7DilYigD">修改下列配置</p><p><br></p><p data-pid="Xd7ezp2H">FastRoamEnabled=1</p><p data-pid="bhqVEPmc">这个必须打开，快速漫游支持</p><p data-pid="u1o1GOWa">RoamRssiDiff=8</p><p data-pid="83kp4g4Q">信号强度切换阈值，太小会导致频繁切换，太大则切换响应迟缓，一般默认是5，个人觉得8-12较为合适</p><p data-pid="940gBTYX">gRoamIntraBand=0</p><p data-pid="AS4qcjvX">多个ap信道一样则可以改成1，信道不同情况下只有设置为0可以漫游</p><p><br></p><p data-pid="7punzvr7">保存配置文件后重启即可</p><p data-pid="CuZNAOyj">如果没root或没解锁system也可以通过rec操作或直接在编译系统时修改</p>
+1592009358

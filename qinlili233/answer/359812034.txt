@@ -1,0 +1,3 @@
+Windows 10 有哪些忍不了的设计？
+<p data-pid="OMxTXDs8">不能强制独显硬解</p><p data-pid="EaEZDUVr">硬解个4k hevc核显卡成狗</p><p data-pid="TWY84g4u">当然有办法设置独显硬解，就是你所有的游戏会变成默认核显运行需要手动改成独显</p><p data-pid="O2o_cDsr">然后更新完显卡驱动，你会发现又要重来一遍</p>
+1522986470

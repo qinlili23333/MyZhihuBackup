@@ -1,0 +1,3 @@
+家长可以通过 Wi-Fi 发现我新买的手机吗？
+<p data-pid="XCqeE1gY">可以</p><p data-pid="Uazq13be">而且有办法干掉随机mac的干扰</p><p data-pid="AEo0f4qZ">办法很简单，不过可能需要一台梅林/openwrt的路由器</p><p data-pid="ifbGGDZS">每台设备接入的前10个数据包，不允许https，发现https全部阻断</p><p data-pid="QIEX9IuY">为什么这么做？因为https不装证书不能解密，可能影响接下来的操作</p><p data-pid="JSKTZWLu">然后，所有http数据包做过滤，仅过滤http code为204的数据包</p><p data-pid="F9yhmPfO">为什么要过滤204？因为刚连接wifi后为了验证是否连通网络需要发起一个204请求。https请求失败就自动回落到http，截至android12仍然是这样的</p><p data-pid="yG6MO0p1">过滤到204数据包之后，数据包头的ua里就包括了设备型号</p><p><br></p><p><br></p><p data-pid="0xQZf9OZ">当然，也可以守株待兔法，总归会有app发送http流量的，反正遇到http请求就把请求头的ua给扒出来就能看到设备型号了，甚至能看到系统版本和webview版本</p><p></p>
+1646283296

@@ -1,0 +1,3 @@
+知乎这个新版首页是不是连测试都没有通过就放出来了的，这么经典的卡滑动bug都有
+https://pic1.zhimg.com/80/v2-673ff06207866943b56bae2e94a2dc71_qhd.jpg
+https://pic3.zhimg.com/80/v2-4c719e86cc0d738d560facf652b9de1f_qhd.jpg

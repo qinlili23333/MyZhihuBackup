@@ -1,0 +1,3 @@
+如果给所有车位都装一个16A的插座，是不是可以解决电动车充电的问题？
+<p data-pid="e7gIJDQK">如果是单相插座的话</p><p data-pid="WsN47Gz1">16a x 220v=3.52kw</p><p data-pid="6EYxm79w">太少了，什么车充电功率这么低</p><p data-pid="fhXulVnT">上个380v 25a，有9.5kw，差不多才够用</p>
+1639456186

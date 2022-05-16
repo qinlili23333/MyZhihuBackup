@@ -1,0 +1,3 @@
+如何看待还没封城，上海健康云先崩了这件事情？
+<p data-pid="afmdA9C0">看了底下其他回答的图，实在是绷不住了</p><p data-pid="0u2CK9dv">直接把tomcat报错页面传给用户，这得多铸币啊</p><p data-pid="ISixOaYt">正常情况不都应该网关检测到tomcat返回500后向用户传输一个自定义报错页面么</p><p data-pid="ipQqQDXH">就这水平，本来就早晚得寄</p><p></p>
+1647157846

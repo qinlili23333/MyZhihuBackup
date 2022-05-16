@@ -1,0 +1,3 @@
+做出不能挖矿的显卡难吗？为什么？
+<p data-pid="5VuehMNm">难</p><p data-pid="7Od622mD">因为没有办法把挖矿和正常的显卡通算区分开来</p><p data-pid="PbZuqsG-">假设我显卡上跑着一个cuda运算，你怎么判断我是在挖矿还是在炼丹？</p><p data-pid="KBcbJ0xk">之前的浏览器挖矿脚本各位都知道吧，浏览器挖矿可以利用浏览器的硬件加速，模拟gpu渲染来计算，这个骚操作不仅仅用于浏览器挖矿， <a class="member_mention" href="http://www.zhihu.com/people/2e15a504da4f7e9447a4ac47d72a0a2e" data-hash="2e15a504da4f7e9447a4ac47d72a0a2e" data-hovercard="p$b$2e15a504da4f7e9447a4ac47d72a0a2e">@立党</a> 的hedgehog lab也有类似的骚操作实现浏览器内gpu加速计算。在chromium系浏览器内，得益于ANGLE，这些计算请求被转换成d3d请求，而d3d正是绝大多数游戏使用的渲染方式。怎么区分？没法区分！</p><p data-pid="2WZjx8RJ">黑名单制的话就更好绕过了，最简单改个名，复杂点加个壳，总有绕过的办法</p><p data-pid="S_j_j5tM">至于白名单，做出来就是砸自己招牌，怎么解决新游戏支持？</p><h2>限制挖矿根本做不到</h2><p data-pid="G7gB3xgq">以及，7x24炼丹的丹炉卡，未必比矿卡好到哪里去</p>
+1613692501

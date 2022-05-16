@@ -1,0 +1,2 @@
+草撞上互锁逻辑了，安装ffmpeg需要覆盖一个.so，覆盖这个so需要卸载另一个库，卸载另一个库要先修复dpkg，修复dpkg要覆盖这个so
+https://pic3.zhimg.com/80/v2-40c427f3243750fae75888050505e3c3_qhd.jpg

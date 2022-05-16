@@ -1,0 +1,3 @@
+修电脑换CPU被坑了，怎么办？
+<p data-pid="0tiBMh8l">焊上焊点？你家cpu是单片机？</p><p data-pid="jL8ivzrk">恭喜被坑</p><p data-pid="NDVPb2YQ">把一个笔记本cpu焊接到主板上需要：</p><p data-pid="55w_0O6r">1：对cpu植球，该步骤是必须操作，无论是流水线生产还是单个人工操作，该步骤不会损坏cpu，植球后的cpu也不会贬值更不影响用于其他机器</p><p data-pid="EryuID2E">2：用热风枪/焊台等焊接设备将cpu直接压到主板上，高温下使锡球融化，实现焊接</p><p><br></p><p data-pid="rXO4D521">这两个步骤都是可逆过程，也可以反复进行，所以不存在中途停止后cpu完全损失，除非技术失误</p><p><br></p><p data-pid="NxBYE0na">开始焊接中途停止，只应该收取少量人工和材料费，不应该收取整个cpu费用</p><p data-pid="AWjzyQzf">如果对方要求收取cpu费用，你应该要求把新的cpu带走</p><p><br></p><p data-pid="UYcUYJYD">具体的焊接操作，可以去youtube或b站搜索笔记本维修厮，他的操作是规范的</p><p></p><p></p>
+1596190491

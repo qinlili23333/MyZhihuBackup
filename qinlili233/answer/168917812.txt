@@ -1,0 +1,3 @@
+笔记本行业中，瓦时和毫安时这2种反映续航的参数，哪个靠谱？
+<p data-pid="XQhZ1Gw2">瓦时</p><p data-pid="lAoamg3c">你想想你家电表什么单位，你就明白了</p><p data-pid="-N1K26M4">供电局都在用的单位，能不准吗</p><br><p data-pid="nHrjjfEX">续航时间＝瓦时/功率</p><p data-pid="YfD39fAl">例如70瓦时，平均使用功率35w，就是两小时</p>
+1494669667

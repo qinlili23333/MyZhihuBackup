@@ -1,0 +1,1 @@
+知乎的网页版到2022年都没有service worker，甚至连个manifest文件都没有

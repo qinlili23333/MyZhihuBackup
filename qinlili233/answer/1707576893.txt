@@ -1,0 +1,3 @@
+为什么现在说高质量中国游戏崛起一直要看单机游戏?不能先做高质量网游吗？
+<p data-pid="QW9LNAEb">我个人的观点模式网游更容易暴露开发者水平的下限</p><p data-pid="yFcLZmt7">虽然对于用户配置要求这点我和 <a class="member_mention" href="http://www.zhihu.com/people/4ecc03fa2d3d70c61b210270750a4749" data-hash="4ecc03fa2d3d70c61b210270750a4749" data-hovercard="p$b$4ecc03fa2d3d70c61b210270750a4749">@框框框子</a> 意见相左，我觉得网游也可以有高配置要求</p><p data-pid="gcy-wGYL">但是别忘了，最致命的问题在于，如果代码写得烂</p><h2>单机游戏好甩锅啊</h2><p data-pid="R_PUjFN4">你卡就是硬件不行，和我的游戏就是没关系</p><h2>网游就不好甩锅了</h2><p data-pid="v3tztiBP">Client卡，可以甩给用户，Client闪退了都可以说用户杀毒软件有问题，杀软老背锅了</p><p data-pid="20QFEdRq">Server卡，甚至内存泄漏直接连不上了，或者负载均衡没做好把人毛子玩家接到美国数据中心去了，你再说是用户的锅，用户把你当智力残疾看</p><p></p><p></p>
+1612076828

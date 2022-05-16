@@ -1,0 +1,2 @@
+win10相册的视频剪辑竟然用了nvenc显卡编码
+https://pic3.zhimg.com/80/v2-5eaed5cca39484b69e2891405285d2f2_qhd.jpg

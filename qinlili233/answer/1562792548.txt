@@ -1,0 +1,3 @@
+程序员的bug解决不了怎么办？
+<p data-pid="lWVcX7CJ">如果解决bug的成本已经大于重构，我选择直接重构</p><p data-pid="0K4orQs0">在高度遵循模块化开发理念的情况下，重构包含bug的部分工程量并不大</p><p data-pid="ueVNGSpc">为了避免一样的bug，重构必须换方法，和原来的一定要不一样</p><p data-pid="WvCkOez2">比如一个网页我原先用的是stackoverflow上抄来的获取query字符串的js方法，但是这个方法不能处理中文字符，所以我重构时就换到URLSearchParams上去了</p><p><br></p><h2>当你找到绕过bug的替代方法时，就没必要死钻在那里研究bug了，开发的目的是解决需求，能解决需求的方法都可以用</h2>
+1604708622

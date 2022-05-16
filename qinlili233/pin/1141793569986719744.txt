@@ -1,0 +1,2 @@
+方舟编译器基于GCC，笑死<br><br>我是忠诚的Clang拥护者，所以我不推荐方舟编译器（笑
+https://pic3.zhimg.com/80/v2-ae14005f696f4a59e92fa95972a6f8c1_qhd.jpg

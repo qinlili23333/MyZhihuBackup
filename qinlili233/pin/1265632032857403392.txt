@@ -1,0 +1,4 @@
+给快刀s7加一个typec，不过现在只能5v，后期加装pd诱骗直接进12v，这个充电器是原生5-12v宽电压支持的
+https://pica.zhimg.com/80/v2-065705d7df25aa07ec0456a3fc26c1c8_qhd.jpg
+https://pic3.zhimg.com/80/v2-5b9d91688c322d0005574e6c51921644_qhd.jpg
+https://pica.zhimg.com/80/v2-4c1e8dda20cc82502777b1843a3e646e_qhd.jpg

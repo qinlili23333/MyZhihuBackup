@@ -1,0 +1,2 @@
+微信的内存占用优化烂到api26都救不了
+https://pic2.zhimg.com/80/v2-bf5011dbe7f7f2eae84b58dad61dd370_qhd.jpg

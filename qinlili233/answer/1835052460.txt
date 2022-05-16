@@ -1,0 +1,3 @@
+如何评价英伟达于 GTC 2021 大会发布的基于 ARM 架构的 Grace CPU？
+<p data-pid="DdIXlNYM">cpu这个公版架构应该是障眼法</p><p data-pid="zfopq1bm">可能现发布个公版版本，后期上自研，和tegra k1一样</p><p></p>
+1618392093

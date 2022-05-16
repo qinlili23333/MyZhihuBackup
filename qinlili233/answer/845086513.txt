@@ -1,0 +1,3 @@
+如何评价 2019 年 10 月 2 日微软新发布的搭载安卓系统的双屏手机 Surface Duo?
+<p data-pid="C2ADRs7f">首先，<a class="member_mention" href="http://www.zhihu.com/people/a121980a817655248e30d160d134577b" data-hash="a121980a817655248e30d160d134577b" data-hovercard="p$b$a121980a817655248e30d160d134577b">@玄隐</a> </p><p data-pid="5kzcGmFl">然后我觉得这玩意最适合的似乎是开发者¿</p><p data-pid="sdkjsI7l">左屏运行，右屏aide或者输出logcat，完美！</p><p></p>
+1570192375

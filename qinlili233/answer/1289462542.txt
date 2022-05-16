@@ -1,0 +1,3 @@
+PotPlayer 到底好在哪里？
+<p data-pid="l6XoJZO1">potplayer可以直接播放优酷的.kux文件</p><p data-pid="6cXaKqDq">以及核显播放8k hevc 10bit视频拖动进度条不会内存泄漏（win10自带播放器这么玩必内存泄漏）</p>
+1592459115

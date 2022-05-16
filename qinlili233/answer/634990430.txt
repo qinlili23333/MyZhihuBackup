@@ -1,0 +1,3 @@
+为什么单位开发的一些管理平台很多需要用谷歌或者火狐浏览器？
+<p data-pid="Ivbqh8Jt">IE很多特性不支持，比如vp9视频，还有webgl等</p><p data-pid="FwbrLK9e">chrome和firefox对新特性的支持跟进很快，两者均提供一天一个版本的最新测试版，可见其对特性适配的速度（chrome每天版是canary分支，firefox是nightly分支）</p><p data-pid="x8qSpvVb">得益于快速跟进的新特性，网页程序员可以利用这些特性开发出新功能</p><p data-pid="ur6DoRte">技术是在不断发展的，浏览器要发展，基于浏览器的网页也要发展，跟不上的浏览器和网页都自然会被抛弃，所以IE就这么被抛弃了</p>
+1553769774

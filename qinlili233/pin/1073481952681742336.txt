@@ -1,0 +1,3 @@
+海康c2000的512g寿命只有320tbw，而同样使用tlc的牙膏厂d3s4610的480g寿命已经达到了3pbw。现阶段的成果还根本不值得沾沾自喜，国产还有很长的路要走，至少距离牙膏厂还很远。（不过说实话我也挺好奇牙膏厂什么黑科技，tlc都这么耐操）
+https://pic2.zhimg.com/80/v2-41cbc21414152fcedfef5122bc0846b2_qhd.jpg
+https://pica.zhimg.com/80/v2-314a2c1a1ebf85aeb2120026e069dee9_qhd.jpg

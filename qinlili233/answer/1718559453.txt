@@ -1,0 +1,3 @@
+我想配一台最顶尖的电脑，有什么配置推荐吗，能在市场上买到的谢谢？
+<p data-pid="KT2pNyEf">750块树莓派可以实现一台1.5P算力的超算</p><p data-pid="IU4I_JPl">全球最快超算富岳的认证成绩是415P</p><p data-pid="b8lHou32">415/1.5x750=207500块树莓派</p><a data-draft-node="block" data-draft-type="mcn-link-card" data-mcn-id="1341472042315571200"></a><p data-pid="Q1WGUpEE">所以只需要把上面这个树莓派买上个三十万块，搭建一个集群，你就有了超越富岳的最顶尖的电脑了</p><h2>这可是完全能在市面上买到的哟，也就2.4个亿嘛</h2><p data-pid="TilwwTzZ">至于怎么装，你得问问甲骨文，他们有经验</p><blockquote data-pid="si6lI_gG">‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏</blockquote><p></p>
+1612612012

@@ -1,0 +1,3 @@
+为什么一说超威半导体（AMD）的缺点就被一堆支持者杠？
+<p data-pid="YTCe9gvt">因为AMD的优势直接把缺点掩盖了</p><p data-pid="0meoIybs">你们可能不明白什么叫力大砖飞</p><p data-pid="3pKBSyeL">AMD现在就是很好的贯彻了力大砖飞</p><p data-pid="0VPO-Cnv">没有HAXM模拟器效率腰斩？同价位比你多一倍核直接怼上去，腰斩都给你拉平！</p><p data-pid="XpmuedPJ">使用ICC编译器在AMD上运行慢？频率给你拉高点，补了！</p><p data-pid="x7jpVc6C">AMD现在就是别给我谈什么优化谈什么效率，老夫就只给你堆性能一把梭，直接把你优化全都扬了就完事了</p><p><br></p><p data-pid="ucRB2D3_">AMD还仍然是功耗大发热大（指3990wx），只是它性能太强了而已</p><p></p>
+1589673985

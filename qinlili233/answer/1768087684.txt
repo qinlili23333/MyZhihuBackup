@@ -1,0 +1,3 @@
+什么事情让你体验到 JPEG 和 RAW 的差别？
+<p data-pid="4Mqn-1_5">说个有意思的点</p><p data-pid="HKLD2MEA">如果你通过qq直接发送照片</p><p data-pid="CkhjOZaR">直接发送jpeg时qq会自动给你压图</p><p data-pid="6QOrS_yb">但是直接发送raw时qq会视作文件发送</p><p data-pid="IZHfQzd0">所以一般来说照片，绘画这类需要得到无损原稿的传输需求，如果要用qq实现都要避开常见的图片格式。tiff/svg/raw/heif目前都不会被压图</p><p data-pid="Jb6Yfh5G">当然，真正需要有损压缩的情况，我也不会选jpeg，webp他不香吗</p>
+1615158779

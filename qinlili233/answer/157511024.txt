@@ -1,0 +1,3 @@
+从操作系统本身来看Linux是否比Windows优秀？
+<p data-pid="_F7R5O7H">个人用win10，虚拟机是ubuntu，纯文本编辑器写代码更习惯win下，但是逆向什么的ubuntu方便多了，尤其我这种喜欢各种魔改安卓的人有个ubuntu是极好的</p><p data-pid="N5N7CGdL">哦对了安卓基于linux，而安卓和win也是各有所长</p>
+1492326095

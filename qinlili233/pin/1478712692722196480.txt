@@ -1,0 +1,2 @@
+试了一下ue5移动端，sdk只有29能出包，高了低了都出不了包
+https://pic2.zhimg.com/80/v2-757921eb66e38f90673536a26c37882b_qhd.jpg

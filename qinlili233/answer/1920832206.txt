@@ -1,0 +1,3 @@
+如何看待深圳特斯拉车主被困车内险些窒息，路人破窗救人？
+<p data-pid="q9ae7Obl">一看就知道12V歇逼了</p><p data-pid="8mbe2oHl">又一例有效印证我之前的猜测的例子</p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/answer/1853310962" class="internal">琴梨梨：如何评价特斯拉公布安阳刹车事故前1分钟数据：碰撞前时速降至48.5km，此前半小时刹车超 40 次？</a><p data-pid="0pBKNB7g">12V的这个铅酸小电瓶，维修更换非常麻烦，寿命却很短，显然是不合理的</p><p data-pid="rY9TlFXF">特斯拉没有设计直接从充电插头DCDC出12V的电路，12V补电需要用大电池DCDC，但大电池高压上电需要12V</p><p data-pid="tVhgvxDT">于是如果12V歇逼了，恭喜，老老实实拆开搭电吧，插充电头不能解决问题，因为12V没电你根本不能充电</p><h2>当然，这个问题不是特斯拉独有的，Taycan也有一样的问题</h2><p data-pid="RP7AW8Wg">只能说12V这个传统车遗留下来的问题，也不知道需要多少年才有新的解决方案可以完美代替</p><p data-pid="3Vf2cIPf">特斯拉今年新版Plaid上的12V锂电也只是过渡方案，不是最优解</p><p></p>
+1622710508

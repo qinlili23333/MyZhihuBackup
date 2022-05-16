@@ -1,0 +1,3 @@
+为什么 Windows 没有监控 CPU 温度的功能？
+<p data-pid="soEGnZxK">谁说没有？</p><p data-pid="QTGyzZhM">WMI里提供了MSAcpi_ThermalZoneTemperature接口</p><p data-pid="Me7LvaC4">这个接口可以在powershell里调用，而powershell是一个系统组件，不需要额外安装任何工具</p><p data-pid="64_M7uQ9">至于为什么你自己不会用这个接口以至于要去装娱乐大师，这就是你自己的问题了</p><p data-pid="_1TveBbh">（由于一些厂商魔改bios，导致这个默认接口可能无法获取温度，例如惠普需要通过/NAMESPACE:\\root\HP来获取）</p><p><br></p><p data-pid="WdlVzp3Z">操作系统不应该把所有接口都封装成交互工具，提供接口给开发者封装就行了。系统就要做好系统的事情，多管闲事反而有碍系统稳定性。</p><p data-pid="W5RucCpU">（其实windows还提供了大量命令行工具和接口，可以自己对着文档研究下）</p>
+1601858889

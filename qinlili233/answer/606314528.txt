@@ -1,0 +1,3 @@
+如何评价联发科官宣 Helio P90 芯片?
+<p data-pid="tF8brJDo">gpu浮点才130不到，屏幕分辨率只支持到1080p带鱼屏，落后的12nm制程</p><p data-pid="LUwYqvxL">只有两颗大核心，cpu性能完全不敌855甚至打不过845，gpu性能还不如660</p><p data-pid="ZkRrtVbM">谁会想不开到用p90去做高端机？</p><p data-pid="dxR-7wy8">这东西只能做699，撑死了做999，要做1499都难</p>
+1550910150

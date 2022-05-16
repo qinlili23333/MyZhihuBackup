@@ -1,0 +1,2 @@
+头条的hdr是假hdr，b站和youtube的hdr都会让s21u自动拉高亮度（即向系统申请展示hdr内容），头条这个hdr亮度都不带动的。但这个假hdr画质比知乎1080p好010倍
+https://pic2.zhimg.com/80/v2-5028fdac0394bdba34889ac221b5c108_qhd.jpg

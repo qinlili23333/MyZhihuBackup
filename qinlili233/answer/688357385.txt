@@ -1,0 +1,3 @@
+有哪些值得推荐的电脑录屏软件与手机录屏软件？
+<p data-pid="CekJnk9T">必须推荐Nvidia Geforce Experience</p><p data-pid="KKy2gpep">这东西录屏是显卡直录，性能损失极低（cpu几乎0消耗，仅产生一定的gpu video encode消耗，视显卡性能和编码码率占用2%-25%显卡资源），而且因为硬编码，其最高支持130Mbps码流，可以保证4k下几乎无损的画质，而且支持60fps录制</p><p data-pid="g6ui4P6u">而且这东西完全免费，伴随你的n卡驱动赠送的，只需要注册一个nvidia账号，安装gfe登陆后在需要录制的地方按下Alt+Z召唤出来就行了</p><p data-pid="Vn7xLTMh">这东西在部分支持的游戏上还可以开启自动捕捉精彩瞬间，体验极佳</p><p data-pid="pI0YbtaV">划重点：你必须使用n卡，a卡不支持，i卡建议买一张n卡插上，哪怕GT610都能开启这个功能</p>
+1587909049

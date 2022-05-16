@@ -1,0 +1,3 @@
+外行室友坚称Java是最好的语言，我该如何反驳？
+<p data-pid="XCwfHCX8">让他用java做毛玻璃效果，要求能达到实时处理的程度</p><p data-pid="rhGyh6iM">就算是资深java程序员也几乎做不到，这种活还是要放到native层跑，java层跑不合适</p>
+1525774773

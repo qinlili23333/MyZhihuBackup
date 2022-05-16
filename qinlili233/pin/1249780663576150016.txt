@@ -1,0 +1,1 @@
+最让我迷惑的是有几个app接入了tbs内核却仅仅在application里初始化了tbs，然后在tbs就绪的情况下继续使用系统webview...真就脱裤子放屁呗

@@ -1,0 +1,2 @@
+apabi平台爬虫已拿下！自动爬完整本书最高清的图片，只需要自己本地acrobat合并下pdf就行了！已准备开源
+https://pic1.zhimg.com/80/v2-4bd6b50732162f2772f0175886b85214_qhd.jpg

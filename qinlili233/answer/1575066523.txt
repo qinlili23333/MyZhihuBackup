@@ -1,0 +1,3 @@
+为何有人会喜欢Flutter？
+<p data-pid="F5augeIX">因为flutter背后是skia，skia又内置了angle</p><p data-pid="0L-XqdP5">skia是先进可靠的渲染框架，在占内存最大的浏览器chrome上稳定运行十几年</p><p data-pid="-8rBm9Jk">angle可以让gles转换为dx，desktop gl，vulkan，metal等api，也可以使用swiftshader在无头设备或cpu极强设备上使用，保证全平台下都有最高的图形效率</p><p data-pid="D7oZqOVa">其他跨平台框架的效率，拿锤子来和有skia加持的flutter比啊</p>
+1605358943

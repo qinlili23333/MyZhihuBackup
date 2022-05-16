@@ -1,0 +1,3 @@
+请问安卓和苹果实际的CPU差距是否真像Geekbench跑分那么大？
+<p data-pid="sv-jPAWl">跑分不决定真实性能，余大嘴这句话放在这里非常合适</p><p data-pid="R7W_KiNF">更何况geekbench俗名applebench，本来苹果分数就虚高</p><p data-pid="l5eZ5ohj">而且跨平台对比分数意义并不大</p><p data-pid="setF89xV">最后，arm超越x86是不可能的，尤其是复杂任务</p>
+1519650926

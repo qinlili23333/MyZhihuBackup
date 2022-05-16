@@ -1,0 +1,3 @@
+为什么知乎上的好多人说使用 MS Office 降低了工作效率？
+<p data-pid="wj6xCjXy">ms office是否好用，主要看你要做什么</p><p data-pid="K7Ze459S">如果你是做图文混排，word确实好用，但如果只是简单的写个文章，我反正更喜欢支持markdown的小黑记事本</p><p data-pid="8uqK6PL8">如果你只是想简单的做一个宣传视频，ppt完全够用，但是如果你需要多个视频合并，有开ppt工夫不如ffmpeg解决，如果需要给视频加各种特效，ae很显然更合适</p><p data-pid="Qqv43bom">能不能提高效率主要还是看你如何使用它</p>
+1540247596

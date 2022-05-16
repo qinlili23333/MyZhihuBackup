@@ -1,0 +1,3 @@
+两台固定服务器之间通信，利用ip白名单是不是就能保证安全了？
+<p data-pid="yzurFyDL">并不。</p><p data-pid="3nFFjYVl">比如我们现在就可以举出一个不安全例子</p><p data-pid="8YIx626W">某些机房内的服务器也会dhcp，在ip段里每次获得一个新的ip地址</p><p data-pid="088ggi_H">那么如果我们攻击dhcp主机，修改租约时间，先让你的某一台服务器获得一个新ip，然后修改dhcp规则，让机房内部署的另一台服务器分配到你原来的ip</p><p data-pid="wgj1cDXZ">ok，现在我们可以控制你另一台服务器了</p><p><br></p><p><br></p><p data-pid="jBYNzAGm">当然这种方法有局限性那就是服务器需要dhcp（部分小主机商常见）</p><p data-pid="VxopJvD_">不过实际上这也证明了，没有什么是绝对安全的</p><p></p>
+1570365933

@@ -1,0 +1,3 @@
+为什么我的surface go用起来巨卡无比？
+<p data-pid="osUb8QxH">牙膏厂更新核显驱动时会偷偷把温控服务打开</p><p data-pid="0TT-8sJS">这会导致经常降频到0.5ghz</p><p data-pid="f5GjRmss">去服务里手动禁用温控服务就好了</p>
+1598226037

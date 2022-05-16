@@ -1,0 +1,2 @@
+原生安卓没有双开都能被说出来，服了...Work Profile是安卓原生的feature，从设计上来说安卓底层就是支持多用户的，只不过这个feature需要一个app来管理，比如三星的Secure Folder，又比如说第三方开发者的炼妖壶
+https://www.zhihu.com/question/491184956/answer/2298956786?utm_source=zhihu&utm_medium=social&utm_oi=729630383821324288

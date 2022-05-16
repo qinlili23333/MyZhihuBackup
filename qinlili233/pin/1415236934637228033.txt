@@ -1,0 +1,3 @@
+看一个系统要不要解锁，主要看不解锁能不能解决需求。三星现在这个oneui我就觉得不需要解锁，无线调试完全可用，所以可以开shizuku实现绝大多数root功能，包括使用小黑屋彻底阻止qq在后台运行。但是现在的miui，要实现彻底阻止qq后台运行真有难度。
+https://pic4.zhimg.com/80/v2-36206c0427a2eba187bf6eaf4a9bc6a9_qhd.jpg
+https://pic1.zhimg.com/80/v2-7db35a77bede16c3bee5695723f941d8_qhd.jpg

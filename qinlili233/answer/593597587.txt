@@ -1,0 +1,3 @@
+显示器的 VGA、HDMI、DVI 和 DisplayPort 接口有什么区别？
+<p data-pid="NC__p4Ee">都9102年了，你只要知道用dp就对了就行了</p><p data-pid="NTzyY00v">除了dp，还真没有能实现4k60hz10bit的接口（hdmi开不出10bit只能跑8bit）</p>
+1549759999

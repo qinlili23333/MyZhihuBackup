@@ -1,0 +1,3 @@
+Steam 的下载原理是怎样的？
+<p data-pid="-g-fFUnE">1，steam下载前会预分配硬盘空间，所以只要你的下载速度小于硬盘连续写入速度就不会被硬盘拖累，哪怕是机械硬盘（epic是边下载边写入，机械硬盘经常卡掉速）</p><p data-pid="CidVxKUV">2，steam在全球都有节点，当然，playu和epic也是，唯独origin在很多地区和国家没有节点</p><p data-pid="4SALJ_vc">3，steam可以手动锁定下载节点，而playu和epic下载节点取决于dns返回结果，如果像我一样喜欢用1.1.1.1作为dns，playu和epic经常会从海外节点下载，而steam仍然会从设置的节点下载（我一般设置为日本或新加坡）</p><p data-pid="1KI9FGNe">4，steam下载完才开始更新文件，而epic是下载一个文件更新一个，同样这也导致了在机械硬盘上epic的下载速度非常难看（而steam经常飞快的下载完然后再本地更新更上半小时）</p><p data-pid="-rXOVYoU">5，steam本身相对资源消耗较低。虽然steam，playu，epic，origin，gog都是基于libcef（chromium）开发的套壳客户端，但是steam相对自身占用较低，与之相反的是epic，经常在高分屏上直接耗尽cpu，以及经常内存泄漏的playu</p><p></p><p></p>
+1569974923

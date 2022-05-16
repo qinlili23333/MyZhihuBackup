@@ -1,0 +1,1 @@
+b站今天对直播二压做了进一步伪装，Encoder现在不再会显示Lavf，而是会用真原画的Encoder值替换伪装。至于怎么发现的么，当我看到hevc流的Encoder也显示libobs时我就意识到不对劲了，另外部分主播的Encoder后面还会被插入特殊字符

@@ -1,0 +1,1 @@
+就我个人的开发体验来说，.net core+webview2是比nwjs和electron这种传统套壳难用的，因为webview2要操纵本地资源只能用postMessage通信，功能写多了之后MessageReceived方法里面简直一团乱麻。但webview2也不是完全没有优势，最大优势在于随系统附带，可以把安装包体积削减到1m以内非常方便，以及可以作为小组建在wpf里面存在，能用wpf实现的继续用wpf保证性能，比如长列表滚动。

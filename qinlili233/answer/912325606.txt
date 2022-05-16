@@ -1,0 +1,3 @@
+不懂就问，为什么M.2的SSD比SATA接口的快那么多？
+<p data-pid="GxHwpHCz">因为nvme是全双工协议，sata是半双工</p>
+1574832830

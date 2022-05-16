@@ -1,0 +1,3 @@
+英特尔 12 代酷睿 CPU 从续航角度上来说是否还不如 11 代？如何看待这一现状？
+<h2>是</h2><p data-pid="gvOfv6lp">大小核调度对于一切不能吃满所有核心的程序来说都是灾难</p><p data-pid="jY4qYXTQ">首先是最大的问题，12代不能把大核全部停车</p><p data-pid="pd8Se7SN">待机的时候tm在线两三个大核，小核全停车了</p><p data-pid="MVIwL6UF">一动鼠标，ok，小核一下子全恢复了，功耗直接5w起步</p><p data-pid="k8j8zsR7">而且目前即使是修改BIOS，也似乎无法禁用全部大核只保留小核情况下启动，至少我搞不定</p><p><br></p><p data-pid="11rmG2PV">其次就是12代平台目前无法使用xtu和throttle stop，牙膏竟然锁了xtu interface，而11代是完全解锁的</p><p data-pid="KffCLPe0">目前没有办法通过降压改善续航，电压是锁死的</p><p data-pid="e3slulF9">而11代我自己不插电都是降75mv用，别小看这75mv，能把2.3ghz avx功耗压到18w以内，重负载续航好太多了</p>
+1651453785

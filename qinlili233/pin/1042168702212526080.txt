@@ -1,0 +1,3 @@
+18272试水没问题，本次更新修复了连续两个版本开始菜单问题，同时增加了一个feature-针对低分辨率icon加边框
+https://pic1.zhimg.com/80/v2-64681d5658b9e33c57f981c0abb36538_qhd.jpg
+https://pic3.zhimg.com/80/v2-fe5be1e3f123c7f84b78cd8452b1eaca_qhd.jpg

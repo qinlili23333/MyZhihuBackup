@@ -1,0 +1,3 @@
+amd的6000系列显卡出来后，继续选择nv30系列显卡的理由是什么？
+<p data-pid="oCkoYx5c">windows下的cuda，nsight，就够了</p><p data-pid="zEkqGXQY">从cudnn迁移到rocm的成本或许还可以接受</p><p data-pid="oCzZyfOC">但换到linux主力脱离visual studio实在无法接受</p>
+1604396119

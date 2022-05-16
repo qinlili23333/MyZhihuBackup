@@ -1,0 +1,3 @@
+这cpu和显卡能玩彩虹六号吗?
+<p data-pid="rTWgmaAs">GTS450性能比HD630高25%左右</p><p data-pid="UkpXzMCV">HD630在800x600下能跑60fps</p><p data-pid="W6lNX_D9">R6的CPU多核优化相对较好</p><p data-pid="ftpftbGN">8G内存达到了最低需求</p><p data-pid="z4M_qdMP">所以，能玩</p><p data-pid="HYNFDvCK">想不到吧</p><p data-pid="nbaLrPg1">去YouTube搜索LowSpec+R6，可以看到更多比你配置更差的人都能流畅运行，当然画质是不能有所指望了</p>
+1566447421

@@ -1,0 +1,3 @@
+好压、快压、360 压缩都是加了壳的 7zip 吗？
+<p data-pid="41GT6nm9">是的，基本就是加壳</p><p data-pid="EPTQTTzC">快压有自己的格式，不过貌似不咋地</p><p data-pid="pzdnjzf1">用winrar大部分还停留在5年前的知识水平，那时候7z跑的还是lzma，但是rar4算法比lzma压缩率高，而且lzma只允许两条线程并发工作，所以用winrar就成了通用做法</p><p data-pid="xdjZpTIs">后来lzma2出来了，压缩率全面吊打rar5算法，同时不再限制线程数量，即使是E5也可以全部吃满性能(而rar在5820k这种u上都只能吃一半性能了)，可惜大家已经对7z留下了坏印象</p>
+1499727314

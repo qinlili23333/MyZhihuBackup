@@ -1,0 +1,3 @@
+如何评价超威半导体（AMD）在国际消费电子展（CES）2020发布的锐龙7 4800U/4800H？
+<p data-pid="sxpK4_1F">有一个点不知道你们有没有注意过</p><p data-pid="IIyyIHtw">众所周知，农企的核显也是支持freesync的（国外玩家早就试过2200g开freesync了）</p><p data-pid="EIlGkf4E">freesync是完全free（免费）的，但gsync收费，所以有些独显直出机型也没有gysnc</p><p data-pid="TvAEAph-">现在大家都用农企了，就不用给老黄保护费了</p><p data-pid="z2orT5zm">也不用直出了，直接optimus，核显freesync输出，不花一分钱就没有撕裂了</p><p data-pid="6CzbdEUR">什么你有性能需求你要直出？gsync兼容模式也同样支持freesync</p><p data-pid="w1rH6lZh">而且，核显输出的hdmi/minidp，包括c口出来的dp，都支持freesync</p><p data-pid="GLEQ87Ek">今年可能就会出现3999-29999全部都有freesync的神奇现象</p><p data-pid="N0fixEUb">老黄估计得气死，自己挖的坑（支持freesync）把自己保护费坑没了</p><hr><p></p>
+1578895005

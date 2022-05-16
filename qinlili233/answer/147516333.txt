@@ -1,0 +1,10 @@
+斐讯k2怎么更换天线能否提高覆盖？
+<p data-pid="m-vAHj5-">看你的情况，应该不是换天线能解决的问题</p><p data-pid="IpacCJrk">K2是带功放型号的，你这很明显功放都没开出来</p><p data-pid="hOtr14Us">固件估计你刷错了或者改错了，从固件角度解决问题把功放开出来就好了</p><p data-pid="ktTD2xEb">正常启动功放的情况下后台信号永远不可能保持100%，2.4g应该是90%左右，5g应该是70%左右</p><figure><noscript><img src="https://pic1.zhimg.com/v2-90fbc6bceb5adc63fc4c7811391c27ac_720w.jpg?source=3af55fa1" data-rawwidth="1080" data-rawheight="1920" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://pica.zhimg.com/v2-90fbc6bceb5adc63fc4c7811391c27ac_r.jpg?source=3af55fa1"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1080'%20height='1920'&gt;&lt;/svg&gt;" data-rawwidth="1080" data-rawheight="1920" class="origin_image zh-lightbox-thumb lazy" width="1080" data-original="https://pica.zhimg.com/v2-90fbc6bceb5adc63fc4c7811391c27ac_r.jpg?source=3af55fa1" data-actualsrc="https://pic1.zhimg.com/v2-90fbc6bceb5adc63fc4c7811391c27ac_720w.jpg?source=3af55fa1"></figure><p data-pid="lPv0dglj">正常开启功放的k2的/etc/config/wireless里应该有下列代码中带*号部分，括号为注释</p><div class="highlight"><pre><code class="language-text"><span></span>config wifi-device 'rai0'(硬件自定义命名可更改)
+	option type 'mt7612'(功放芯片型号)*
+	option hwmode '11a'(工作模式)*
+	option txpower '100'(功率限制)*
+	option country 'CN'(中国地区)
+	option htmode 'VHT40'(频宽)
+	option channel 'auto'(信道)*
+</code></pre></div>
+1487588392

@@ -1,0 +1,3 @@
+NVMe SSD在实际使用中比SATA SSD好用多少？
+<p data-pid="4RzS5VX0">ffmpeg对一个4k视频（两分钟）拆帧，输出png无损，在nvme的pm961上，5820k表现出了cpu严重瓶颈，而在sata的s3610上，6700hq都没有瓶颈而s3610本身表现出了瓶颈</p>
+1528194190

@@ -1,0 +1,3 @@
+500W电源是否能带起Intel i9-10900K + Nvidia RTX3080？
+<p data-pid="D_XUVndl">500w都不够5820k+980ti的</p><p data-pid="SBf_8ECj">10900k比5820k耗电，3080也比980ti耗电，你说呢</p><p data-pid="WafI4JmV">加120上个千瓦矿电真的很难吗</p>
+1610581269

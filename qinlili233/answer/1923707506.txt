@@ -1,0 +1,3 @@
+如何评价 AMD 推出的 FidelityFX Super Resolution（FSR）技术？
+<p data-pid="7xX1yHV-">其实和d3d9时代的hialgo boost没什么原理区别</p><p data-pid="dvfjjM1N">无非就是降低游戏渲染分辨率</p><p data-pid="0c7GrOno">游戏画面动的越快，人眼对分辨率的感知能力就越差</p><p data-pid="kLPUnHd8">实际上4k游戏中体验提升最大的是更清晰的ui和文字，以及静态画面的细节</p><p data-pid="JWyKMkcd">hialgo boost的原理其实非常简单粗暴，移动鼠标就缩减到50%渲染，不动鼠标就100%渲染</p><p data-pid="rG5WZx2U">现在这些超分辨率技术只不过过度更平滑一些体验更好一些</p><p></p>
+1622865889

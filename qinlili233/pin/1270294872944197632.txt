@@ -1,0 +1,2 @@
+这数据假的离谱了，2.4g能跑到接近70MB/s（不是Mb）突破802.11n极限了都，4x4的R9000都跑不到这么快
+https://pic1.zhimg.com/80/v2-970fab31a5ca59661d264d7dfec3fc37_qhd.jpg

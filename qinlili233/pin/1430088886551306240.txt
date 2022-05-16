@@ -1,0 +1,1 @@
+dism++删除MicrosoftWindows.Client.WebExperience即可彻底移除没啥用的Widgets，释放200m左右内存，并且让屏幕左滑手势不被响应，目前未见任何额外负面影响

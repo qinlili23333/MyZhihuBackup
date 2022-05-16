@@ -1,0 +1,3 @@
+中国以后会有类似网飞 (Netflix) 级别的公司么？
+<p data-pid="re5taxP6">等什么时候有公司把钱投资到CDN建设上而不是请流量明星了，才可能有点希望</p><p data-pid="G2GyydSE">网飞已经建设了足量的CDN，甚至并在上面托管了一个完全无广告的测速服务<a href="http://link.zhihu.com/?target=http%3A//fast.com" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">fast.com</span><span class="invisible"></span></a>，而且这些CDN都是能跑到至少千兆级别以上速度的</p><p data-pid="CirukBd_">现在国内的视频网站，CDN能跑满百兆的都少见，还有很多因为CDN太拉了得用p2p缓解</p><h2>国内啥时候能有个视频网站能做个免费无广告的测速服务出来</h2><p></p>
+1634866922

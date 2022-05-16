@@ -1,0 +1,2 @@
+这个爬虫不能爬完整权限，有些权限不会被识别，还有些权限是非系统权限比如极光推送sdk的权限。个人认为全部下载后反编译manifest统计含有permission的行数比较靠谱
+https://zhuanlan.zhihu.com/p/35275753?utm_source=zhihu&utm_medium=social

@@ -1,0 +1,89 @@
+如何评价华硕zenbook flip s？
+<p data-pid="lZAm4tIP">泻药</p><p data-pid="OL8SV51N">先说说优点，13.3寸终于也有4k屏用了！再也不怕大果粒了！撒花！</p><p data-pid="JMeeqaIJ">16g运存和1t固态很不错，不用担心不够用</p><p data-pid="N5zdHo2j">双usb3.1好评，而且usb3.1可以充电，可以连接扩展坞(似乎支持雷电3可以外接显卡？)</p><p data-pid="_qm9_ZhF">立体声音响好评</p><p data-pid="GQX1X5au">扩展坞接口齐全，不过看样子这机器离不开扩展坞，网口都在扩展坞上</p><p data-pid="eb2csgfW">指纹是个好东西，不过不确定识别正确率如何</p><p data-pid="BixGYwl_">屏幕罕见的100%srgb色域(72%ntsc)，笔记本里屏幕素质绝对高等水准</p><p data-pid="0-9-kimg">再提提缺点</p><p data-pid="mwubN6GG">电池略小，不到40wh，即使使用低压u，重负载也肯定极速掉电(小电池内阻大，重负载这样的高倍率放电环境下对电池压力大造成压降大，系统误判低电量)</p><p data-pid="W0gjAnJu">性能缺陷，虽然没有内存和硬盘瓶颈，此时cpu和核显是最大的瓶颈，不过如果确定usb3.1可以外接显卡后可以有所缓解，性能问题</p><p data-pid="cpaMPDMs">散热情况未知，感觉有降频可能性，没找到出风口在哪</p><p data-pid="gl9qVwyf">值得一提的是只有1t固态版本使用pcie固态，其他都是sata3固态，因此只有16＋1t版本可以考虑购买</p><p data-pid="D-xYOo8u">华硕美国官网介绍<a href="http://link.zhihu.com/?target=https%3A//www.asus.com/us/Laptops/ASUS-ZenBook-Flip-S-UX370UA/" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://www.</span><span class="visible">asus.com/us/Laptops/ASU</span><span class="invisible">S-ZenBook-Flip-S-UX370UA/</span><span class="ellipsis"></span></a></p><p data-pid="p4C08fsD">贴一下机翻版的参数，将就着看吧</p><p data-pid="PDg8gjdw">完成/颜色
+华硕ZenBook Flip S（UX370UA）
+皇家蓝色，烟灰色
+制造在航空级铝合金
+（比标准合金强50％）
+操作系统
+Windows 10 Pro
+（华硕推荐Windows 10 Pro）
+Windows 10 Home
+处理器
+英特尔®酷睿™i7-7500U处理器
+2.7GHz双核与Turbo Boost（高达3.5GHz）和4MB缓存
+英特尔®酷睿™i5-7200U处理器
+2.5GHz双核与Turbo Boost（高达3.1GHz）和3MB缓存
+图像
+集成英特尔®高清显卡620
+显示
+13.3“LED背光全高清（1920 x 1080）/ 4K UHD（3840 x 2160）
+60Hz刷新率，宽100％sRGB色域
+178°宽视野技术
+Corning®Gorilla®玻璃
+华硕眼部护理技术可降低30％的蓝光
+6.11mm薄屏幕，屏幕与机身的比例为80％
+记忆
+8GB / 16GB 2133MHz LPDDR3板载
+存储
+256GB SATA3 SSD
+512GB SATA3 SSD
+1TBPCIe®3.0 x 4 SSD
+（比SATA3 SSD快3倍）
+接口
+2 x USB 3.1 Gen 1 USB-C™
+支持：
+电力输送（49分钟内为60％）
+数据传输（高达5Gbps）
+显示输出（4K UHD就绪）
+Fringerprint传感器USB 3.1 USB 3.1
+键盘和触摸板
+键盘
+全尺寸背光，1.0mm钥匙旅行
+触摸板
+玻璃覆盖：
+智能掌握
+精准触摸板（PTP）支持多达四指智能手势
+指纹传感器
+侧面安装方便
+键盘触摸板
+音频
+2扬声器华硕SonicMaster Premium立体声音响系统，具有环绕声效果
+环绕效果
+Harman Kardon认证
+智能放大器可实现最大的音频性
+阵列麦克风支持Cortana语音识别
+3.5mm耳机插孔
+相机
+VGA网络摄像机
+无线连接
+无线上网
+802.11ac Wi-Fi; IEEE 802.11 a / b / g / n兼容
+蓝牙
+Bluetooth®4.1
+电池和电源
+长达11.5小时的电池寿命
+39Wh 2节锂聚合物电池
+快速充电技术：在49分钟内达到60％
+45W USB-C™电源适配器
+（输出：19V DC，A，45W）
+（输入：100-240V AC，50 / 60Hz通用）
+重量和尺寸
+身高： 1.09厘米（0.43英寸）
+宽度： 31.3厘米（12.32英寸）
+深度： 21.8厘米（8.58英寸）
+重量： 1.1公斤（2.42磅）
+31.3厘米
+（12.32英寸）21.8厘米
+（8.58英寸）1.09厘米
+（0.43英寸）
+盒子里有什么东西
+华硕ZenBook Flip S（UX370UA）
+华硕Mini码头
+黑色袖子
+包含的软件
+华硕辉煌
+华硕眼部护理
+华硕Tru2life视频
+华硕AudioWizard
+支持新的Windows 10功能：Windows Ink，Windows Hello，Modern Standby，Cortana</p>
+1502013440

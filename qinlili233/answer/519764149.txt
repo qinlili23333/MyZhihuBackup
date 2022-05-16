@@ -1,0 +1,3 @@
+Microsoft Office 好用，还是 WPS 好用？
+<p data-pid="OchFE39L">ms office更好用。</p><p data-pid="DZiWx3cq">一方面是快，前几天刚刚更新到了ms office2019（测试通道已经可以更新了），哪怕是q9650这种上古产物都能秒开，比wps快得多</p><p data-pid="GBqqkbEU">另一方面是更新不用操心，click to run太方便，在后台自动完成更新不用手动操作甚至不会弹窗（wps更新后会有弹窗烦的一批）</p><p data-pid="Tdr6CpGS">还有就是丰富的扩展性，我这人比较喜欢给ppt加大量动画效果，但是因为懒得一个个对象加，我自己拿vs写了个加载项，能支持一键给单个对象加指定动画效果</p><p data-pid="2OC5NQ4d">最后一个是最近更新的功能，支持svg矢量图了，这对我这种Android开发者很有帮助，不大喜欢Android studio，所以我现在预览icon都是用ppt预览后把svg转pathdata的（svg转pathdata在github上有工具）</p>
+1540684958

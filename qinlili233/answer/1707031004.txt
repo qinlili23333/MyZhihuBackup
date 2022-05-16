@@ -1,0 +1,3 @@
+都2021年了，为什么市面上大部分galgame还是不支持1080p？
+<p data-pid="zKyK8TtF">其实主要是屎坑问题</p><p data-pid="ysoGDx2D">我这人比较喜欢解包，根据我的解包经验，绝大多数12年之后的gal，cg分辨率就是1080p了，16年后甚至不少gal的cg到了2k</p><p data-pid="uNMyyrEx">但因为引擎屎坑不好改，大多数gal还是只能运行在720p下</p><p data-pid="P-XU-fy6">不过也有一些gal早就支持4k了，比如moenovel的作品一直都可调分辨率</p><p data-pid="L1XPSFTb">近些年来越来越多的gal开始抛弃屎坑引擎，转向u3d，renpy等迭代迅速的新引擎，极大的改善了演出效果（和显卡温度）</p>
+1612053797

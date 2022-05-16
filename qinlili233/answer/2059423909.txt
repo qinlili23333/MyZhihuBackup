@@ -1,0 +1,3 @@
+路由器的生命周期一般是多久？
+<p data-pid="DFHKEAFT">事实上十年都不成问题</p><a data-draft-node="block" data-draft-type="link-card" href="https://zhuanlan.zhihu.com/p/103257254" data-size="small" data-image="https://pic1.zhimg.com/v2-450ee779ab315c702b238b9271a59d78_720w.jpg?source=3af55fa1" data-entity-type="article" class="internal">369vs3699？华为路由A2能赢吗</a><p data-pid="C0ro4QqM">看我去年做的a2的拆解</p><p data-pid="J3y71VQD">现在的路由器早就基本全固态电容了，所以电容寿命已经不会限制寿命了</p><p data-pid="bpXcyRhC">散热良好的情况下芯片的寿命也非常长</p><p data-pid="rLX6piZ5">倒是闪存可能会第一个因为坏块过多倒下，大闪存的机器相对好一些，固件相对简陋的也会好一些，经常捣腾插件什么的磨损的快</p><p data-pid="MJCtsZ52">这东西就是个耐用品，一般不会坏</p><p></p>
+1628914348

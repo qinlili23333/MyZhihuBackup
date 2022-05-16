@@ -1,0 +1,3 @@
+各大笔记本厂商会推出搭载超威半导体（AMD）锐龙4000系列中央处理器的顶级超级本吗？
+<p data-pid="ecGv3NPA">默频下,4900h的cpu部分满载可以到35w,核显部分则接近15w,低压版本除了核显增强外就是标压拉tdp,所以功耗不会和标压相比好到哪里去</p><p data-pid="A8iy2JcA">(废话,八核带个超强核显只有15w怎么可能)</p><p data-pid="ki5g_J3w">这意味着,针对农企新u,老模具散热不够用,除了原本能压i9的模具,即使是上低压</p><p data-pid="2FlKWqWF">而且更严重的是,4000系列因为7nm,核心面积普遍较小,比9880h都小,意味着更难压</p><p data-pid="O59cpoAH">所以,顶级产品还要等等,等新模具出来</p><p data-pid="btd8WcBL">毕竟,拿老模具赶鸭子上架的后果就是下面这玩意</p><a data-draft-node="block" data-draft-type="mcn-link-card" data-mcn-id="1231870513150488576"></a><p></p>
+1586481196

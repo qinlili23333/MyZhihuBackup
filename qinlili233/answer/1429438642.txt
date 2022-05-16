@@ -1,0 +1,3 @@
+宽带是上行重要还是下行重要，为什么帮我维护网络的师傅很注重上行？
+<p data-pid="HqLxSm9F">上下行都重要</p><p data-pid="mp5EI4Zz">电信200m上行只给50m，导致我现在发表个仅仅8g不到的视频都要传将近半小时，如果是200m对等的话只需要六分钟左右</p><p data-pid="8pFxuiXu">而且下载大多数情况都是多线程，单线多拨效果非常理想</p><p data-pid="TjYsikjg">但上传往往都是单线程，单线多拨屁用没有</p><p data-pid="sz2yTmsx">有条件的话，还是老老实实上对等专线吧</p><a href="https://www.zhihu.com/zvideo/1281128751594721280" data-draft-node="block" data-draft-type="link-card"></a>
+1598224915

@@ -1,0 +1,3 @@
+为什么许多游戏厂商会热衷于适配游戏的 Vulkan 版却不选择 Metal 作为图形 API？
+<h2>因为vulkan是跨平台的</h2><p data-pid="K_vw9wyO">适配vulkan可以直接解决桌面端windows/linux，switch和ps5主机，同时适配android</p><p data-pid="rnuJu03w">而整合MoltenVK后，vulkan可以在os x和ios上运行</p><p data-pid="wn2HsrmR">也就是说适配vulkan，可以一次解决除了xbox和ps4以外的所有平台</p><p data-pid="BoYV_Pgw">所以才会有doom这样的只适配vulkan甚至放弃dx的游戏出现</p><p><br></p><p data-pid="8PyG6yV5">哦对了，chromium已经正式支持vulkan，而webgpu规范也在越来越完善，页游也即将向着vulkan发展</p>
+1608883025

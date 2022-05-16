@@ -1,0 +1,3 @@
+为什么开源软件往往都支持Linux/Mac/Windows，而闭源软件往往只支持Win和Mac？
+<p data-pid="VJlMFs4N">因为开源软件的跨平台恰恰是靠开源得来的</p><p data-pid="1hMoZkol">比如说我开发了一个windows程序，开源了，有个linux用户发现这玩意有用，但他不想用wine或者这玩意在wine上跑不起来，于是他拿着我的源码自己适配了linux，这个项目就有了linux支持</p><p data-pid="xOeELv_U">虽然我没有做linux支持，但是因为开源给其他人提供了良好的基础条件，他们就可以做移植，然后反哺回项目</p><p data-pid="3_Lyr_65">上来就跨平台的开源项目几乎是没有的，很少有程序员能一次性适配所有操作系统</p><p></p>
+1640047220

@@ -1,0 +1,3 @@
+新笔记本电脑到手需要装些什么软件呢?
+<p data-pid="RyBw5fGW">首先,下载chrome,必须的</p><p data-pid="NZ00lKTe">idm安排上,chrome下载太慢</p><p data-pid="0pR52N3r">然后各种runtime打一遍（偷懒的办法是用steam打runtime）</p><p data-pid="XGpWrWPh">安装JDK等开发工具,各种IDE,配置好环境变量（为了减少将来镜像的体积，vs记得带--nocache安装）</p><p data-pid="wG1ewx-l">ok这里可以做一次镜像,这样玩脱了重装时不用再去搞变量了</p><p data-pid="inONtHF_">7z源码来一份,编译7z作为压缩软件（此过程用于测试环境配置，编译成功则证明上面的环境配置对了能用了）</p><p data-pid="jOTo6tI4">everything,wiztree等必备效率工具安排上</p><p data-pid="khPF62RD">steam等游戏平台安排</p><p data-pid="6A-ZRdbH">adobe,magix,autodesk,msoffice全家桶安排上,干活用</p><p data-pid="blRhORZE">清理ccleaner一个就够了</p>
+1593305590

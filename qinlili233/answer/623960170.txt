@@ -1,0 +1,3 @@
+sata口的固态和msata口的固态有什么区别？
+<p data-pid="r2K5YC8Z">msata仅仅是另一种形式的sata接口，两者除了形状不一样外，啥区别也没有</p><p data-pid="Xi_x0d4M">楼下那个说msata走pcie的你可省省吧，msata接口形状和minipcie完全一样，但是两者针脚定义完全不同，你可别误导人了</p><blockquote data-pid="mRRttnL2">mSATA (mini-SATA)是迷你版本SATA接口，外型和电子界面与mini<a href="http://link.zhihu.com/?target=https%3A//baike.baidu.com/item/PCI-E" class=" wrap external" target="_blank" rel="nofollow noreferrer">PCI-E</a>完全相同，但电子信号不同，两者互不兼容。</blockquote>
+1552703389

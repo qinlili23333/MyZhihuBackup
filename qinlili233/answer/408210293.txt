@@ -1,0 +1,3 @@
+笔记本推荐，大三女，需要用CAD，proe ,Solidworks, ps等。预算6～8K？
+<p data-pid="fPmZWnrv">这点钱如果不跟着袜子姐捡垃圾肯定上不了专业卡</p><p data-pid="8TNmZ43O">不过别慌，我们还有一条后路：游戏卡打专业驱动（本人980ti就是打的专业驱动，玩得来游戏做得来图，跑tensorflow也没问题）</p><p data-pid="ME8UWGZG">7999买个t96e，8750h+1060，是个不错的选择。专业驱动打上后就是P3000</p><p data-pid="MU0XiYJC">给游戏卡装专业驱动的办法：注册个nvidia开发者账号，下载cuda驱动，完整安装后你会发现你的显卡驱动也升级到了专业驱动</p><p data-pid="I2So1n8t">下载地址<a href="http://link.zhihu.com/?target=https%3A//developer.nvidia.com/cuda-downloads" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">developer.nvidia.com/cu</span><span class="invisible">da-downloads</span><span class="ellipsis"></span></a></p>
+1527999576

@@ -1,0 +1,3 @@
+在什么情况下你会瞬间讨厌微信这个软件？
+<p data-pid="V_VWUxot">打开wld一看，好家伙注册了几万个唤醒锁</p><p data-pid="m0cmsObo">再看看数据目录下，一个tinker吃掉150m</p><p><br></p><p data-pid="-N9yx-3w">大概这也是我当初做wechat patch的原因，虽然现在弃坑了因为已经几乎不用微信了直接丢炼妖壶里冻着了</p>
+1554331478

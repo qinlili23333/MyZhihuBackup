@@ -1,0 +1,3 @@
+网传极氪 001 车机冷启动时间过长达 70 多秒，车机系统本身很复杂吗？启动速度可否优化？
+<p data-pid="zEdP0XSi">为什么一定要休眠（系统关机）呢</p><p data-pid="VYagCp1P">820A的手机版本就是820/821</p><p data-pid="4CtZL_NP">我手头就有一台821的小米5sp，当遥控器用，可以半个月一充电，如果能接受唤醒2秒左右的延迟，开powersave调度，一个月一充都可以</p><p data-pid="Ius_UT0z">小米5sp的电池容量只有3800mah（3.85v）即14.63wh</p><p data-pid="-bEYjW-3">车载电瓶一般12v30ah就有360wh了</p><p data-pid="Z-IWDy7v">锁车就打到powersave锁300mhz频率，下线掉三个核心留一个（820平台是可以下线核心的），小电瓶够待机多久了</p><p data-pid="GIN_ZML9">解锁车马上把调度器打回interactive或者schedutil，最多花个三五秒</p><p></p>
+1644742300

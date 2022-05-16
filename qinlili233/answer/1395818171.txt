@@ -1,0 +1,3 @@
+8g内存的笔记本能开多少网页（有2g被集显占用了）？
+<p data-pid="RgWb_AJ0">这得看你开的什么网页</p><p data-pid="gtR_I_LU">如果就一行hello world（这也是一个网页），那么成千上万轻轻松松</p><p data-pid="my1vss1e">如果每个页面里嵌套了几十个iframe，每个iframe里面运行了一个webgl页游，那么可能你一个页面就够呛了</p><p data-pid="pFS-EbnO">网页和网页之间的差距真的很大</p>
+1596955702

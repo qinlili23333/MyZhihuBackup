@@ -1,0 +1,3 @@
+OpenGL会淘汰吗？
+<p data-pid="UZEeUunT">会，但不用担心跑不了</p><p data-pid="RHhZur3u">opengl驱动会继续留下来，只是应该不会再加入新特性</p><p data-pid="P4OUy1uM">新开发的程序越来越多迁移到dx和vulkan</p><p data-pid="n1NmriJU">所以，不建议新项目使用opengl，但不用担心以后玩不了现在基于opengl的游戏</p><p data-pid="aj9setRH">实在不行还有微软的gl on d3d12嘛，虽然这玩意我到现在也只是能构建，但构建出来的dll连wglgears都跑不起来</p>
+1619244585

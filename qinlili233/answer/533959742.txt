@@ -1,0 +1,3 @@
+Windows10 系统的 Linux Subsystem与真正的 Linux 有什么区别？
+<p data-pid="5BTXx9en">linux子系统不能拥有独立的图形界面，而独立的linux系统可以有</p>
+1542527650

@@ -1,0 +1,2 @@
+html5test在http和https下的分数是有差距的，因为chromium内核在http下默认禁用一些特性来增强安全性，此答主故意给edge用了https的分数，坑蒙不了解真相的人，属实用心险恶
+https://www.zhihu.com/question/493535995/answer/2244067394?utm_source=zhihu&utm_medium=social&utm_oi=729630383821324288

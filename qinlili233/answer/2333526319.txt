@@ -1,0 +1,3 @@
+线程撕裂者这种核心超多的CPU主要能用来做什么，来使用掉绝大部分核心？
+<p data-pid="vZ2PdB_Z">我最近在做枝江往事移植，其中最耗时的就是资源压缩</p><p data-pid="-cuvQqK7">我现在用的是11800h，16并发图片压缩，鼠标都卡的动不了</p><p data-pid="U43e0mOq">压视频就更不用说了，vp9编码1080p视频只有2fps左右（Slowest预设）</p><p data-pid="hLyrbMLN">别问我为什么不用nvenc，nvenc不支持vp9非常淦</p><p data-pid="hEt5w9xt">我真巴不得我有个64核可以放开了随便跑</p><p data-pid="gwkGQDPR">8核真的就一玩具，玩玩是可以，但干活真的太他妈要耐心了</p>
+1643860801

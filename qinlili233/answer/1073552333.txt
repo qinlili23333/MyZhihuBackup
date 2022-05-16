@@ -1,0 +1,3 @@
+为什么有的人喜欢半英文半中文讲话？
+<p data-pid="gxrzWD4O">因为全中文更难理解</p><p data-pid="xqozItsh">比如下面这句:</p><p data-pid="tcI2HLVc">你先去下载一个Android SDK,然后设置一下PATH变量,启动AVD Manager新建一个模拟器,如果模拟器不能启动,你还需要先安装HAXM</p><p data-pid="O22pBKsT">全中文应该这么说:</p><p data-pid="QKOBcRsB">你先去下载一个安卓软件开发工具包,然后设置一下路径变量,启动安卓虚拟设备管理器新建一个模拟器,如果模拟器不能启动,你还需要安装硬件加速执行管理器</p><p><br></p><p data-pid="uZG3zTxv">正常人听到软件开发工具包和硬件加速执行管理器肯定会懵逼,但是如果直接说SDK和HAXM就很容易理解了</p>
+1583992475

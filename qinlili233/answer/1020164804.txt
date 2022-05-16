@@ -1,0 +1,3 @@
+GoodNotes，MarginNotes，Notability和OneNote分别对应哪些学习场景？
+<p data-pid="Yx5YOony">只用onenote的surface go用户路过</p><p data-pid="KCY282xN">onenote其实最大的优势是它会生成一个虚拟打印机，你可以打印你想要的任何东西到onenote，不管是网页，各种文档，甚至是每日英语听力的文本，更甚至是chemdraw里画出来的化学分子式，统统可以打印到onenote</p><p data-pid="8REwDOEH">再配上onenote的超链接能力，这实际上就意味着onenote是个文稿与笔记的整合中心</p><p data-pid="4SOTPpyB">用visio做思维导图，再打印进onenote，做个超链接到vsdx源文件，这类操作可玩性极高</p><p data-pid="B-aKU4MZ">onenote的笔记功能不是最强大的，但文稿和笔记管理与整合方面你确实只需要一个onenote配合任何你想配合的程序，只要这个程序支持打印</p>
+1581864762

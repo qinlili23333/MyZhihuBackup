@@ -1,0 +1,3 @@
+使用苹果产品，一定要用原装的充电器吗？
+<p data-pid="vfrXXOKY">不用。</p><p data-pid="-6CT2o5H">对于iphone，任何一个USB接口都能充。</p><p data-pid="K5UjjmlJ">对于iPad，任何一个达到一定电流的USB接口都能充。</p><p data-pid="2oqM5LZp">对于macbook，任何一个符合pd协议的足功率电源都能充。</p><p data-pid="LCeBGn_a">其实说白了，只要输出电压电流符合设备需求范围，都能充，你把线剪了把红黑俩线焊电脑电源的5vsb输出上都能充。</p>
+1547633996

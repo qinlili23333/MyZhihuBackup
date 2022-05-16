@@ -1,0 +1,3 @@
+如何看待某校园网络问题?
+<p data-pid="dqTsx2Ej">破坏个p</p><p data-pid="rNcCvfW_">njucm甚至电信建议使用路由器来避免掉线</p><p data-pid="speYhwDC">我自己接了个路由器甚至单线8拨也没见破坏校园内网络稳定</p><p data-pid="1lG-3YHK">因为电脑直连是上游DHCP，接路由器是PPPoE，这两者根本不一样，接路由器就上不了学校内网直连外网，完全互不干扰</p><p></p>
+1575176285

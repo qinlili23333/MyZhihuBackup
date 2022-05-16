@@ -1,0 +1,3 @@
+拍摄视频会成为 5G 时代第一个火起来的应用场景吗？
+<p data-pid="J3GvWmcs">目前4g最快上行速度可以达到2gbps（lte cat.20）</p><p data-pid="SB4RIyKG">这个带宽是什么概念呢？</p><p data-pid="CHa47wj9">youtube画质可以视为是几乎动态无损（暂停看能看出损耗，不暂停看不出），然而youtube 4k60只需要32mbps就足够了</p><p data-pid="Oj1bMEDA">8k复杂度是4k四倍，带宽也算他四倍128mbps，实际上因为画面越大压缩算法可以压掉的比例一般越多，用不到128mbps的</p><p data-pid="Bw7r2pqS">2gbps可以同时传输16路8k60的视频流</p><p data-pid="NdhUGb8I">你觉得需要5g吗？4g足够了</p><p><br></p><p><br></p><p data-pid="2Y1j-U87">什么？你觉得你用过的4g没这么快过？</p><p data-pid="rifbGnxz">两个原因。一是支持cat20的芯片很少，双向20也就9820一个。二是某些运营商为了恰烂钱不肯用好设备，设备可能还是cat4的。</p><p data-pid="PPOX9lgO">但凡把修建5g基站的经费拿来改善4g基站，4g也能人人千兆+（前提是大家都买旗舰机）</p><p></p>
+1577268816

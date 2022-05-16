@@ -1,0 +1,3 @@
+win10桌面窗口管理器和csrss大量占用GPU资源如何解决？
+<p data-pid="YryC2E3E">这不是一个bug，这是特性</p><p data-pid="aPCbnmtF">渲染系统窗口界面，以及任务栏等组件，都是dwm在负责，现在越来越多的亚克力特效也是dwm在负责</p><p data-pid="xJMhjuJp">至于解决dwm高消耗的办法，只有一个，那就是独占全屏，所以很多游戏都会支持独占全屏以避免被dwm拖累</p>
+1586942376

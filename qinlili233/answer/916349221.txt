@@ -1,0 +1,3 @@
+同样的视频用144hz显示器观看会不会比60hz的流畅呢？
+<p data-pid="dBjr3v4n">如果开启插帧，那么是的</p><p data-pid="byf5fi4p">前提是系统插帧性能跟得上</p><p data-pid="rLXd0C0r">5820k用svp4最高质量插帧4k原盘电影只能到40-50fps左右，此时144hz和60hz没区别</p><p data-pid="EXpAG5T7">但是如果用xeon8180，那么144hz就能发挥出来了</p><p><br></p><p data-pid="HA_3_809">至于某人说的60是24的非整数倍会丢帧，这个问题难道不是打开freesync或者gsync就能解决的吗？？？</p>
+1575083354

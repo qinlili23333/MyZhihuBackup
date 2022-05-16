@@ -1,0 +1,1 @@
+chrome太垃圾了，字符串只能放536870888个字符，导致jsPDF无法生成一个预计体积为800m的pdf，而firefox的字符串最大容量是chrome的两倍。而由于edge也用了chromium，这导致现在的edge也成了垃圾。

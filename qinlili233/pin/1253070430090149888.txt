@@ -1,0 +1,1 @@
+测试了下方糖社的BGI的图形API wrapper兼容性：<br>dxvk：正常，高消耗<br>d912pxy：自编译版本不启动（可能我编译时翻车了）<br>dgvoodoo：能启动，有声音，黑屏，gpu吃满<br>vk9：不启动，log显示爆显存<br><br>测试作品：魔卡魅恋/游魂2

@@ -1,0 +1,3 @@
+笔记本电脑频繁wifi频繁断线?
+<p data-pid="eBoKK8eh">电源管理-无线适配器，全部设置最高性能</p><p data-pid="EF1_RCms">无线网卡硬件属性的设置里设置best performance</p><p data-pid="xiGEB21j">缺点：轻度续航冲击</p>
+1526032656

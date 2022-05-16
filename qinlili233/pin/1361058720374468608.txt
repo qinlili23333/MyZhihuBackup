@@ -1,0 +1,2 @@
+这次，借助ruffle，我把基于flash的视觉小说海之声带到了android平台。如果你们想要的话我就放包
+https://pic4.zhimg.com/80/v2-2a4021ec6300c220d895aa27c39f42ca_qhd.jpg

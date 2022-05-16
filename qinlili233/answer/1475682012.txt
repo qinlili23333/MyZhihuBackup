@@ -1,0 +1,3 @@
+要是路由器没电了,从没有电的路由器连接电脑的网线还有网络信号吗？
+<p data-pid="NMcF1ewN">在某些情况下可以有</p><p data-pid="5YX1CXVm">需求：</p><p data-pid="dUnmp_0a">1.电脑网卡支持poe供电</p><p data-pid="x6_rE0SG">2.路由器支持poe受电</p><p><br></p><p data-pid="P1itjgqE">这种情况下，路由器会直接从电脑取电而不是使用外部电源，所以路由器实际上还有电</p><p></p>
+1600226445

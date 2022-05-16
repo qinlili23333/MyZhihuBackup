@@ -1,0 +1,3 @@
+如何评价华为高管说「今年10月份鸿蒙几乎不会使用AOSP中谷歌贡献的代码」？
+<p data-pid="puwdw68F">我来出个主意啊，不用android和谷歌代码兼容android</p><p data-pid="b9iAflLh">我们都知道，android有镜像就能跑起来，不一定必须从源码编译</p><p data-pid="gRALdDhS">当我们运行一个android模拟器时，我们只是加载了一个镜像，显然我们一般不大可能从源码编译镜像</p><h2>所以只需要使用开源模拟器qemu的代码，和一个android镜像，就可以实现不使用android和谷歌代码兼容android</h2>
+1615037975

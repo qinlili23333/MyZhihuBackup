@@ -1,0 +1,3 @@
+若微软的 Windows 11 兼容安卓应用，Windows 11 是否为套壳安卓系统？
+<p data-pid="Dnja0aVO">已知：</p><p data-pid="qfsI69eF">linux装个anbox可以无缝跑安卓应用，堪比原生体验</p><p data-pid="PQpl3Bb_">windows打开wsl可以无缝跑linux应用，也堪比原生体验</p><p><br></p><p data-pid="cY9KyD-e">结论：微软不过就是wsl里面塞了个anbox而已，太阳底下没新鲜事</p><p></p><p></p>
+1623906129

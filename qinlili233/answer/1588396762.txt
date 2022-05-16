@@ -1,0 +1,3 @@
+要想完全放弃Windows操作系统而使用 Linux需要多少勇气？
+<p data-pid="03PdLJM5">不需要多少勇气，wine已经成熟到你可以运行90%以上的windows软件/游戏了</p><p data-pid="fDRBPHZJ">你只需要解决剩下的10%</p><p data-pid="tyvaSuPC">而这10%里面又有9%是特殊操作一下又可以用wine跑起来的</p><p data-pid="YuXF0dMi">只有最后1%，要么你要魔改wine，要么找替代品</p><p data-pid="KLOkscav">但事实上这1%影响并不大</p><p data-pid="BK690U49">比如罗技ghub，wine跑不起来，但是有开源的piper替代</p><p data-pid="P3bx1JvQ">所以其实不需要什么勇气，只需要耐心和时间罢了</p><p></p>
+1606014801

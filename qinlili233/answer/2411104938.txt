@@ -1,0 +1,3 @@
+如何看待开源中国Gitee在不通知用户的情况下突然禁止图床外链访问，导致用户权益受损的行为？
+<p data-pid="R3kjKzch">白嫖就要做好后备措施嘛</p><blockquote data-pid="Kfxlw6QB">&lt;img src="image.png" onError="this.onerror=null; this.src='/images/noimage.gif';" /&gt;</blockquote><p data-pid="qZDe-X2S">用这种形式来实现双路备份，同时白嫖两个图床，一般就不会同时都挂掉了</p><p><br></p><p><br></p><p data-pid="Gu80tj2i">另外，我建议使用知乎作为图床，很方便（逃</p><p></p>
+1648441966

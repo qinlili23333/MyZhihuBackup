@@ -1,0 +1,3 @@
+为什么同样是8G运行内存，Windows能同时开一大堆后台进程和前台应用，而Android不可以？
+<p data-pid="NdLAbOAL">因为android上运行的是一个个java虚拟机，你可以试试在windows上多开pc版minecraft，这玩意也是java虚拟机，你看看能开几个就知道了</p><p><br></p><p data-pid="kZlVJ6W4">另外android虽然没有墓碑机制，但是有context保留机制，系统回收内存时虽然销毁了activity，但是把context以及附带的intent保留了下来，所以在重载时可以恢复到原来的样子，只是需要一次重载</p><p data-pid="ZcpogYtX">windows也有类似的机制，wiztree从后台打开时会白一下再绘制方块，就是系统释放了可重绘部分的内存</p>
+1605570893

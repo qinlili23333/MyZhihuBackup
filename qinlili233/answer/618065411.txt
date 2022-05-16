@@ -1,0 +1,3 @@
+安卓（Android）的原生系统真的那么好用吗？
+<p data-pid="9_zEJgML">真正好用的准确来说不算原生，但是是类原生。</p><p data-pid="k0eOzdCn">类原生相比原生，有优化，有一些特色功能。但是同时类原生相比国内某些友善度魔改系统，保留了所有原本应该有的原生特性，比如documentLaunchMode（MIUI，ColorOS阉割），通知栏磁贴（直到MIUI9才支持），原生彩蛋（Android7/8的抓猫彩蛋在大部分魔改系统上不工作）。</p><p data-pid="0by_QvAq">类原生需要几个特点才能满足：</p><p data-pid="GuMGHMPP">-相比原生，有其他特性和优化</p><p data-pid="fpNgKdF8">-保留原生的所有功能和特性</p><p data-pid="83f_q5RL">-使用原生的UI</p><p data-pid="lRB49iQ6">索尼/一加/夏普的系统是符合类原生的标准的典例</p>
+1552111216

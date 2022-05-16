@@ -1,0 +1,2 @@
+狗东金融其实还有个大问题，突然才发现，竟然默认开启允许读取短信！
+https://pica.zhimg.com/80/v2-36a36be867878deccac87312e3a98ab6_qhd.jpg

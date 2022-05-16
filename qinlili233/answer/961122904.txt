@@ -1,0 +1,3 @@
+office2019和WPS哪个功能最强大？
+<p data-pid="eXNxfLIS">在windows上，固然是office2019强大，将近3g的空间不是白吃的，几乎全部基于c/cpp原生代码的office能够在处理大文件时仍然保持极高流畅度</p><p data-pid="xUMwURKm">但是WPS也有特别的优势，那就是因为采用qt开发，天生跨平台，如果需要频繁在windows，linux，osx之间转换，WPS的跨平台体验会更加一致（office for mac就是笑话）</p><p><br></p><p data-pid="YDtZpJDl">个人建议是如果只用windows，那就office2019，如果有频繁的跨平台需求，那还是WPS舒服</p><p></p>
+1578039024

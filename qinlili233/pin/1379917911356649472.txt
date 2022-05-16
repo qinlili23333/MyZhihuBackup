@@ -1,0 +1,2 @@
+所以说mesa这个d3d12分支实际上是转换成d3d11后跑了11on12么？如果真是这样的话简单画面帧率跑不过llvmpipe软渲染就能解释了
+https://pic3.zhimg.com/80/v2-30cb56d3eb8475122c925ca123545c10_qhd.jpg

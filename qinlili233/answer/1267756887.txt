@@ -1,0 +1,3 @@
+1GB/s的网速是什么体验？
+<p data-pid="HbCW_hpW">用过的表示，也就那样吧</p><p data-pid="zwG6_GJ4">曾经捡过两张万兆网卡，分别插在两台电脑上走infini band直连</p><p data-pid="PGwCmmIu">受限于二奶机的sata固态，实际平均传输速率也就400m/s左右</p><p data-pid="w6ZSyzNs">说实在，也没快到哪里去，传个3a大作还是要两三分钟</p><p data-pid="juyifjX0">而且，网速虽然快，可是因为tcp的三次握手，如果不是特别大的文件速度根本跑不满</p><p><br></p><p data-pid="R6KFXZap">当然，比起我现在用的双千兆链路聚合肯定还是要爽一些的</p><p data-pid="eT9ktWm_">至于为什么我现在用回双千兆了...因为后来那两张网卡被我烧了，原因是我不小心插了带poe的线进去，那俩屑网卡遇到48v poe直接就冒烟了</p>
+1591433206

@@ -1,0 +1,3 @@
+xtu降压0.13v重启就蓝屏报错，我CPU烧了吗？有没有击穿？还有保修10875h机械革命深海泰坦？
+<p data-pid="W4RmT1or">cpu和cpu是不能一概而论的</p><p data-pid="5EOYG2OA">我的surface go降压0.04v就蓝</p><p data-pid="f65OOEIx">降压要5mv为单位步进，不要一次就拉那么多</p><p></p>
+1600060764

@@ -1,0 +1,1 @@
+在2018以前版本的unity上，默认是单线程渲染的，解决办法是-force-d3d11-no-singlethread

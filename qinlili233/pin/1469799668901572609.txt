@@ -1,0 +1,2 @@
+抓到了华为PetalSearch的爬虫记录！目前cloudflare的bot规则不能识别，需要手动添加规则。可以看到是抓了robots.txt的，但具体是否遵守目前我不敢确定。不过我还是很好奇为什么要用新加坡的机房爬
+https://pica.zhimg.com/80/v2-3cc468868d1884263e5828498b55135f_qhd.jpg

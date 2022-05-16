@@ -1,0 +1,3 @@
+游戏《彩虹六号》有哪些细节让你产生好感？
+<p data-pid="mnVf3NPg">作为一款发布已经超过四年的游戏，竟然在今年适配了Vulkan</p><p data-pid="osFGKpez">看看隔壁csgo，已经一万年d3d9了，起源2大概还要等三天吧</p><p data-pid="UqQ5sVmH">（推荐所有9系以上显卡开Vulkan，可以有效缩短载入时间）</p>
+1593333735

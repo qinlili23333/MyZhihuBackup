@@ -1,0 +1,3 @@
+*nix用多了是什么体验？
+<p data-pid="wwf1Wy0b">习惯性在命令行里敲出wine xxx.exe</p><p data-pid="ymwM8XpA">然后回到win之后还会这么干，然后敲完突然反应过来我在windows下难道不能直接运行exe吗</p>
+1519900255

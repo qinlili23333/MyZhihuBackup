@@ -1,0 +1,2 @@
+可能是全球首个完美适配9.0的心跳文学部移植。targetSDK提升到28，适配自适应图标，适配动态获取权限，首次使用7.1.3版SDL2库，这次的流畅度总算是能让人满意了（当然也和以前一样，仅仅兼容1080p分辨率，低于1080p会发生一些奇怪的问题）<br><a href="https://link.zhihu.com/?target=https%3A//qinlili.ctfile.com/fs/8067059-328173146" data-icon-type="link" data-original-url="https://qinlili.ctfile.com/fs/8067059-328173146" class="external">链接</a>
+https://pic4.zhimg.com/80/v2-1593ec4f74910dfc69bd99d8e22e08dd_qhd.jpg

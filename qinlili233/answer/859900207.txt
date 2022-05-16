@@ -1,0 +1,3 @@
+为什么笔记本电脑用久了即使重装也很卡?
+<p data-pid="fzHDTDeS">如果我没猜错的话...你没有清理过散热吧</p><p data-pid="aSy-Z5r6">都五年了，硅脂早就干的跟硬狗屎一样了，不导热，热量出不来</p><p data-pid="xjoHRaYh">风道积灰估计也很严重</p><p data-pid="qiC1xd9P">风扇可能轴承也快报销了该换了</p><p><br></p><p data-pid="yziRNkPR">拆机，把散热模块拆下来</p><p data-pid="tN6r_4cc">擦干净老硅脂</p><p data-pid="eiI8Ski_">热管和鳍片直接水洗</p><p data-pid="b9WlQ8x2">风扇最好自己买个同款换一下</p><p data-pid="Ih3iwUNP">搞完自己涂个好点的硅脂再装起来</p><p data-pid="jefYh5Js">多半问题就解决了</p>
+1571266609

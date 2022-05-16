@@ -1,0 +1,2 @@
+建议笔记本评测以后都加入firefox编译测试，记录mach build运行时间，我先来提供下gs66的成绩，24分56秒完成
+https://pic1.zhimg.com/80/v2-985acc8c57f0302661ae3395eb3c51bb_qhd.jpg

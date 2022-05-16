@@ -1,0 +1,3 @@
+YouTube开始试验AV1了，可是同一个视频AV1版本体积比H264版本都大，更别说相比VP9了
+https://pic1.zhimg.com/80/v2-4b3acce949ea9506b300a3cb2ac21c87_qhd.jpg
+https://pic3.zhimg.com/80/v2-064ee492c66e2d858a7949187bc88470_qhd.jpg

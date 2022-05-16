@@ -1,0 +1,3 @@
+西安东软核酸崩溃后，为何苏州东软核酸录入再次崩溃？
+<h2>这种东西本来就应该用serverless+kv做</h2><p data-pid="jUe7r6w-">一个人只可能同时出现在一个地方，而且没有高即时性多用户之间关联的需求，serverless不香吗</p><p data-pid="h2DwQPyX">入口用nginx做认证网关，nginx往serverless函数转发数据</p><p data-pid="mX8DYqDM">两张kv表，一张表用身份证做key，记录具体到每个人的状况，value用JSON存个人是否健康以及最近的核酸记录。第二张表用核酸检测管的条码做key，包含的采样者的身份证号作为value</p><p data-pid="-F3YJ9NA">serverless本身就算出错也只是影响一个人，不会整个崩。就算某地处理serverless的机房炸了也可以用其他地域的资源顶上</p><p data-pid="bWWidWh0">入口网关多搞几个anycast一下就行了，觉得国内anycast效果不好的话用本地dns解析的办法做也行，哪个网关炸了直接从路由表上撤掉流量导向其他网关就行了</p><h2>如果做成这样你告诉我怎么崩？</h2><p data-pid="7xaAuG4b">很多外包公司到现在都没意识到，serverless正是解决非实时高并发需求的灵丹妙药</p><p data-pid="5bXHqKcy">高可用最简单的解决办法就是增多热备数量，而serverless相当于几乎无限的热备数量，它能不稳定吗</p><p></p>
+1645319869

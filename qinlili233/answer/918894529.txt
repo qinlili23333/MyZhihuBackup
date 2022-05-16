@@ -1,0 +1,3 @@
+最近一年SSHD的硬盘销量占比是多少？为什么SSHD的销量没有超过HDD?
+<p data-pid="FnW37raV">sshd的速度还是不够用</p><p data-pid="hqpqzsBw">自从把1t的sshd换成了1.6t的s3610，笔记本续航和速度都上来了，除了发热反而增大了</p>
+1575255646

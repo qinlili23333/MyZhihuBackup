@@ -1,0 +1,3 @@
+台式机有哪些神奇的pcie插件？
+<p data-pid="7oI5iD0c">用pcie的风扇调速器</p><p data-pid="pG3ssZjo">我不想拉一根usb到机箱外面，所以我选择了pcie转usb，usb转ttl，ttl与调速器通讯</p><p data-pid="YzUaYKfi">除了占了一条pcie通道外没什么缺点，反正x99平台pcie多，不缺这一条</p>
+1586740463

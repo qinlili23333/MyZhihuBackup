@@ -1,0 +1,3 @@
+是否能用多个电源启动电脑，如何实现？
+<p data-pid="yXGE2yBS">可以，两根杜邦线把俩电源24p里的绿线对绿线黑线对黑线连起来</p><p data-pid="Du3-WcNA">黑线有很多，任意两根连起来就ok</p><a data-draft-node="block" data-draft-type="mcn-link-card" data-mcn-id="1344294391326986240"></a><p data-pid="hoW3p_-o">退针比较麻烦，所以用杜邦线直接从接口另一侧反着卡进去就很轻松</p><p data-pid="gbaevFbx">24p反着看就是有线的那一侧是一个大正方形孔里面有一个小正方形的针头</p><p data-pid="TLiYvVXf">把杜邦线的塑料头拔了（用另一根杜邦线去挑就行），插到24p反侧进去就会很牢固了</p><blockquote data-pid="j9mkSSRN">‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏‏</blockquote>
+1613284873

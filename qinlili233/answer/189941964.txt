@@ -1,0 +1,3 @@
+主要用来做深度学习，各位大佬能推荐一个装得下四路泰坦的配置清单吗？GPU想用titan xp？
+<p data-pid="RrAClwNu">c602工作站板子＋双路2670，插满16g recc d3</p><p data-pid="5XBNIAwj">四张泰坦xp</p><p data-pid="NWJo3287">四块512g sata固态组阵列</p><p data-pid="W49n0_k0">三台洋垃圾服务器电源</p><p data-pid="HQjaZ9Sr">搞定</p>
+1498539830

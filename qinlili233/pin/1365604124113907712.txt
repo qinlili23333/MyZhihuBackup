@@ -1,0 +1,2 @@
+事实证明surface go的屏幕只要是145mhz通信频率，可以无限制压低刷新率，反正15hz完全没问题。实测15hz正常读文档相比60hz可以省电接近30%。自定义刷新率办法就是用cru1.5.1，然后选择145mhz后改大lines值来降低刷新率。
+https://pica.zhimg.com/80/v2-a3ad0eba6241940ec6629fcd840578e0_qhd.jpg

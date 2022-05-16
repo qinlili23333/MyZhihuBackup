@@ -1,0 +1,3 @@
+应该如何理解 Erlang 的「任其崩溃」思想？
+<p data-pid="4MVAmPPS">崩溃了还有log可以看</p><p data-pid="OHh8AYtJ">跳过错误继续跑都不知道哪里出问题了</p><p data-pid="5ISwlaXC">宁可各种崩溃能让我找到问题的</p>
+1495533633

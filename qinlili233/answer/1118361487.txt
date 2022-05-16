@@ -1,0 +1,3 @@
+为什么我的Ryzen 5 3600性能表现不及预期？
+<p data-pid="qw-7Y6dw">不知道你在用什么录屏，如果是nvenc编码器的录屏工具（gfe，obs都支持nvenc），那么就很好解释了</p><p data-pid="ajQlEaWO">LOL负载过低，导致显卡低频打酱油，这是前提</p><p data-pid="gHAd1yTY">nvenc会占用显卡资源，但是nvenc不会导致显卡升频（所以我一般nvenc转码时挂一个3dmark在后台）</p><p data-pid="3oJ9d_fD">然后就导致你的1060在低频下满载了，帧率就掉下来了</p><p data-pid="WOySdsNj">解决这个问题很简单：后台挂一个3dmark，这是最简单的解决方法</p><p data-pid="qFm1eM3N">当然你也可以去控制面板把显卡设置为高性能，但是会导致待机状态继续高频</p><p><br></p><p data-pid="UlMkUbhN">nvenc这个也不知道能不能算bug吧反正存在很久了，也可能是官方为了一直开着instant replay在桌面时省电考虑不做修复。关键是正常的游戏能让显卡频率提起来，LOL不行，就导致这个bug发作了。</p>
+1585651019

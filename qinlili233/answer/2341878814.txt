@@ -1,0 +1,3 @@
+弱电箱没有电源且空间太小，如何解决电信光猫供电问题？
+<p data-pid="v-G49i2a">其实还有个效果更好的方案，能塞电源进去</p><p data-pid="Rx-sK7_J">光猫一般电源是12V1A，在大部分快充充电器的负载范围内</p><a data-draft-node="block" data-draft-type="mcn-link-card" data-mcn-id="1475069741471162368"></a><p data-pid="Mf56nglv">比如这个充电器我们查阅评测可确定它带12V1.66A输出能力，那就是可用的</p><p data-pid="8P2mmD6N">然后我们搞一根12V诱骗线，目的是保证上电后输出的就是12V</p><a data-draft-node="block" data-draft-type="mcn-link-card" data-mcn-id="1475070546094694400"></a><p data-pid="QYtoXNoA">弱电箱如果插座也塞不下的话可以自己把充电头撬了把插头改为直连220V</p><p data-pid="DjqjiHVn">因为现在这些充电器普遍比原装电源小，这个办法比原装电源要更容易塞进去</p><p data-pid="m5J4LERO">如果还要塞路由器的话还可以买多口的充电器插两条诱骗线，甚至可以是不同电压的</p><p></p>
+1644464515

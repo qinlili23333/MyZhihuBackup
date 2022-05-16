@@ -1,0 +1,3 @@
+win10蓝屏代码MEMORY MANAGEMENT？
+<p data-pid="1vDX-RAM">泻药</p><p data-pid="noXLmB_k">内存失控，检查一下内存时序是不是拉过头了，还有内存频率和电压，电压建议先拉1.35v(ddr4)看看是否稳定，时序先恢复默认</p><p data-pid="718J3eqN">内存超频时极其容易出现这个错误，常见原因多为超频过头</p>
+1500251971

@@ -1,0 +1,3 @@
+如何看待萌娘百科2022年初连日遭遇DDoS攻击？
+<p data-pid="apalN3xQ">现在瞎几把d站的脚本小鬼太多</p><p data-pid="DqwM2PEE">我的小站半个月前才被d过</p><p data-pid="zEN37xkC">而且一看就是脚本小子d的</p><p data-pid="HyrlyceB">为什么这么说呢？</p><p data-pid="nAaGx1oW">因为他全在打一个404页面</p><p data-pid="uPxoV-iO">而cloudflare是默认缓存404页面的（缓存3分钟）</p><p data-pid="WR3_g-mA">也就是他打得再多，也就相当于三分钟给源站一个请求罢了</p><p data-pid="2NLy_lWl">更搞笑的是什么呢？源站也是cloudflare pages上的纯静态页面</p><p data-pid="Ke4cvdb2">打了两个小时，然后很遗憾我的页面还能访问</p><p data-pid="36Q5-bEu">但凡稍微了解一下，都不至于无脑d一个套了cf的纯静态站，还是d的404页面</p><p></p><p></p>
+1645538739

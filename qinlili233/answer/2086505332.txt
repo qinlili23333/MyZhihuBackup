@@ -1,0 +1,3 @@
+目前新能源车ECU等电子控制程序普遍加密，是未来进入电动车时代后，后期动力改装将怎样进行？
+<p data-pid="v-LwIRAL">首先，感谢灯塔国农民破解拖拉机促进立法，破解自己的车已经在全球大多数地区合法了</p><a data-draft-node="block" data-draft-type="link-card" href="https://zhuanlan.zhihu.com/p/26121526" data-size="small" data-entity-type="article" class="internal">为什么美国农民要黑掉自己的拖拉机？</a><p data-pid="PdGpSJF7">所以你完全可以自己破解加密，这很难但并不是不可能</p><p><br></p><p data-pid="J2FOC4VM">其次，新能源车的瓶颈在供电和散热，而不是程序</p><p data-pid="aAcKOZ35">加强供电和散热并不需要修改程序，但可以有效的提升动力性能</p><p><br></p><p data-pid="zSFC61gW">最后，燃油车都有外挂电脑了，新能源车也自然可以做外挂电脑</p><p></p>
+1630025565

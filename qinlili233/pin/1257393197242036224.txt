@@ -1,0 +1,1 @@
+Android app想要在自身以外的界面截屏，必须申请录屏权限或使用root/magisk/xposed等提权工具，所以各位大可不必担心一个没有申请录屏或root权限的普通app截取其他界面

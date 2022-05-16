@@ -1,0 +1,3 @@
+换手机，如何将之前的数据转移过来？
+<p data-pid="VSNDn6Af">twrp内支持完整备份各个分区</p><p data-pid="t9ifDYvN">备份data分区就可以完美转移数据了</p><p data-pid="73WBUTFP">但是因为可能转移了某些新机器上本来不需要的数据，可能需要再手动删掉一些</p><p data-pid="PD8nBDrb">这个方法的优点是完整转移，缺点也是</p>
+1501340008

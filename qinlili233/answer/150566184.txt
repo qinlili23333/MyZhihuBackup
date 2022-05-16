@@ -1,0 +1,3 @@
+如何抓取家用路由器的数据包?
+<p data-pid="ws-c0KIO">泻药</p><p data-pid="vrYMkjJb">路由器上抓包折腾起来太累，个人更建议通过其他设备抓包</p><p data-pid="9vHhHucM">给个手机抓路由器包的参考方式(已经实验过)</p><p data-pid="yWjAzS2J">1，手机打开热点，路由器中继这个热点</p><p data-pid="KKVswDGF">2，手机安装开发工具箱，找到网络抓包这一栏</p><p data-pid="c4-ekT8d">3，手机打开数据网络，开始抓包</p><p data-pid="4fXnPVHZ">4，你能看到数据包了(如果数据包很多的话会比较卡这是正常现象)</p><p data-pid="Pps5a07V">电脑同理，原理就是让路由器的流量从你的设备上过一遍</p>
+1489012459

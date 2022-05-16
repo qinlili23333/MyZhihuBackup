@@ -1,0 +1,3 @@
+内存大有什么坏处？
+<p data-pid="nSrjsTwH">自检慢</p><p data-pid="cZAbonml">即使开了快速启动，也会在内存自检上卡很久</p>
+1636428383

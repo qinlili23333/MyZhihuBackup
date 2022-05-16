@@ -1,0 +1,3 @@
+如何看待叠纸公司最新 3D 换装游戏《闪耀暖暖》？
+<p data-pid="JnpkW0cy">一个偶然发现的细节：闪暖没用opengl，直接用上了vulkan，这是什么精神？这是带领游戏业技术升级的大无畏精神！</p><p data-pid="H9BJAVEz">又一个细节：闪暖targetsdk已经到了29，即Android Q，这是维护Android生态的精神啊！</p><p data-pid="MrFjnlpX">不过，该喷的地方还是要喷，帧率被锁定了30，60都不能开，更别说90和120了</p>
+1565745328

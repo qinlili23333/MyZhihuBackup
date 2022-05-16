@@ -1,0 +1,1 @@
+surface pen似乎是用蓝牙连接的，可是关掉surface的蓝牙仍然能用

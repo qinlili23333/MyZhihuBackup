@@ -1,0 +1,3 @@
+英特尔 12 代酷睿移动端处理器，是否带来了续航降低的问题？
+<p data-pid="WkUzl7PF">intel从2代开始，uncore功耗和核心数量就成正比，哪怕它叫做uncore</p><p data-pid="5-hJG8sW">12代堆的核心最多，uncore自然更爆炸了</p>
+1648622032

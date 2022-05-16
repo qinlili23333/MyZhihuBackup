@@ -1,0 +1,3 @@
+有哪些 TeX 能做但现代浏览器排版技术不能做或很难做的排版？
+<p data-pid="WjENqqbh">有大佬把LaTeX搞到wasm上了<a href="http://link.zhihu.com/?target=https%3A//github.com/SwiftLaTeX/SwiftLaTeX" class=" wrap external" target="_blank" rel="nofollow noreferrer">GitHub - SwiftLaTeX/SwiftLaTeX: SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor</a></p><p data-pid="FeYYSUWI">根据该项目描述，做不到的情况已经缩小到只有两点了：</p><p data-pid="mWoi9yzr">No graphite fonts and international line-breaking support. We so far deem this functionalty not very useful for English-speaking people.</p><p data-pid="HxCezyV-">XeTeX engine cannot properly display standalone tikz pictures, we are still investigating this issue.</p><p><br></p><p data-pid="ue6_raTD">其实现在只要不超出浏览器沙箱权限的操作，基本都可以通过wasm迁移到浏览器里来跑</p>
+1643281138

@@ -1,0 +1,1 @@
+chrome canary已经在windows上支持vulkan，firefox更是早就支持了vulkan，留给opengl的时日不多了

@@ -1,0 +1,2 @@
+知乎的正确退出方法:开启摇一摇反馈，要退出时摇一摇直接点反馈即可自动crash
+https://pic1.zhimg.com/80/v2-92cda3037865bfac8f242c556d651022_qhd.jpg

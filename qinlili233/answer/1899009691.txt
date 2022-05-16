@@ -1,0 +1,3 @@
+是等 GeForce RTX 3080 Ti 还是 Radeon RX 6900 XT？
+<p data-pid="EbTCAk69">现在a卡也就只能打打游戏了</p><p data-pid="6kFVez3S">自从rdna和cdna架构分开后，a卡的通算性能一落千丈</p><p data-pid="GyCnE6-i">6900xt到现在也没有支持rocm，机器学习潜力目前几乎为0</p><p data-pid="iBZaKFg0">只打游戏我觉得还是6900xt合适</p><p data-pid="n7YghbK3">n卡也就咱们这些除了打游戏偶尔也要小规模炼丹的丹师合适了，现在wsl2的cuda支持也完善了，性能损失相比原生linux下损失六分之一到三分之一（卡越好损失越大），反正对我来说已经没有任何必须切换到linux的需求了，n卡+wsl2真的吊舒服</p><p><br></p><p><br></p><p><br></p><p><br></p><blockquote data-pid="IQ6-7a8A">遗民泪尽tf里，南望torch又一年</blockquote>
+1621642556

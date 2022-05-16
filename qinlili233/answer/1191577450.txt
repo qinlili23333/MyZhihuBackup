@@ -1,0 +1,4 @@
+金属机身笔记本摸着冷，有解决办法吗 ？
+<p data-pid="fbjXCzzx">在开机启动项里增加</p><div class="highlight"><pre><code class="language-text"><span></span>7z b 30
+</code></pre></div><p data-pid="4tWhXl92">这行命令的意思是运行30次7z性能基准测试，跑完之后笔记本就热了</p><p></p>
+1588248879

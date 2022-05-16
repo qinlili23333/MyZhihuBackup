@@ -1,0 +1,3 @@
+RTX 3080 Ti 12G显存够用吗？
+<p data-pid="_ksVy0mF">不愧是老黃，太精明了</p><p data-pid="KU1AeH1s">这12g显存就是逼着你吃屎，让你batch size拉不大</p><p data-pid="0QwsJZ4l">然后逼着你上3090</p><p data-pid="9i7v7li1">拿来跑跑小项目，自己玩玩，还是可以的</p><p data-pid="Nhf3ILB4">商业丹炉老老实实用3090</p><p data-pid="p47_Lu1H">不过如果只是拿来跑视频编码，倒是不错的选择，nvenc不吃显存</p>
+1619230324

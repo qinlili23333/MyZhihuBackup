@@ -1,0 +1,2 @@
+如果你有一个域名，而你想绑定域名的服务用各种方式阻拦你绑定自己的域名，不妨试试用cloudflare workers反代
+https://pic1.zhimg.com/80/v2-49b1b9f4152cfcd5e45f6c39ec829b8f_qhd.jpg

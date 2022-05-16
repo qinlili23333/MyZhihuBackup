@@ -1,0 +1,3 @@
+次世代游戏机若选择买XSX，相比买PS5会缺失哪些东西？
+<p data-pid="ALcbit-q">除了索尼独占外没有什么能缺失的</p><p data-pid="qEO7oY-H">相反还会得到很多ps5永远不会有的功能，比如uwp的b站</p><p data-pid="044eO4RZ">而且现在xbox全系支持侧载了，甚至可以侧载自己开发的uwp上去（dev mode下可无限制侧载，但dev mode下无法运行正版游戏，切换dev mode需要重启，但不影响数据）</p><p data-pid="fRpwWsF9">于是xsx甚至已经获得了很多其他主机的模拟能力，只要侧载模拟器包上去就行了</p><p data-pid="qMD6LQ7b">虽然侧载有资源使用限制，内存占用没记错的话不允许超过1g，但至少比ps5自由的多了</p><p data-pid="bd14PaIc">（unity3d的游戏有办法在不拿到工程文件的情况下直接通过逆向魔改出uwp包，可以用这个办法直接移植游戏上去）</p>
+1642314046

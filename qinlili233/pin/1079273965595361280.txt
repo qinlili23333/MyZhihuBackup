@@ -1,0 +1,1 @@
+一些app的跳过广告按钮表现得并没有作用，实际上是因为splashActivity和mainActivity分开且广告在splashActivity上，点跳过虽然直接开始载入mainActivity，但是因为mainActivity的载入写的太烂了，跑完onCreate要好几秒，于是就显得跳过广告并没有什么作用了。

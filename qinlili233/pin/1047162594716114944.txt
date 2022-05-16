@@ -1,0 +1,2 @@
+qq竟然是依靠地址后缀识别是否webview全屏的，分享地址时后面加上?_wv=16782337，就是全屏webview了
+https://pic2.zhimg.com/80/v2-acfa7c75770ed0959f323156d4703f17_qhd.jpg

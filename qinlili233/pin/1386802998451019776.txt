@@ -1,0 +1,2 @@
+win10可以双向随航，两台设备均为win10即可，比如我现在是surface拓展到笔记本（然而ipad不能拓展给mac），延迟还是控制的可以的，2k下小于50ms，不打游戏够用，偶尔画质有些惨不忍睹，但静态阅读没问题
+https://pic4.zhimg.com/80/v2-2294ee9e88f891db9fa93d0a5a3d47f9_qhd.jpg

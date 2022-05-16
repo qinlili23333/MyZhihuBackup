@@ -1,0 +1,1 @@
+ipad pro能运行完整版ps真没什么奇怪的。微软第一个版本的win10arm还是在820上试验的，820跑架构转换都能运行完整版ps，更何况a12x性能是820的数倍。一个完整版ps根本不能榨干a12x的性能。附上820跑ps的视频链接<br><a href="https://link.zhihu.com/?target=http%3A//m.youku.com/video/id_XMTg1NDM4MzQyNA%3D%3D.html%3F%26source%3D" data-icon-type="link" data-original-url="http://m.youku.com/video/id_XMTg1NDM4MzQyNA==.html?&amp;source=" class="external">链接</a>

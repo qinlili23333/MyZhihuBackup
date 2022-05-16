@@ -1,0 +1,3 @@
+老人用电脑安装软件的时候，为什么不修改默认安装路径，直接安装到默认的C盘？
+<p data-pid="s6I6BDyt">为什么要改</p><p data-pid="ovAZcYf3">我除了游戏也是一律c盘</p><p data-pid="dL2f5afo">c盘装的软件多绝对不会导致系统变慢</p><p data-pid="pWAQ8HUg">系统变慢只有软件后台消耗资源和硬盘太满</p><p data-pid="xSioDbM4">前者通过禁用服务和自启动就可以解决，而且装在其他盘也一样</p><p data-pid="iISdQYbt">后者你花钱买个大硬盘不就行了，像我一样1.6t固态扣了100g装fydeos外剩下空间做c盘会满？</p><p><br></p><p data-pid="09Fg590J">Program Files目录权限问题确实比较麻烦，但是c盘还有别的地方装软件啊</p><p data-pid="c6eCxMOX">我c盘除了pf外还有几个不同的软件目录</p><p data-pid="PIlj3dMh">cmdtools存放命令行软件，添加到path变量</p><p data-pid="0oUWZMJa">softwares存放绿色软件和自编译软件</p><p data-pid="AMqDXZ4y">softsrc存放软件源码</p><p data-pid="CPFD_bPl">softrwx安装对目录权限有要求的软件比如小丸</p><p><br></p><p data-pid="39DN0jJf">数据丢失？七天一个全盘wim，本地+路由器+网盘三重备份，能全丢了我买双色球必中1.5亿</p>
+1613187503

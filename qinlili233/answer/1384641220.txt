@@ -1,0 +1,3 @@
+Visual Studio Code 如何编写运行 C、C++ 程序？
+<p data-pid="kpsn4KY6">我个人不喜欢gcc也懒得配置mingw，所以我的方案是同时开vscode和vs2019，vs2019不装任何插件就纯净挂着用来编译</p><p data-pid="bNSyREUB">vscode安装大量插件，保证顺畅的写代码体验</p><p data-pid="lN0jPGnd">要编译时就返回vs2019生成一下</p><p data-pid="rI7qOrVC">当然，这样的组合就不推荐再用cmake了，虽然vs2019支持cmake但是这样的组合会导致cmake反复生成缓存消耗大量时间</p><p></p><p></p><p></p><p></p>
+1596551320

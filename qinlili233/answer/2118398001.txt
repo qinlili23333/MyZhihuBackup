@@ -1,0 +1,25 @@
+用汉字作为变量名和函数名有什么问题?
+<p data-pid="r2RA8-Ll">你在gb18030编码下写下了一串汉字变量名</p><p data-pid="g9-U5BBx">第二次打开时你的编辑器默认用utf8打开了</p><p data-pid="nX_aZH3z">你想要重新用gb18030编码打开，却点成了用gb18030保存</p><p data-pid="0oDJNm0P">于是你再选择用gb18030编码打开，看到了满屏幕的锟斤拷</p><p><br></p><p data-pid="jrjTuJlM">这不是笑话，这是我自己的亲身经历</p><p data-pid="E7U87urG">不过我没用中文变量，我只是console.log打印了一些中文log</p><p><br></p><p data-pid="bZaPWMuf">写代码这块，用二十六个字母能解决的事情尽可能别引其他编码的字进来</p><p data-pid="TFadJAZ8">比如下面这段batch，原始编码是shift-jis的日文，在utf8下打开后...wow</p><div class="highlight"><pre><code class="language-text"><span></span>    REM //------------------------------------------------------------------------------
+    REM // 僾儘僙僗婲摦
+    REM //------------------------------------------------------------------------------
+    REM // AMDaemon婲摦
+    start /MIN %DAEMON_EXE% -f -c %DAEMON_CONFIG_COMMON% %DAEMON_CONFIG_SERVER% %DAEMON_CONFIG_CLIENT%
+    timeout 5
+    REM // AMDaemon偺夝憸搙愝掕偱夋柺偑墶偵側偭偰偟傑偆偺偱廲偵愝掕偡傞
+    REM // 斀帪寁廃傝偵夞揮偡傞
+    REM // 0 : 0搙
+    REM // 1 : 90搙
+    REM // 2 : 180搙
+    REM // 3 : 270搙
+    %ROTATEDISPLAY_EXE% 3
+    REM // 傾僾儕働乕僔儑儞婲摦
+    start /WAIT %APP_EXE% -nolog
+
+    REM //------------------------------------------------------------------------------
+    REM // 僾儘僙僗嫮惂廔椆
+    REM // 傾僾儕偺堎忢廔椆摍偵傛傝amdaemon.exe偑廔椆偟偰偄側偄応崌偑偁傞
+    REM // 偙偺応崌僙僈僽乕僩傊慗堏偱偒側偄偺偱kill偟偰偍偔
+    REM //------------------------------------------------------------------------------
+    taskkill /im %DAEMON_EXE% &gt; nul 2&gt;&amp;1
+</code></pre></div><p></p>
+1631515227

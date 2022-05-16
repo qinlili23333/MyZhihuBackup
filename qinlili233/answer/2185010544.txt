@@ -1,0 +1,3 @@
+为什么知乎上很多人说 macOS 很好用，而实际其市场占有率只有大约17.7%？
+<p data-pid="5gULESyU">因为macos只能运行在传统形态的电脑上</p><p data-pid="HFLE-x85">但windows和linux就不一样了，除了传统的电脑，还有服务器，有取款机等嵌入式设备，甚至还可能存在于大街上的广告大屏里</p><p data-pid="qVl6Fot6">这些非传统形态的设备，只要联网了，也是会被计入统计数据的</p><p data-pid="i91BKz7J">macos再好用，它怎么和市场覆盖范围更大的windows比？</p>
+1634983335

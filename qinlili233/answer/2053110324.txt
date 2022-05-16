@@ -1,0 +1,3 @@
+为什么RTX 3060 是12GB显存？
+<p data-pid="rmeDlc-a">把3060的2g单片的显存给3070，3070就能变成16g</p><p data-pid="RSTexx5p">可老黄他不焊，咋办呢</p><p data-pid="IGAc7ip1">理论上来说是可以自己更换同品牌显存颗粒来扩容的，至少在费米和开普勒时代是可行的</p><p data-pid="le0SJKYo">国外也有人试验成功</p><a data-draft-node="block" data-draft-type="link-card" href="http://link.zhihu.com/?target=https%3A//www.tomshardware.com/news/16gb-rtx-3070-mod" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://www.</span><span class="visible">tomshardware.com/news/1</span><span class="invisible">6gb-rtx-3070-mod</span><span class="ellipsis"></span></a><p><br></p><p data-pid="zA8BM1nJ">华强北显存扩容技术可能要大批量应用了</p>
+1628661444

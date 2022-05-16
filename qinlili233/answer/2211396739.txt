@@ -1,0 +1,3 @@
+大家的编程知识都是哪里学来的？
+<p data-pid="PNTHW5mI">作为没有经过任何系统性学习的人来给点经验</p><p><br></p><h2>其实归根结底核心就两个字：折腾</h2><p data-pid="ffrSU2V3">只要折腾得多了就自然会了</p><p data-pid="zZ1nziod">从最基础的配置环境编译其他人的项目开始</p><p data-pid="8gBpjSz1">到可以改改字符串等低级别的修改</p><p data-pid="wQ5-1G6t">到依照官方文档依葫芦画瓢</p><p data-pid="0TKw2IM0">再到学会使用Google和Stackoverflow寻找问题的解决方案</p><p data-pid="jYAkPztz">再到自己学会调试分析，甚至学会逆向</p><p data-pid="TNC-BHxy">只要自己肯折腾，真没有什么是学不会的</p><p><br></p><h2>撞墙的次数多了，便就无师自通了</h2><p></p><p></p>
+1636274730

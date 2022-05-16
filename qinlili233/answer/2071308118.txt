@@ -1,0 +1,3 @@
+如何评价大连东软信息学院对新生购买笔记本电脑的配置建议？是否有参考价值？
+<p data-pid="-jDF0b-T">“我们穿越成功了”</p><p data-pid="dGu5BY2i">“快去问问那边的路人现在是哪一年吧”</p><p data-pid="-15DiGN0">“今年推荐的笔记本配置是什么”</p><p data-pid="yMbSK-a8">“10代配20系显卡”</p><p data-pid="8iaDUgOh">“完了，是2019年”</p><p><br></p><h2>在1202年的今天，专业卡已经没有任何购买价值</h2><p data-pid="AYX23fXG">除了mx外所有显卡均已可以打专业驱动</p><p data-pid="VHQoEAsi">绝大多数专业软件已经转向了对游戏驱动更友好的dx/vulkan</p><p data-pid="f5oU66Ga">微软更是放了个重磅炸弹支持在dx12上跑opengl（这项黑科技甚至可以在dx12上跑java版mc，看下面视频）</p><a href="https://www.zhihu.com/zvideo/1408829713037545472" data-draft-node="block" data-draft-type="link-card"></a><p data-pid="v8rjvvB6">以及还有开源团队的zink，在vulkan上跑opengl，目前兼容不大好但是部分程序已经可用</p><p><br></p><h2>在这个形势下专业卡已经没有任何优势</h2>
+1629383602

@@ -1,0 +1,3 @@
+CPU和处理器有什么区别？
+<p data-pid="iAaOevU9">cpu是中央处理器central processing unit</p><p data-pid="4fZmYpYn">而处理器就是processing unit</p><p data-pid="HRrWCcOs">即cpu是一种类型的处理器</p><p data-pid="KXsy1e38">同样，gpu（graphic processing unit）也是一种处理器</p><p></p>
+1570614682

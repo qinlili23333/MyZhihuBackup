@@ -1,0 +1,4 @@
+wsa现在已经基本稳定了，目前我测试下来也就一个神庙逃亡2是卡载入的其他游戏基本都能正常运行，除了卡。但是，微软的阿三是不是忘记处理重力感应了，surface全系大部分都有重力感应，但wsa下检测不到重力传感器，涂鸦跳跃一直原地完全感应不到
+https://pic1.zhimg.com/80/v2-2915dfee833131176ac3a0cfda1a5f23_qhd.jpg
+https://pica.zhimg.com/80/v2-47d63378f1ddb6bf95fb48b0a46e8426_qhd.jpg
+https://pic2.zhimg.com/80/v2-91771fdc6c76d7f64caef52de08ba90b_qhd.jpg

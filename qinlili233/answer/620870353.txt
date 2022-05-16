@@ -1,0 +1,3 @@
+想问下各位大佬，笔记本电脑加什么外置硬盘好？
+<p data-pid="1FQWom9h">看你接口。</p><p data-pid="NKqUcMG-">如果你有ultra bay，直接转pcie x8上企业级pcie固态，体验5000m/s+的速度</p><p data-pid="E1Ktb6ct">如果你有雷电3，直接雷电3转nvme走起，享受极速。</p><p data-pid="CXxN6Rix">如果你有USB3.1/3.2，你可以usb转nvme，享受较慢的极速（优于sata）</p><p data-pid="R2nwH9JP">如果你只有USB3.0，你可以考虑sata固态或者pmr 7200转以上机械</p><p data-pid="AZfU9bTQ">如果你就USB1.1/2.0，随便来个机械都行</p>
+1552387545

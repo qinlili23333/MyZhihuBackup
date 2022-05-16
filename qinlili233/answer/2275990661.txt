@@ -1,0 +1,3 @@
+路由器是wifi6，终端设备是wifi5的，能提升并行下载速度吗？
+<p data-pid="ZpU4Mu1M">能，wifi6路由器一定支持wifi5 wave2，并且大部分情况下支持160mhz</p><p data-pid="m64FZzOq">所以wifi5 wave2设备比如ac9260网卡的机器也可以获得很好的提升，当然是相比普通wifi5路由器而言</p><p data-pid="HiwSx_kG">而对于r9000这种wifi5旗舰来说，则没有提升（实测ac9260在r9000和ax3 pro下没有性能表现差距）</p>
+1639793345

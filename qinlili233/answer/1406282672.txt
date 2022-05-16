@@ -1,0 +1,3 @@
+windows虚拟机安装macOSCatalina10.15能否和ipadpro或其他ipad随航呢？
+<p data-pid="cuFzNgGJ">肯定是可以的</p><p data-pid="P1NqIisV">gpu编码的问题，可以用gpu passthrough解决（缺点是单显卡设备宿主机就没得显卡用了）</p><p data-pid="iMwNUAHl">蓝牙本质是usb设备，把usb穿透过去就行了</p><p data-pid="wkfwVA17">smbios什么的就更好模拟了</p><p><br></p><p data-pid="4wox8SpM">但是，这样一个到处直接穿透的虚拟机，已经和物理机高度接近了，为什么不直接在物理机上黑果呢，除了你服务器要多开以外（问题是为什么多开还要用随航啊）</p><p data-pid="KiFfVX3W">感觉除了解决兼容性问题（比如用kvm全部穿透的办法在10代i9上跑xp），或是干一些奇怪的多开操作（比如linus的一台机器左半屏macos右半屏win10无缝拖动），这种做法完全没有必要啊</p><p></p><p></p>
+1597317820

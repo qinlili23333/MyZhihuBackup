@@ -1,0 +1,8 @@
+国家新闻出版署相关人士回应停发游戏版号，称「申请仍在接收」，其中还有哪些信息值得关注？
+<div class="highlight"><pre><code class="language-js"><span></span><span class="kr">const</span> <span class="nx">版署</span><span class="o">=</span><span class="p">{</span>
+<span class="nx">申请版号</span><span class="o">:</span><span class="p">(</span><span class="nx">游戏</span><span class="err">，</span><span class="nx">申请信息</span><span class="p">)=&gt;{</span>
+<span class="k">return</span> <span class="k">new</span> <span class="nx">Response</span><span class="p">(</span><span class="s2">"已接收"</span><span class="p">,{</span><span class="nx">status</span><span class="o">:</span> <span class="mi">202</span><span class="p">})</span>
+<span class="p">},</span>
+<span class="p">}</span>
+</code></pre></div><p><br></p><p><br></p><blockquote data-pid="hHWt3l1x">响应状态码<b>202 Accepted</b>表示服务器端已经收到请求消息，但是尚未进行处理。但是对于请求的处理确实无保证的，即稍后无法通过 HTTP 协议给客户端发送一个异步请求来告知其请求的处理结果。这个状态码被设计用来将请求交由另外一个进程或者服务器来进行处理，或者是对请求进行批处理的情形。</blockquote>
+1645586977

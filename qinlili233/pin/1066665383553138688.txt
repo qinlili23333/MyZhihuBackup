@@ -1,0 +1,3 @@
+新版360加固已经可以完美脱壳可运行。难度比老版本下降。但是对dump后dex的修复需要较高的正则表达式水平。（我折腾正则表达式折腾了半天）
+https://pic1.zhimg.com/80/v2-92b0362a727c555c4942e1e439d695c3_qhd.jpg
+https://pic3.zhimg.com/80/v2-6484390c446af2694802d361a05c93cb_qhd.jpg

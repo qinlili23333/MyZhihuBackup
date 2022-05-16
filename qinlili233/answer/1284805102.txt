@@ -1,0 +1,3 @@
+120 平家中全是承重墙，哪种 Wi-Fi方案最好？
+<p data-pid="Q-T14jPG">都全有网线了，这还不ac+ap啊</p><p data-pid="v3QV_dus">每个房间有网线的地方来个poe的吸顶ap，挂墙也行</p><p data-pid="QraFINPh">光猫下挂一个有线路由器，路由器下挂ac，ac下挂poe交换机</p><p data-pid="5mbjNsva">不过建议确认一下已经布置好的网线质量如何，有些质量差的网线poe大功率ap会烧线</p><p><br></p><p><br></p><p data-pid="diojJwgG">注意一定要挂ap，不要下挂路由器，ac统一管理下的ap可以实现无缝漫游，但是如果各自下挂路由器，干扰大而且不能漫游</p><p></p>
+1592224721

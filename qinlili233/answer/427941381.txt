@@ -1,0 +1,3 @@
+抄袭别人的 GitHub 代码可耻吗？
+<p data-pid="7cQwZ6ad">根据协议来就不可耻。</p><p data-pid="W333YZIs">比如协议要求你修改后保持开源，你改了一个函数名，开源了，不可耻。</p><p data-pid="bIr8y2dV">至于WTFPL这种协议，你随便怎么玩都行</p>
+1530091875

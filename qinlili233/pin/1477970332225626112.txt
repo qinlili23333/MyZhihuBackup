@@ -1,0 +1,1 @@
+给win11添加腾讯加密dns的命令，需要管理员权限：netsh dns add encryption server=1.12.12.12 dohtemplate=<a href="https://link.zhihu.com/?target=https%3A//doh.pub/dns-query" data-icon-type="link" data-original-url="https://doh.pub/dns-query" class="external">链接</a> autoupgrade=no udpfallback=no

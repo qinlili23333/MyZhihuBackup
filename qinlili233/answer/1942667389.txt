@@ -1,0 +1,3 @@
+为什么各大手机厂商不积极适配鸿蒙系统？
+<p data-pid="jnhkkQDH">现在只有华为自己的芯片的vendor</p><p data-pid="w-PHp3rT">其他芯片的vendor都没有装你emoji呢</p><p data-pid="yaGxq2KD">图形还能用软渲染wrap一下，其他驱动呢？</p><p></p>
+1623807466

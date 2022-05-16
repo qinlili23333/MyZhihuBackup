@@ -1,0 +1,3 @@
+Ryzen锐龙成功例子AMD在显卡方面能否追上Nvidia的性能水准？
+<p data-pid="2itH1toI">我看有希望但是希望不大</p><p data-pid="u1Ma7yiw">radeon pro vega ssg，农企最顶级的显卡，七千刀售价，单精度12.3T</p><p data-pid="SYudJoFZ">quadro gv100，老黄最顶级的显卡，九千刀售价，单精度14.8T</p><p data-pid="8lu141q-">农企如果想要翻身，新一代旗舰必须单精度突破16T大关</p><p data-pid="CG2Y3dek">另外农企的文档实在写的太差劲了。作为gpu计算咸鱼，我也觉得农企的文档参考价值不大，老黄对开发者提供的帮助却很全面。农企文档如果不写好，翻身是没希望了。</p>
+1522750345

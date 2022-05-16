@@ -1,0 +1,1 @@
+新版360加固会在内存里抹除第一个dex的头部，导致第一个dex是dump不出来的，解决办法是xposed dumpdex，然后手动修dex头

@@ -1,0 +1,3 @@
+核显为什么不能代替独显？
+<p data-pid="kBpvSZUK">因为核显跑不了tenserflow</p><p data-pid="Vn11thfG">这是硬伤</p>
+1519731858

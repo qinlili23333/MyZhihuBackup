@@ -1,0 +1,3 @@
+让apex的自适应分辨率支持高帧率！好耶！<br>马上就开源！
+https://pica.zhimg.com/80/v2-ea812bdbb278020eee43e83e220efd9d_qhd.jpg
+https://pica.zhimg.com/80/v2-6c96ed2a1ef594c45f4df1501bee5acd_qhd.jpg

@@ -1,0 +1,2 @@
+别说macos了，用qt的win软件也没几个体验算好的，rpcs3崩溃严重，hdr project4至今不支持高dpi缩放
+https://zhuanlan.zhihu.com/p/45911061?utm_source=org.thunderdog.challegram&utm_medium=social

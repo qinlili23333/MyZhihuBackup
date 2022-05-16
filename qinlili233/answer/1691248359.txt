@@ -1,0 +1,3 @@
+一般用户能体会到 CPU 的性能差距吗？
+<p data-pid="l714ZaJM">surface go的固态是pcie的，比我本子的sata快得多</p><p data-pid="7x3fokkf">但是surface go打开chrome要整整2秒，我的本子却只要半秒</p><p data-pid="J7VY-X1g">不过好在surface go的卡不是那种无相应的卡，点chrome后是白屏两秒，不是那种没窗口等半分钟出来一排窗口的情况</p><p></p>
+1611287400

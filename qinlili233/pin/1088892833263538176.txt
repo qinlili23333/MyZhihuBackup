@@ -1,0 +1,2 @@
+corona blossom vol1发布了一个小更新，这个更新在迁移到Android移植版后并没有修复部分场景崩溃的问题。
+https://pic4.zhimg.com/80/v2-9023c81f4db82a1c30cb850a1774e2ad_qhd.jpg

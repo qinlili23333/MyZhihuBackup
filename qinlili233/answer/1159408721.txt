@@ -1,0 +1,3 @@
+有没有App帮助异地情侣能一边视频一边同步看电影？
+<p data-pid="aI7-FNiH">steam link现已支持远程串流</p><p data-pid="AF1W2lQ8">在对方电脑上登录同一个steam账号</p><p data-pid="_OjLeuW6">然后把播放器加到steam库里</p><p data-pid="uI7oxeyI">在对方电脑上（划重点）启动播放器的串流就行了</p><p><br></p><p data-pid="haKd_NVB">（部分运营商不提供公网ip，可能会导致串流失败）</p>
+1587089721

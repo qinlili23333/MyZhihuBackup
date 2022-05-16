@@ -1,0 +1,3 @@
+如何看待 ChemOffice 向中国盗版用户发送律师函？
+<p data-pid="ASxyO_bp">瞎猫撞死耗子吧这是在</p><p data-pid="WCW4__Ht">ChemOffice最流行的破解版是一个国外大佬做的只要替换文件就行的，我也在用这个版本</p><p data-pid="DWWpaDvL">我已经用dnspy分析过了，这个大佬早就把联网激活逻辑给绕开了，也就是你没事不去点激活，不会发送任何数据出去</p><p data-pid="ElZPPbkp">我用wireshark也没抓到发送数据包</p><p><br></p><p data-pid="0KYSrwXA">不过还是要吐槽一下，ChemOffice的代码风格非常鬼畜，到处lambda，各种语法糖</p>
+1592534645

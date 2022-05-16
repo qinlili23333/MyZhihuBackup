@@ -1,0 +1,3 @@
+微软 Win11 将重点优化 Win32 应用，哪些信息最值得消费者关注？
+<p data-pid="w5oDJyq5">就我个人用.Net开发Win32程序的体验而言</p><p data-pid="cb7YW49U">现在的win32UI最大的问题是不同系统上的尺寸表现过于不统一</p><p data-pid="S61qtBru">我这人做界面不喜欢留白，喜欢元素尺寸就刚好卡着点来布局</p><p data-pid="R1JJzIhf">于是win10上winforms刚刚好的布局在win11上就因为按钮和文本框的圆角出现了互相覆盖的问题</p><p data-pid="zUUQRMEG">什么时候微软把这个问题解决了，我再考虑换回winforms</p><h2>否则WPF真香</h2>
+1636604421

@@ -1,0 +1,1 @@
+我越来越觉得wsa就是wsl+anbox的缝合产物了。这东西完美继承了anbox只要不涉及opengl就丝滑流畅但opengl游戏表现屎烂的特点。

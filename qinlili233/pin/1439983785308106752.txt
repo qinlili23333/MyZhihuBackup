@@ -1,0 +1,2 @@
+SolidWorks已经可以使用Zink来运行在Vulkan上，消耗额外约50%的显存换取游戏卡上近乎翻倍的性能表现，推荐10系以上显卡用户尝试。
+https://pic3.zhimg.com/80/v2-73ea8b39cb20416724b820c052c06e07_qhd.jpg

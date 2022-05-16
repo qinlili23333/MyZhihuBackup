@@ -1,0 +1,2 @@
+移植已经开始，但显然遇到了很棘手的问题，卡转圈，似乎是webview的service worker支持问题
+https://pic2.zhimg.com/80/v2-1fe1c8ed1f17fdc4b661ccf2e3f12f6c_qhd.jpg

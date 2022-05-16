@@ -1,0 +1,1 @@
+win10如果遇到游戏兼容性问题，可以尝试：win+r，输入control打开控制面板，程序和功能-启用或关闭Windows功能-Legacy Components-勾上DirectPlay，点确定然后等待进度条走完重启。这个方法对于运行某些老游戏有奇效，比如Platypus。

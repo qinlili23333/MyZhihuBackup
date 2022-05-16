@@ -1,0 +1,3 @@
+（已修复）如何看待Windows 10 这个长达一年多都没有解决的显卡bug？
+<p data-pid="01MV6ddQ">本人y700用户，6700hq+960m，遇到过这个问题，解决方法很简单，把nvidia telemetry service给禁止就好了</p><p data-pid="ko2nbqSR">老黄写崩驱动导致，跟巨硬无关，这个问题在使用农卡的本子上不存在</p>
+1525774057

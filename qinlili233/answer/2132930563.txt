@@ -1,0 +1,3 @@
+iPhone 13 Pro 系列支持自适应刷新率，最高 120Hz，相比安卓高刷屏幕有何异同？
+<p data-pid="tGnu4uFB">android11其实就有请求刷新率的api了</p><p data-pid="R5N3tjQt">setFrameRate()这个方法可以设定你当前的活动的刷新率，系统会取当前屏幕上所有申请刷新率的最小公倍数</p><p data-pid="x7CVci-_">比如日服邦邦就会申请60hz，所以哪怕设置里开了120hz还是会锁60hz</p><p data-pid="dGuH7ZBc">苹果只不过是跟上了android的水平</p><p data-pid="lwVxF4gV">但某些游戏的开发者还不肯适配android11的刷新率api，我对他们的珍珠存在性存疑</p>
+1632270274

@@ -1,0 +1,2 @@
+r6总算修复会导致绿屏的问题了（我™就说绿屏不是微软的锅）
+https://pic2.zhimg.com/80/v2-c4a47fa26d442684ff175e01f951f0f5_qhd.jpg

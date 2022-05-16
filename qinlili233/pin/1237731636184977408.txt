@@ -1,0 +1,1 @@
+一些app点击图标后要过一会才出来画面，其实是因为不但开了windowDisablePreview，而且splash没用styles实现，更严重的是application或是splash的oncreate塞东西太多了。

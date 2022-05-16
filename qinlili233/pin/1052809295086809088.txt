@@ -1,0 +1,2 @@
+把后台cpu占用大于0.5%的毒瘤都给禁止后台
+https://pic2.zhimg.com/80/v2-a3f6cc3a79cc88432054f52275341691_qhd.jpg

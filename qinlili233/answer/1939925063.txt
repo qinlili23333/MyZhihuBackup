@@ -1,0 +1,3 @@
+2021 年了，Office 会不会逐步「消灭」掉 WPS？
+<p data-pid="3IlFf9eX">不会</p><p data-pid="1mJbA-fn">linux和macos市场不会消失</p><p data-pid="4uLgJ35A">office在win10上是最优解，完全跟随系统适配功能，dpi感知之类的特性都是第一时间跟进的</p><p data-pid="04WlmlAa">但是因为重度依赖windows sdk开发，office跨平台开发只能老老实实重写一份</p><p data-pid="Rtt5UqYQ">于是office没有linux版，macos版也体验不佳</p><p data-pid="Jbgz9d_n">而wps基于qt决定了虽然在windows上肯定性能不如完全原生的office，却可以在不同操作系统上获得一致的体验</p><p data-pid="YMmMEmsX">所以linux下，wps是国人目前的最佳选择，没有之一（openoffice和libreoffice启动速度真不如wps）</p><p data-pid="4sCBtSKc">（linux下的wps是没有广告的，因为wps的广告模块不基于去qt不能跨平台，所以我们还可以借助wsl2，在windows上运行linux版wps以实现去广告的目的）</p>
+1623666280

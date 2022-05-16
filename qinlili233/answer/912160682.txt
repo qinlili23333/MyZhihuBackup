@@ -1,0 +1,3 @@
+如何用一根网线同时使用电信ITV和路由器？
+<p data-pid="dltEKL5K">如果必须只用一根网线，且不在乎速度</p><p data-pid="cW3gaJfp">那就一根网线里面八线拆两组四线跑百兆</p><p data-pid="YOoRrxUR">缺点是上限只有百兆速度</p><p></p>
+1574826140

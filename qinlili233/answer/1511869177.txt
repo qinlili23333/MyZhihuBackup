@@ -1,0 +1,3 @@
+为什么大多数显卡都提供三个 DisplayPort 接口和一个 HDMI 接口？
+<p data-pid="U_4Tct3N">dp和hdmi的原理本身就不一样</p><p data-pid="6G0S25Cm">dp是数据流，而hdmi是信号流，所以hdmi接口电路要等长（就和内存一样），而dp不需要等长电路</p><p data-pid="v_cvqCZI">同理，dp的数据流和网线一样可以复用（菊花链）也可以聚合（二合一带宽翻倍）</p><p data-pid="D5eDJQX_">那么，三个dp的用处就必然比三个hdmi多</p><p data-pid="SOpdxapd">想多屏，那就每个dp都菊花链出去，一复三甚至四用</p><p data-pid="rSsfASTX">想高分高刷，也可以俩dp甚至三个dp聚合到一台显示器上，应对未来</p><p data-pid="gPvpHeUX">这是hdmi无论如何都做不到的</p><p></p>
+1602077124

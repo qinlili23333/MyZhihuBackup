@@ -1,0 +1,3 @@
+为什么有人爱 Firefox 胜过 Chrome 呢？
+<p data-pid="jkKXHXHi">我日常使用chrome，但是一旦我要搞网页调试，要f12，我肯定开firefox</p><p data-pid="tx0RHizz">chrome日常内存泄漏，有时候调着调着chrome就干掉了20g内存必须重开一次</p><p data-pid="S8sdm-Vb">firefox就不会出现这种离奇的内存泄漏，调试单个页面再复杂也可以控制在2g内</p><p data-pid="Y98rEy5n">而且firefox的f12比chrome强大，这点相信用过的都知道</p><p data-pid="vxqDWWyt">chrome是一个适合普通用户的浏览器，这点没错，在ux上chrome确实占优。但是对于开发者和极客来说，firefox更合适一些。</p><p data-pid="bTwQw1P-">firefox quantum之后firefox的性能已经完全可以和chrome抗衡，甚至低端机上更快，html特性支持上也和chrome基本齐平，对于网页开发者来说，使用firefox开发是最佳选择，现在完全不用担心与chrome的页面兼容性问题了。（至少就我个人经验来看，firefox最新版本能完美跑的页面，chrome72+都不会有问题）</p><p></p>
+1572434629

@@ -1,0 +1,3 @@
+有哪些讲无限循环故事的作品？
+<p data-pid="sP2ADPYp">@echo off</p><p data-pid="8zeS3Xg_">:a</p><p data-pid="Q9Rb5xET">echo %%05d &gt;1.txt</p><p data-pid="_nOV5iyP">goto a</p><br><p data-pid="NvFq6-Zx">通过无限循环制造一个巨大的txt</p>
+1498170630

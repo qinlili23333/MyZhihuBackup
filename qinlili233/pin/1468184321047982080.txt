@@ -1,0 +1,2 @@
+总算重写界面完成了，顺带做了pwa适配，只为了把经典游戏的生命延续下去<br><br>voicesea点qinlili点bid欢迎体验
+https://pica.zhimg.com/80/v2-b315cab940451b7eb75391d1be071e75_qhd.jpg

@@ -1,0 +1,3 @@
+Win 10 不装 360 的话，该怎么清理日常软件垃圾呢？
+<p data-pid="ff-gxjSG">让系统和软件自己来。</p><p data-pid="oqeJHW9M">win10开启存储感知，就能自动清理了。</p><p data-pid="AH7zlBby">很多软件也可以设置缓存大于多少自动清理。</p><p data-pid="c1qPe6nn">一般来说，系统和软件比你更懂需要清理什么。</p><p><br></p><p data-pid="l1scI-0P">没有人比微软更懂windows，也没有人比软件开发者更懂软件产生了哪些垃圾</p>
+1571298853

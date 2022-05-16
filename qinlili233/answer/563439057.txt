@@ -1,0 +1,10 @@
+为什么公司的 PPT 一般不加动画效果呢？
+<p data-pid="tr3nWF9N">ppt的动画真的极其硬核。</p><p data-pid="TdFIfw6X">比如我现在给你一个风扇.png，两个按钮.png，要求开始放映时风扇启动并加速，然后持续运转，按下按钮2风扇停止，按下按钮1风扇再次启动让你来用ppt做，我可以保证至少一半人会出岔子。</p><p><br></p><p data-pid="UwI1q0zn">各位可以自己试试看。如果你做出来了，那么恭喜，你现在已经可以考虑给ppt添加一些动画了。如果实在做不出来，可以看看下面这个视频，琴梨梨自己录的</p><br><a class="video-box" href="http://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1063075922399260672" target="_blank" data-video-id="" data-video-playable="true" data-name="在PPT中实现风扇控制效果" data-poster="https://pic1.zhimg.com/v2-ff6c329be185db7b15a839159401fb48.jpg" data-lens-id="1063075922399260672">              <img class="thumbnail" src="https://pic1.zhimg.com/v2-ff6c329be185db7b15a839159401fb48.jpg">              <span class="content">                <span class="title">在PPT中实现风扇控制效果<span class="z-ico-extern-gray"></span><span class="z-ico-extern-blue"></span></span>                <span class="url"><span class="z-ico-video"></span>https://www.zhihu.com/video/1063075922399260672</span>              </span>            </a>            <br><br><p><br></p><p data-pid="p4nSLh-o">里面用到的代码这里为了方便你们先丢在这里</p><div class="highlight"><pre><code class="language-abap"><span></span><span class="nv">Sub</span> <span class="nv">pauseshow</span><span class="p">()</span>
+  <span class="nv">ActivePresentation</span><span class="p">.</span><span class="nv">SlideShowWindow</span><span class="p">.</span><span class="nv">View</span><span class="p">.</span><span class="nv">State</span> <span class="o">=</span> <span class="nv">ppSlideShowPaused</span>
+<span class="nv">End</span> <span class="nv">Sub</span>
+
+<span class="nv">Sub</span> <span class="nv">runshow</span><span class="p">()</span>
+  <span class="nv">ActivePresentation</span><span class="p">.</span><span class="nv">SlideShowWindow</span><span class="p">.</span><span class="nv">View</span><span class="p">.</span><span class="nv">State</span> <span class="o">=</span> <span class="nv">ppSlideShowRunning</span>
+<span class="nv">End</span> <span class="nv">Sub</span>
+</code></pre></div>
+1546237688

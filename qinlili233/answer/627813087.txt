@@ -1,0 +1,3 @@
+家境一般的人该不该买MacBook Pro？
+<p data-pid="o15IjARZ">0，买不买看买的东西是否需要，买需要的东西，都是正确的消费观</p><p data-pid="gX7Tmh0n">1，买mbp的前提是使用mac os x，不需要其他系统。如果需要其他系统，建议不考虑mbp。你的需求个人认为更适合linux，倒是更建议考虑核显win本（linux下独显热插拔体验不好，不推荐）</p><p data-pid="V-9upaWv">2，你的需求有一定的cpu性能要求，但是显卡需求不高（前提是你用python时不涉及用显卡的机器学习等方面），所以如果为了省钱，建议买13寸</p><p data-pid="JweOfIQ8">3，mbp的散热并不是很好，如果你需要长时间重负载，不推荐mbp。现在已有很多散热好的本子可以完美黑果，可以考虑</p><p data-pid="ALXcL7OV">4，如果不需要移动的话，mac mini也可以提供os x环境，散热也好一些，最重要的是性价比高</p><p><br></p><p data-pid="22Tuil1X">个人建议：为什么不买个xps13装ubuntu呢？</p>
+1553077105

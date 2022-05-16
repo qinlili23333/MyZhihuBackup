@@ -1,0 +1,2 @@
+nwjs搓了一个内嵌flash的客户端，可正常上4399
+https://pic1.zhimg.com/80/v2-c63edd54bb8ae74c109ee67bc004a060_qhd.jpg

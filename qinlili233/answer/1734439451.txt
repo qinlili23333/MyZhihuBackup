@@ -1,0 +1,9 @@
+数列「1，2，2，3，3，3，...」的通项公式是什么？
+<p data-pid="IkM7lQ-G"><a class="member_mention" href="http://www.zhihu.com/people/c180b131b226388e073973c2f33cd461" data-hash="c180b131b226388e073973c2f33cd461" data-hovercard="p$b$c180b131b226388e073973c2f33cd461">@冰镇柠檬水</a> 的解法确实方便,不过他的代码如果用js来写的话还可以写的更简单</p><p data-pid="tU_7ANPF">自己搓了个js版</p><div class="highlight"><pre><code class="language-js"><span></span><span class="kd">function</span> <span class="nx">getArray</span><span class="p">(</span><span class="nx">id</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">for</span><span class="p">(</span><span class="nx">numNow</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="nx">idNow</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span><span class="nx">idNow</span><span class="o">&lt;</span><span class="nx">id</span><span class="p">;</span><span class="nx">idNow</span><span class="o">=</span><span class="nx">idNow</span><span class="o">+</span><span class="nx">numNow</span><span class="p">){</span>
+        <span class="nx">numNow</span><span class="o">++</span><span class="p">;</span>
+    <span class="p">}</span>
+    <span class="k">return</span> <span class="nx">numNow</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div><p></p><p></p>
+1613557846

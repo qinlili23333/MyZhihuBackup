@@ -1,0 +1,1 @@
+发现新的QQ盗号页面，伪装成微店，点开后是QQ空间的假登陆界面<br>这次的页面会检测UA了，不是QQ就跳转到真的登陆界面，狡猾的一比，而且除了UA似乎还检测分辨率，我拿Chrome伪装了半天不是跳转真界面就是白屏，有空的大佬们可以来研究一下<br><a href="https://link.zhihu.com/?target=http%3A//www.weidian.gg/2138621/item-6495032.html" data-icon-type="link" data-original-url="http://www.weidian.gg/2138621/item-6495032.html" class="external">链接</a>

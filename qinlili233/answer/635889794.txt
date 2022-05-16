@@ -1,0 +1,3 @@
+如何评价某数码 KOL 说家用 NVMe 固态是智商税的说法？
+<p data-pid="ldJlwj7O">我专门对比过nvme/sata固态的系统更新速度</p><p data-pid="0fsu2S_Y">同样的大版本更新，同样的配置，s3610（sata旗舰）对战pm961（nvme老次旗舰）</p><p data-pid="-R_QOYcs">pm961快了整整12分钟！</p><p data-pid="X7tX1zWn">就sata这种半双工协议，nvme这种全双工协议出来后还有脸做系统盘？我倒是觉得对于支持nvme引导启动的台式机，sata固态做系统盘比较友善度（笔记本sata m2往往功耗低于nvme m2，加上笔记本cpu并不如桌面平台发挥好，所以不盲目上nvme）</p>
+1553854499

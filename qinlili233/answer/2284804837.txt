@@ -1,0 +1,3 @@
+怎么在插了独显的情况下用纯CPU渲染游戏呢?就是那种没有核显的机器插了独显但却用CPU渲染游戏?
+<p data-pid="ACRJ7xVd">opengl有默认的cpu参考模式（单线程，性能差）和llvmpipe（高性能cpu渲染器，多线程）</p><p data-pid="b5kizn5V">d3d9/10有software参考模式</p><p data-pid="S16VvbaB">opengl和vulkan还可以用swiftshader实现软渲染</p>
+1640346021

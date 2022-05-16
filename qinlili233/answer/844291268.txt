@@ -1,0 +1,3 @@
+为什么莫名反感uc浏览器？
+<p data-pid="fDQxKK_Y">15年之前uc是很好用的，u4内核比webkit快很多</p><p data-pid="MEIw3tmG">后来5.x开始系统webview变成chromium了，uc却一点也不追进，一直落后于chromium</p><p data-pid="s2sFssH0">大概在chromium49的时候，chromium的h5test分数突破了450</p><p data-pid="EbCdIJ0F">而直到现在，uc的h5test还没到450</p><p data-pid="WcZ_ruU2">失去技术优势的产品，是不可能继续受欢迎的</p>
+1570148556

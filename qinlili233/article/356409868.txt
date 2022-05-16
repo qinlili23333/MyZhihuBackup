@@ -1,0 +1,24 @@
+自制一个返回204的Captive检测地址
+<p data-pid="cG0CehYg">Android使用204检测来判断网络连通性，原生Android默认使用谷歌检查地址，但显然国内连不上。一般我们都会修改为高通或Miui的检测地址，但如果你对第三方地址不放心，也可以自己制作一个。</p><p data-pid="7_fBrE5R">Cloudflare Workers就很合适干这个。</p><p data-pid="IrbKct5E">新建一个Worker，默认代码如下</p><div class="highlight"><pre><code class="language-text"><span></span>addEventListener('fetch', event =&gt; {
+  event.respondWith(handleRequest(event.request))
+})
+
+/**
+ * Respond to the request
+ * @param {Request} request
+ */
+async function handleRequest(request) {
+ return new Response('hello world', {status: 200})
+}
+</code></pre></div><p><br></p><p data-pid="yHMDKJH1">可以看到，handleRequest方法定义了返回的内容</p><p data-pid="mNyKAKwg">我们把status修改为204，删除hello world，就实现了返回204的需求</p><div class="highlight"><pre><code class="language-text"><span></span>addEventListener('fetch', event =&gt; {
+  event.respondWith(handleRequest(event.request))
+})
+
+/**
+ * Respond to the request
+ * @param {Request} request
+ */
+async function handleRequest(request) {
+ return new Response('', {status: 204})
+}
+</code></pre></div><hr><p data-pid="3WyeVpDI">接下来就是部署</p><p data-pid="_Q-1cI7e">我们得到一个workers.dev结尾的域名，在自己的域名上做CNAME解析，并设置Workers的route，就可以了</p><p><br></p><p data-pid="DhGhs9dQ">琴梨梨的地址：204.qinlili.bid/后面内容随意</p><p data-pid="4HZRWwIu">悠着点用，别给我超额了就行</p><p></p>

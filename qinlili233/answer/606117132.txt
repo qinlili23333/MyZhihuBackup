@@ -1,0 +1,3 @@
+如何评价高通的骁龙712处理器？
+<p data-pid="nY9OapHJ">谢邀</p><p data-pid="poxlaCmE">这东西无非就是SDM710Pro（参考：820是msm8996，821是没事8996pro，两者共享一个vendor）</p><p data-pid="LwwODutx">适当提频，修复漏电，就这么简单。</p><p data-pid="udTHnozF">821比820频率高了三分之一，功耗低了10%，712也差不多，频率上去0.1，功耗下来一点。</p><p data-pid="29cR3-6p">给710机型做rom的别慌，和820/821一样不用分别适配vendor的。</p>
+1550894569

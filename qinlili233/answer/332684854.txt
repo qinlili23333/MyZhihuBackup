@@ -1,0 +1,3 @@
+请问 X86 与 ARM 的功耗控制有什么区别？
+<p data-pid="2xPqJHlt">性能差？</p><p data-pid="VEbP46QI">从下面这些里面选一个，x86会向你证明它的强悍，证明为什么它能轻易吊打ARM全家</p><p data-pid="ljPLKuPZ">3D Mark</p><p data-pid="6FrkbWj3">FFMPEG</p><p data-pid="uT6sVxSB">cinebench</p><p data-pid="r58lCKq3">X264</p><p data-pid="q9dLCSpm">X265</p><p data-pid="Y_nWlHjq">TensorFlow(CPU版本，移除cuda加速)</p><p data-pid="lvZPgpiW">7zip</p><p data-pid="orjfYZiB">RAR</p><br><p data-pid="kOrINJEl">功耗差？满载fpu跑起来，同样性能x86功耗优势就能表现出来，此时arm功耗奇高还性能并不强</p>
+1520006240

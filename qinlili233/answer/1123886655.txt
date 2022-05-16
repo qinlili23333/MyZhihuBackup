@@ -1,0 +1,3 @@
+家里新安了wifi,邻居突然发微信来要wifi密码，应该怎么办？
+<p data-pid="-r-Za4ZX">找个旧手机，搭建linux+dnsmasq平台，把所有解析结果全都返回到一个假冒黄网（真黄网就传播涩秦犯法了所以要假冒的）</p><p data-pid="Yc3393-F">设置路由器默认分发的dns为这个手机的ip</p><p data-pid="vRABzTLl">自己的设备就手动设置dns为正常的比如114.114.114.114</p><p><br></p><p data-pid="54dbIRUb">这样他连上后看什么都会跳转到这个假冒黄网，岂不美哉？</p><p><br></p><p data-pid="O2TSMsP4">如果假冒黄网你觉得过分了，换成渣渣灰也行</p><p><br></p><hr><p data-pid="q6ktE79s">升级版操作：光劫持dns太没意思了，加点料</p><p data-pid="H_Bcf8r0">劫持dns配合搭建nginx反向代理，他所有流量都要经过你手，而且有效避免hsts红，稍微给他网页上做点手脚就有的好玩了</p>
+1586420201

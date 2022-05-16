@@ -1,0 +1,3 @@
+两台笔记本，其中一台可以当另一台的扩展屏吗？
+<p data-pid="SCJxvJhP">目前99%的本子都不支持hdmi in，也就是你直接用hdmi线连起来，什么也不会发生</p><p data-pid="bnCDRdaW">但是，你可以拆开其中一台本子，找到屏幕接口，去淘宝买一块edp驱动板，把屏幕接在这块驱动板上，把驱动板和另一台本子连起来，就可以了</p><a data-draft-node="block" data-draft-type="mcn-link-card" data-mcn-id="1207018350607601664"></a><p data-pid="znaxEGUR">特别注意笔记本edp分为30p和40p，30p以低端机为主，30p和40p不能互相通用，购买驱动板之前必须看好自己的笔记本是30p还是40p</p><p data-pid="wGfmjvVo">另外作为显示器的笔记本连接驱动板后，不再能显示自身机器系统的画面，如果要切换，必须断电后把edp线插回笔记本主板才能切换回来</p><p></p><p></p>
+1580555769

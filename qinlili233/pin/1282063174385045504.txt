@@ -1,0 +1,2 @@
+fydeos还是没法穿透usb给linux子系统，piper不能用，鼠标dpi都改不了，fydeos距离能日用果然还有一段差距
+https://pic4.zhimg.com/80/v2-ab1bbeb2fc2ce633faef912e1064707f_qhd.jpg

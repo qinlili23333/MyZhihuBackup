@@ -1,0 +1,3 @@
+d3d12 vs d3d11，强开d3d12后原神的光照直接上了一个等级，但是帧率跌倒原来的四分之一<br>vulkan可以启动但过了logo就闪退，opengl直接不支持<br>另外-force-d3d11-no-singlethreaded和-window-mode exclusive可以显著改善原神的性能表现（约20%提升）
+https://pic2.zhimg.com/80/v2-3985dd250644f2ec7cbfd4c68430c176_qhd.jpg
+https://pic2.zhimg.com/80/v2-761643a7553468677d2749c277c4e43b_qhd.jpg

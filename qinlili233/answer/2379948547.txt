@@ -1,0 +1,3 @@
+如何在 JS 文件中（非控制台）使用 getEventListeners 函数？
+<p data-pid="hrxaIqT5">直接干掉ClipboardEvent.clipboardData的set不是更轻松么</p>
+1646729903

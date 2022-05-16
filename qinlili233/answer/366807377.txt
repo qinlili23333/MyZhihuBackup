@@ -1,0 +1,3 @@
+有哪些有趣的电脑病毒？
+<p data-pid="ixlEiVs-">自己写的一个</p><p data-pid="BKSc5nBA"><a href="http://link.zhihu.com/?target=https%3A//qinlili.ctfile.com/fs/8067059-208000460" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">qinlili.ctfile.com/fs/8</span><span class="invisible">067059-208000460</span><span class="ellipsis"></span></a></p><p data-pid="lAwfenLV">没有任何破坏性，功能是开启开始屏幕，等一秒隐藏开始屏幕，再过一秒又开启...如此循环</p><p data-pid="V0L3jv37">伪装成了wifi密码破解器</p>
+1538536455

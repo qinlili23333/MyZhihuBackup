@@ -1,0 +1,2 @@
+全汉pd20000存在谎报满电问题，显示满电情况下仍然会持续半小时左右9w偷电
+https://pic3.zhimg.com/80/v2-45c8b408aedc9fdeb03ee55e53f694a3_qhd.jpg

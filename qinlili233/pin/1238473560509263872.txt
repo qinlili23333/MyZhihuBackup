@@ -1,0 +1,1 @@
+-window-mode exclusive可以让u3d独占全屏，显著提高性能表现

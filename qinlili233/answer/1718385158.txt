@@ -1,0 +1,3 @@
+有什么能把手机完全锁死不到时间绝对打不开的APP？
+<p data-pid="mYxSPt4t">如果app只有受限的权限，很难做到完全锁死，毕竟大不了adb uninstall就行了</p><p data-pid="u1Mf6rzR">所以这个app必须拥有增强的权限</p><p data-pid="hc8BboFz">如果增强的权限仅限于系统层（root/xposed/magisk），那么只要刷个机就行了</p><p data-pid="-el_Sy3n">所以必须针对bootloader做修改，增加一行代码，时间未到时直接不引导，包括rec和fastboot也不引导</p><p data-pid="s36OLw3q">所以这个app就是：</p><h2>TWRP！</h2><p data-pid="2F1cJ8Xy">它允许你获取root权限后刷写rec和bootloader分区！</p><p><br></p><p data-pid="1Mz4nGW7">不过，修改bootloader也不是完全没救，高通平台有9008可以救砖，联发科和三星也有类似的工具</p><h2>所以建议使用紫光平台机型，目前无法救砖</h2><p><br></p><h2>当然，还有物理救砖办法，那就是直接把存储吹下来重新量产</h2><p></p>
+1612604008

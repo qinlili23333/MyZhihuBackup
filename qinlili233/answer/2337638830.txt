@@ -1,0 +1,3 @@
+特斯拉主动安全在未开启autopilot状态下自主变道避险，到底是太厉害还是太可怕？
+<a href="https://www.zhihu.com/zvideo/1376822529701531648" data-draft-node="block" data-draft-type="link-card"></a><p data-pid="x22BAr2H">去年就在国外有类似的案例了</p><p><br></p><p data-pid="rGlNVL_4">这是独立于ap的麋鹿变道功能，不仅仅是特斯拉，有很多车都搭载此类功能</p><p><br></p><p data-pid="wnLxMPlr">但此类功能为了尽可能避免变道行为本身产生更多意外，一般都是偏保守的</p><p data-pid="E412qY0c">所以请勿依赖此类功能，能救一命是运气，不是保障</p>
+1644203984

@@ -1,0 +1,3 @@
+大家都碰到过哪些硬盘故障？最后是怎么搞定的？
+<p data-pid="c8wOZG3Z">换了个供电接口，硬盘丢分区了，恢复工具读不出来</p><p data-pid="LbyI3A2I">硬盘拔下来换二奶机试试，正常</p><p data-pid="q02talg0">换回主力机，又读不出来</p><p data-pid="cKwk8TCK">试了各种办法都解决不了，后来发现</p><p data-pid="sTJsTZ9u">我特么主力机有一条sata供电模组线没连接到电源</p>
+1530882056

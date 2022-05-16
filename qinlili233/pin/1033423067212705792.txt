@@ -1,0 +1,1 @@
+跟你们说，这个网站就喜欢整天爬知乎的回答，写出来的回答经常不到两天就被爬过去了。而且一爬就是一整个问题下所有回答无论质量一起爬过去。<br>有没有想玩玩压力测试的可以拿这个站玩玩，从访问速度看，服务器质量似乎不咋样。<br><a href="https://link.zhihu.com/?target=https%3A//www.wengbi.com/thread_61764_1.html" data-icon-type="link" data-original-url="https://www.wengbi.com/thread_61764_1.html" class="external">链接</a>

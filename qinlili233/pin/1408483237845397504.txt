@@ -1,0 +1,2 @@
+<a data-hash="3d198a56310c02c4a83efb9f4a4c027e" href="https://www.zhihu.com/people/3d198a56310c02c4a83efb9f4a4c027e" class="member_mention" data-hovercard="p$b$3d198a56310c02c4a83efb9f4a4c027e">@知乎小管家 </a>出来解释一下，为什么日本时区和其他大于+8的时区都报这个？为什么要必须改回UTF+8或更小的时区才能正常提交？你乎程序员采集本地时间不考虑时区吗？
+https://pica.zhimg.com/80/v2-a1caa19b8d0d712370ac480734e03df3_qhd.jpg

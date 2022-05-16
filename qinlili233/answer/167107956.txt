@@ -1,0 +1,3 @@
+USB Type-C什么时候成为评价笔记本产品好坏的指标了？
+<p data-pid="UfI1vxGw">跟风党呗</p><p data-pid="xAFEtaLB">USB组织制定了三种标准尺寸的USB形状</p><p data-pid="ByHRNolg">type a即传统接口，矩形</p><p data-pid="Ed8tOjL9">type b多见于打印机等设备，正方形其中两个角是斜的，看上去像hdmi横向被挤压后的效果</p><p data-pid="Ejge1tG9">type c是正反都能插的形状，跑道型外观，两侧为半圆，中间直的</p><p data-pid="gidDr0N5">三种接口均仅仅为外形而已，并没有绝对定义的功能和线序</p><p data-pid="nfSvC9Ym">type c也可以仅仅为USB1.1，不可盲目崇拜type c</p><p data-pid="SbcdtMg1">当然type c作为一种接口形状看待的确有它的优势，正反盲插，不用看就能插，不容易大力出奇迹插爆</p>
+1494336449

@@ -1,0 +1,3 @@
+你是因为什么开始接触非 Windows 桌面操作系统的？有什么故事？
+<p data-pid="GiWhWddS">老机器的网卡是个冷门型号，win7没自带驱动，这是背景</p><p data-pid="9gJshoyI">有一天我又瞎折腾把网卡驱动干掉了</p><p data-pid="53ZMW5b5">翻箱倒柜找驱动盘意外发现一张写着ubuntu和其他一堆英文的盘</p><p data-pid="qqONhSY1">插进电脑，看也没看就一路安装</p><p data-pid="hEitzTRA">然后发现老子的win7哪去了？？？然后这个新的系统，还，有点好用？？？</p><p data-pid="q8o1Z9w0">最重要的是这冷门网卡，竟然，驱动起来了？？？！！！</p><p></p><p></p>
+1566430859

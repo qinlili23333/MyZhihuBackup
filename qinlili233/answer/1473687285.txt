@@ -1,0 +1,3 @@
+amd处理器兼容不了哪些主流软件?
+<p data-pid="Tusyyy3z">Intel管理界面</p><p data-pid="SA0-mPir">Intel动态热量管理服务</p><p data-pid="HOCWprb4">Intel数字版权保护技术</p><p data-pid="mrNKtd4O">HAXM</p><p data-pid="lUcQ_S0o">......</p><p><br></p><p data-pid="X9E5xWS7">只要是Intel开发的，基本都是主流软件且不兼容AMD</p>
+1600141180

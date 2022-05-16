@@ -1,0 +1,3 @@
+如何评价明年即将上市的 M1 Ultra、M1 Epic 芯片？
+<p data-pid="VjPRHCBS">如果明年还用ARM8.4架构来做CPU，那苹果早就该寄寄了</p><p data-pid="o_va67Ro">叫M2 Ultra还有点可能</p><p data-pid="pg9fDhkk">ARM9今年年底应该就会有Soc上了，明年的Soc不大可能还用ARM8.4</p>
+1635995407

@@ -1,0 +1,2 @@
+steam这个空间统计其实非常不科学。只统计了manifest内声明的大小，但是没有统计游戏自身热更新的大小，就比如这个32m的doaxvv很显然不对劲
+https://pic3.zhimg.com/80/v2-302fed2e755225c69a981e149830153d_qhd.jpg

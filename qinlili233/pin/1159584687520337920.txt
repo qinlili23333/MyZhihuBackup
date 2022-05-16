@@ -1,0 +1,2 @@
+你oncreate东西塞太多加个启动页我理解，可直接子线程睡眠一秒再启动主activity就太过分了吧
+https://pica.zhimg.com/80/v2-2dcbb20cc71dfb0a1e61e7b1bacf81ff_qhd.jpg

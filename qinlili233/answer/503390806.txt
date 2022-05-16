@@ -1,0 +1,3 @@
+为什么MacBook换了USB-C大家一片哀嚎，Surface Pro 6没有换却批判一番？
+<p data-pid="eELh5im9">当年typec还没有普及，大多数人没有意识到这是未来且不可改变的趋势，只知道自己要买线，当然抱怨</p><p data-pid="AE0T0_2X">如今typec已经飞入寻常百姓家了，伴随着越来越多的人使用typec，人们适应后反而开始反感原来的typea了（我现在手机四根数据线三根typec到typec全速，只有一根是typec到typea留给充电器和笔记本用）</p><p data-pid="OpqVcEl6">我反正已经成为忠实的typec教徒，这种正反都能插而且正反插都能24针全速传输的接口确实在使用体验和性能上有独到之处。</p><p data-pid="aJ8onflT">最后强力安利绿联的typec到typec全速，1.5m只要59，够粗够耐操。</p><br><br><p data-pid="-IpEF4lK">（关于typec全速和半速：有一些数据线，会只使用单面12针传输，因为带宽不足，只能达到5gbps，而正规typec线应该使用24针双面共同传输，带宽可以达到10gbps以上甚至达到40gbps。目前已知一加原装快充线就是12针半速）</p>
+1538613589

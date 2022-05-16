@@ -1,0 +1,3 @@
+如何评价 6 月 30 日发布的联发科 Helio G35/G25入门级芯片？
+<p data-pid="2_5EjVWz">电子垃圾论斤卖</p><p data-pid="iecChUt-">八核a53也就625水平</p><p data-pid="mczpBjaG">我又要提你们口中的地狱炎龙821了</p><p data-pid="SWTfPuod">821单核是625两倍，多核是625的80%</p><p data-pid="xyeWsxiy">至于gpu，821是625的四倍</p><p><br></p><p data-pid="SqqmM0Rs">然而联发科这俩玩意gpu规模还不如625</p><p data-pid="W5YYapii">cpu得益于内存带宽应该比625发挥好些</p><p><br></p><p data-pid="HSoCjyO-">综合结论：联发科这俩玩意cpu多核略优于821但低于835，单核不如821/835，gpu连821屁股都摸不到</p><p data-pid="Vdw6hWzU">至于分辨率啊基带啊什么的，甚至还不如810</p><p><br></p><p data-pid="WEesTlYk">835的机器现在只要700不到，只要联发科没法做到700以下，拿什么和二手835打？毕竟联发科又不能增智慧</p><p></p><p></p><p></p><p></p>
+1595061008

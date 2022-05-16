@@ -1,0 +1,3 @@
+为什么240hz的显示器全都只有1080p没有更高的了？
+<p data-pid="EqURSCBL">1080p240和4k60的性能需求基本一致</p><p data-pid="a1N9MFHG">可是2080ti开了光追跑战地5都只能1080p勉强稳60fps啊</p><p data-pid="zSitOnqJ">2080ti最大支持两张nvlink，就算效率真的200%，那也不过1080p120fps而已，如果用4k不开dlss根本别想流畅玩</p><p data-pid="yXCM1Xdh">什么？你1080p开dlss？大果粒真的不瞎眼吗？</p><p data-pid="3YyBOA2k">你看看现在的显卡性能才多少，你买更高分辨率更高刷新率的显示器，你显卡真的带的动？</p><p data-pid="yviL-ybf">单卡环境下不开dlss时，至少需要一张8倍于2080ti性能的显卡，2k240hz才会有意义</p><p data-pid="I0XVT3gB">这样一张卡，大约还需要5年可能才会出现</p>
+1578359672

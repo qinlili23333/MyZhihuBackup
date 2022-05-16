@@ -1,0 +1,2 @@
+github上出现了解锁原神帧率的genshin-fps-unlock项目，实测有效，但受制于11800h屎烂的单核性能，我无法跑到100fps以上，等一个CPU给力点的实测一下150fps+的原神体验
+https://pic1.zhimg.com/80/v2-0aaeb3445ae0981207b6d133915c13f9_qhd.jpg

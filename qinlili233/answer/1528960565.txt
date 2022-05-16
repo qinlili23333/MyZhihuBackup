@@ -1,0 +1,3 @@
+有必要把R6800换成TC7102吗？
+<p data-pid="XG9cDB5j">为什么一定要换？</p><p data-pid="q8h5OZUl">一台下挂开桥接当ap使</p><p data-pid="cVd_slHN">另一台无线或者有线mesh</p><p data-pid="KI06S3xf">原来的r6800做主路由不用动</p><p><br></p><p data-pid="uM3z9LgJ">这样信号和速度都有改善，除了多耗电外没缺点</p><p data-pid="b7GPTJ7w">但不会真有人在乎每天不到两毛钱的电费吧</p>
+1602927856

@@ -1,0 +1,2 @@
+网件发布了r9000的新固件，大幅度提速还加入了QoS
+https://pic1.zhimg.com/80/v2-40e6a1a1b0ee868d871b02fcf3b7a076_qhd.jpg

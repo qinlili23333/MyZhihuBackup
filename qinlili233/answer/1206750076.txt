@@ -1,0 +1,3 @@
+米柚（MIUI）12之下，有什么软件显形了吗？
+<p data-pid="7cf_3OOk">只要某几个不同开发者的软件里面出现了相同的非系统intent-filter，大概率就会显型</p><p data-pid="OwMh26Ms">这就是隐式intent实现相互唤醒的原理</p><p data-pid="dbYNvTYS">当然，也可能是第三方登录之类用的，所以这个方法不绝对</p><p data-pid="caIhXUI9">有时候，也有些程序会用权限来实现互相唤醒，但是为了安全，都是签名校验的，只有同一个开发者的不同软件会这么干</p><p><br></p><p><br></p><p data-pid="s4p6pZNw">咱做精简版，去除唤醒有时候如果直接移除receiver会闪退的话，一般就把intent-filter给清掉，把receiver架空。</p><p></p>
+1588841951

@@ -1,0 +1,1 @@
+轻量级广告闪屏ADLauncher更新啦！<br>-优化未找到默认启动图时的提示<br>-适配高DPI感知<br><br>植入游戏仅增加不到1m，完全开源可控，使用wtfpl许可随便用！<br><a href="https://link.zhihu.com/?target=https%3A//github.com/qinlili23333/ADLauncher" data-icon-type="link" data-original-url="https://github.com/qinlili23333/ADLauncher" class="external">链接</a>

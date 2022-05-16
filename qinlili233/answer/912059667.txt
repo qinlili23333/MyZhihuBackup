@@ -1,0 +1,3 @@
+4000以内笔记本能做matlab哪款最合适？
+<p data-pid="pO9iRrzq">预算太低了</p><p data-pid="Sd86jWSe">教室电脑是7400，物理老师还是嫌弃每次要跑十多分钟很慢</p><p data-pid="zG3aHl4Y">笔记本上要和7400抗衡，至少9750h</p><p data-pid="ha_EIYzK">但是很显然4000买不到9750h的本子</p><p data-pid="j9gwVxWD">我觉得你还是老老实实用阿里云小时鸡跑现实一些</p><p data-pid="VGx-ntaP">能接受台式的话可以捡e5洋垃圾多核并行，应该够用（c602+双路2670）</p>
+1574822646

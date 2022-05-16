@@ -1,0 +1,3 @@
+你每天必须打开的手机软件是什么？
+<p data-pid="DdiRoRPR">systemui</p><p><br></p><p data-pid="-f4vX8IG">其实systemui也是安装在system分区的一个软件，负责显示界面</p><p data-pid="ie3FxbCx">只要你启动手机了，就必然打开了systemui</p><p data-pid="HpXxwDs1">锁屏也是systemui负责的</p>
+1577319648

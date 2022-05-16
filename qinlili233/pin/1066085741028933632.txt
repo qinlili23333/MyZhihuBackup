@@ -1,0 +1,3 @@
+无限法则更新了测试版客户端，窗口标题多了个X后缀，性能略有改善，960m可以4k全低30fps了，2k下甚至可以60fps了，可喜可贺！不过这个版本cpu占用实在太高了，6700hq竟然吃了70%。
+https://pic1.zhimg.com/80/v2-bb50b5e34aae448fc8f4293d8f8ec44b_qhd.jpg
+https://pica.zhimg.com/80/v2-a5ce11b74db030ab844174207b7fe898_qhd.jpg

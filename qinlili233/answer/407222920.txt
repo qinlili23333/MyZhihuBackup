@@ -1,0 +1,3 @@
+如何评价「国产军事题材FPS游戏《强军》」？
+<p data-pid="K18ZVqee">unity引擎会不会带来负面影响暂且不确定，毕竟隔壁robocraft也是unity而且优化出彩，unity是个优秀的引擎，前提是配备优秀的程序员</p><p data-pid="Y_DCKsDV">不过就看这资源打包方式，估计没做好热更新的准备，看样子小patch一下机械盘都有得吃苦</p><p data-pid="XS-XKrOk">求求你分包吧...连用unity做小黄油的都知道要分包啊</p>
+1527868324

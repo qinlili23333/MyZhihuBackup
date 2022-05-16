@@ -1,0 +1,3 @@
+如何看待特斯拉官方对「发生碰撞时行车记录仪事发视频消失」的回应？
+<p data-pid="oHCnW5rd">如果这段回应是真的，那么我的猜测对了一大半</p><p data-pid="T1BCO3gJ">我的猜测就是异步ByteBuffer写入造成的丢数据，但我以为是特斯拉程序员直接把Buffer清空，没想到特斯拉程序员傻到直接等Buffer写完再开始录像</p><p data-pid="3MFnnsvL">简单来说就是下面这样的写法</p><p data-pid="yElGri7v">asyncWriteVideoPromise.then((filename)=&gt;{new record(filename);});</p><p><br></p><p data-pid="askyC8Hr">既然看上去特斯拉程序员没有能力在Buffer里面分割文件，我给特斯拉提个建议，不如把垂直同步的DoubleBuffer那套东西拿去，用两个ByteBuffer解决问题，不会内存泄漏也不会丢视频</p>
+1616918528

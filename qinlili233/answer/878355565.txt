@@ -1,0 +1,3 @@
+PowerPoint 有哪些可能需要熟练掌握而很多人不会的技能？
+<p data-pid="OzH6tRTR">如果你发现ppt容易崩溃了，去加载项里一个个试</p><p data-pid="t6rFIxWN">90%以上的ppt崩溃和加载项有关</p><p data-pid="MRTF1pjM">先全部关闭加载项，然后一个个开启，很快就能找到出现问题的加载项</p><p data-pid="ziRDN4_D">另外不要把所有扩展功能都寄托在加载项上，vba对于简单功能的实现比加载项方便很多</p><p></p>
+1572619202

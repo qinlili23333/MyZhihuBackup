@@ -1,0 +1,3 @@
+使用dxvk实现vulkan backend能一定程度缓解看门狗2的高cpu/gpu占用，在节约接近25%资源情况下对性能几乎没有影响，但过不了反作弊，只能玩单机
+https://pic2.zhimg.com/80/v2-83d0d86e29f1df4d5feedac551d2320e_qhd.jpg
+https://pica.zhimg.com/80/v2-57b1dc45b1b760c88e80aee60ea01373_qhd.jpg

@@ -1,0 +1,3 @@
+C++为何没有一个简便的调库方法?
+<p data-pid="-wf-ey-d">如果你觉得用了vcpkg之后简单的在cmakelist里面加一行都不够简便的话，那你还是别写cpp了</p><p data-pid="HIstDr3B">不会真有cpp开发者在1202年还没用上vcpkg吧</p>
+1633149594

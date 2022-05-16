@@ -1,0 +1,3 @@
+如果华为的麒麟芯片超越了高通骁龙(gpu也可以打游戏了)，你会不会选择华为／荣耀的手机？为什么？
+<p data-pid="yZhWLUwW">不会</p><p data-pid="yB7CkYyD">华为既然现在不给解锁bl了，那么再见，不解锁bl默认系统还不是类原生的机器绝对不用</p><p data-pid="YOpFQpgT">pixel2也不解锁bl，但是默认系统是纯粹的原生，犯不着刷机。</p><p data-pid="eXPu6DCC">如果华为又可以解锁bl了，还有xda大佬做aosp/lineage系的包，那肯定买爆啊</p>
+1525474776

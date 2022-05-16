@@ -1,0 +1,3 @@
+如何看待 9988 元起售的微软 Surface Pro X？值得购买吗？
+<p data-pid="HPogukIq">这玩意其实有个亮点，就是gpu单精度达到了恐怖的1.8T，性能为牙膏厂核显的2-3倍，优于残血mx150</p><p data-pid="S8XYvUtD">不过这玩意对dx的兼容性，毕竟adreno第一次用到dx上，虽然高通一直宣称adreno是支持dx的，但我不是很看好，可能一些游戏还是有异常</p><p data-pid="mK-42TZJ">但是不用怕，adreno的vulkan兼容性好的惊人，github上有个项目叫dxvk，能让基于dx的程序转换为vulkan运行，我已经测试过大量游戏，在n卡上至少转换为vulkan后80%以上可以正常运行</p><p data-pid="K5F_q6TE">随着gal现在技术力越来越高，牙膏厂核显已经逐渐拖不动了，但好在目前95%以上gal都是32位的，所以都能运行，pro x有希望成为新一代推gal神器</p><p></p>
+1582624860

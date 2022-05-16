@@ -1,0 +1,1 @@
+可以预见在不久的将来，arm版mac os能实现树莓派黑苹果，甚至是借助project sandcasltle在iphone上运行mac os

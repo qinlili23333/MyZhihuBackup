@@ -1,0 +1,3 @@
+macOS 和 Windows 10 最大的区别是什么？
+<p data-pid="Cyb_wivK">macos是看似稳定高效实际响应缓慢的东西，win10是稳定高效还反应快的东西</p><p data-pid="pUh4sLyr">但是如果碰到傻逼开发商开发的软件，俩系统都能崩溃</p><p data-pid="I95H2lVI">系统稳定性90%程度上取决于给你写程序到程序猿智商多高</p>
+1499898539

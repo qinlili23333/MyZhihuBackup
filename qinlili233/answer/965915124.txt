@@ -1,0 +1,3 @@
+既然有iCloud了，为什么还要花钱买更大存储的ipad？上百GB的ipad有什么必须得买的优势吗?
+<p data-pid="3w4zi8ry">因为iPad目前最高支持的wifi速率只有876mbps（iPad目前还没有支持wifi6的型号）</p><p data-pid="6qXTcpsB">所以iPad从iCloud加载数据最快的速度也仅有100m/s左右</p><p data-pid="DyYaJFgu">而iPad自身的存储颗粒可以实现400m/s以上的读写速度</p><p><br></p><p data-pid="rICcCm_i">你看，只要稍微加一千多，就能换取至少四倍于iCloud的加载速度（如果你的网速还不到千兆，差距还会更大），这岂不是血赚吗</p><p><br></p><p><br></p><p data-pid="HDGHPC6u">可能可行的更快的方案是对于iPad pro（使用typec的较新型号），有希望通过typec转出一个10gbps网口，通过10gbps网口连接到本地nas（icloud似乎跑不满10gbps）</p><p></p><p></p>
+1578388083

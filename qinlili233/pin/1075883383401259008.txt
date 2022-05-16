@@ -1,0 +1,2 @@
+推广一下自己开发的R6战绩查询，可能是同类产品中最轻量化的，除了关于页面完全0广告，适配自适应图标和shortcut，targetsdk28。（不过仅支持7.0+系统）<br><br>戳这个链接也可以下载&gt;&gt;&gt;<a href="https://link.zhihu.com/?target=https%3A//h5.scene.eqxiu.mobi/s/hOuPs4US" data-icon-type="link" data-original-url="https://h5.scene.eqxiu.mobi/s/hOuPs4US" class="external">链接</a>
+https://pic3.zhimg.com/80/v2-345fda381958acccc4698b120d353d60_qhd.jpg

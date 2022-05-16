@@ -1,0 +1,3 @@
+有没有过手机放裤兜里自己操作的经历？
+<p data-pid="6va_zt2h">有！</p><p data-pid="9ef7fmTW">开着aide看代码看到一半有事情于是手机丢口袋</p><p data-pid="LfMC2TFT">再次拿出来发现aide提示了一大堆错误</p><p data-pid="s1nokrfz">然后发现代码被误触的乱得不成样子</p><p data-pid="5DLeNNj9">好在是个开源库，再连接到github克隆一次就行</p><p data-pid="u3VSut1B">就是再克隆一次80m流量没了有点心疼</p>
+1538054121

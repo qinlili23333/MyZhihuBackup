@@ -1,0 +1,1 @@
+chrome窗口不在前台时会停止canvas绘制，如果你需要多个最大化的chrome页面同时在后台处理canvas负载，把鼠标悬停在任务栏chrome图标上显示预览图，chrome就会认为自己在前台了，这个办法可以同时处理大量页面上的canvas绘制

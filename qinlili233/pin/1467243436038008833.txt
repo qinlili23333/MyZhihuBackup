@@ -1,0 +1,1 @@
+一个小trick，如果脚本需要在iframe加载完再修改背景为透明，可以在iframe加载前设置padding为100%，onload事件中移除padding，就不会闪白底了

@@ -1,0 +1,3 @@
+如何选择无线路由器？
+<p data-pid="CkVOVxhn">LAN端口4个以上千兆全双工口，绝对不会是废物。</p><p data-pid="8qBgLyDh">如果能支持链路聚合，是个大加分项。</p><p data-pid="16DKZPaa">Soc核心越多越是加分项，4x A15顶天立地。</p><p data-pid="TJP1N1OS">发热越大的路由器往往性能越高，但是大发热的情况下必须避免散热不行的废物。</p><p data-pid="wnw4JTjs">挑着有源天线选，几乎不会选到废物。</p>
+1550015514

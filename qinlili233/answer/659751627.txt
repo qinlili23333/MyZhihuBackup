@@ -1,0 +1,3 @@
+ppt可以当做ps来用吗？
+<p data-pid="3zaKHsHL">可以。你可以把PS所有功能以ppt插件形式开发出来，然后只要在ppt中加载这个额外加载项就可以了。</p><p data-pid="mrjGVbfL">不过开发插件你还需要安装visual studio并选中office开发负荷。</p><p data-pid="86bcx3ku">什么你说自己实现太累了？现成的图片处理开源库多得很，你可以挑选开源库并制作成加载项，可以减少不少工作量。</p>
+1555928293

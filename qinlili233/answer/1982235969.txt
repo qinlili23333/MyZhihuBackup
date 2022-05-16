@@ -1,0 +1,3 @@
+买的小新15，在玩LOL的时候cpu会突然降频到0.19hz，游戏帧率降到1帧，这是什么情况啊？
+<p data-pid="jK7vJt1J">LOL性能需求太低导致CPU调度不积极</p><p data-pid="BotETuWu">所以需要找办法让CPU活跃起来</p><p><br></p><p data-pid="UQ3UjsmK">解决办法1:[简单]控制面板-电源,把最小CPU调到100%,阻止降频</p><p data-pid="1UI7TAsu">[进阶操作]用Process Lasso把LOL绑定到特殊的电源方案上,关闭LOL后不会继续维持高频</p><p><br></p><p data-pid="C6MJcwI9">解决办法2:[邪门操作]在运行LOL的同时跑一个死循环,让核心频率下不去,最简单的办法就是你看你现在在看知乎对吧,按下F12打开console,输入while(true){}回车,就行了,关闭LOL后刷新或关闭这个标签页即可恢复</p><p></p>
+1625563481

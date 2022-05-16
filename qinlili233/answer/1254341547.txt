@@ -1,0 +1,3 @@
+老电脑安装linux选择那个版本最流畅？
+<p data-pid="INuGalSj">主要看你干什么了</p><p data-pid="7sr7BoF6">我二奶机q9650+gtx680，12年的旗舰级配置，跑编译+炼丹，我是ubuntu关闭图形界面跑的</p><p data-pid="jTQWYmta">ubuntu的图形界面性能消耗有点大，但是没有图形界面的情况下资源消耗控制的还算可以</p><p data-pid="NdVZNTWb">不过我已经在考虑迁移到wsl2了，wsl2可以直接用gpu了，性能损失也能接受</p>
+1590803985

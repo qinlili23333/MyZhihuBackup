@@ -1,0 +1,3 @@
+为什么有人可以在屎一样混乱的几千行代码里加功能？不重构能驾驭屎山吗？
+<h2>在屎山里加功能最好的办法就是把屎山当作一个黑盒来看待</h2><p data-pid="q6C16f4N">不去动屎山本身，我只需要知道输入什么输出什么</p><p data-pid="POrH_j_e">然后在此之上，去做包装</p><p data-pid="jK_SO1ri">举个最简单的例子</p><p data-pid="g5I7f11j">有一年代久远方法getTimeDetail，以kv形式返回{time:"12:34",date:"11/21"}</p><p data-pid="cRSMLiWu">我现在需要获取月份，那我就在此基础上做封装</p><p data-pid="CBXsDKOr">function getMonth(){</p><p data-pid="XkteQNes">return getTimeDetail().date.substring(0,2);</p><p data-pid="EebG9UkZ">}</p><p data-pid="bDxFZ9H3">这样的封装不会去动到屎山本身，却间接实现了功能</p><p><br></p><p><br></p><p data-pid="M3XCPWOH">当然，过多的封装肯定是影响运行效率的，所以用封装来绕过屎山主要用于紧急修复bug和功能快速上线的情况</p><h2>在时间充足的情况下，重构仍然是更好的选择</h2><p></p>
+1636775343

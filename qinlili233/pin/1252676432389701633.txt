@@ -1,0 +1,1 @@
+最简单区分native和webview的办法就是webview点击没有点击提示音

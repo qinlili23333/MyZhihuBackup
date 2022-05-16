@@ -1,0 +1,2 @@
+知乎网页版这个滚动条用鼠标竟然是拖不动的，想f12看看甚至意外的发现你乎程序员水平烂到把scroolbar拼成了strollbar，这下就很好解释为什么你乎bug这么多了
+https://pic4.zhimg.com/80/v2-29cf81dfb0f61cc0d53015f06ad76f7d_qhd.jpg

@@ -1,0 +1,3 @@
+小程序会成为下一个 Flash 吗？
+<p data-pid="mRNFgTIs">不会</p><p data-pid="CzyJdTLR">Flash好歹还有成熟的硬件加速，在不同平台上使用不同的渲染api（在windows上是d3d9和d3d11）</p><p data-pid="IPv5pCEl">小程序这种纯粹基于webview套壳却连webgl都不支持的东西</p><h2>tmd性能还不如Flash</h2>
+1598868896

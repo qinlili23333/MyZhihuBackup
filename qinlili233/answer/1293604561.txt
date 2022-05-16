@@ -1,0 +1,3 @@
+孩子上网课，怎么设置电脑让他只能打开浏览器，其他的应用全部不能用？
+<p data-pid="Zc48n1NC">安装Chromium OS，问题解决</p><p data-pid="J5Z5-VdY">（然后孩子高兴的打开了DMM GAMES页游）</p><p data-pid="IUKYD4nt">（至于为什么是DMM而不是4399，Chromium OS没flash啊）</p>
+1593078553

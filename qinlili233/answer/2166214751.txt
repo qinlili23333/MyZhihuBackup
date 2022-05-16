@@ -1,0 +1,3 @@
+为什么程序员会有代码能跑就不要动的观点？
+<p data-pid="zZJ6vmxH">能跑=满足需求，可用</p><p data-pid="t85K5RcA">既然这段代码已经满足需求了，那就先跑着再说，干嘛一定要在主线上动呢？</p><p data-pid="WGtbsEdc">正确操作应该是新建一个branch，尝试去修改甚至重写，如果这个新branch的代码测试下来没有问题，再merge回主线</p><p data-pid="2lUqtTWv">尽可能保证主线上的代码是稳定可靠的是一个好习惯</p><p data-pid="4Ytze2mg">当然，merge完之后记得定期把分支bramch给删了，我之前看到过上万个branch的项目，就他娘的离谱</p>
+1633995956

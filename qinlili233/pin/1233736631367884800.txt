@@ -1,0 +1,2 @@
+弱口令事件后续：我抓包才发现，不但弱口令，而且明文密码传参+http不带s<br>真 是 无 比 安 全 呐
+https://pic2.zhimg.com/80/v2-880384116b81b8c5460fed1fbbea8d3c_qhd.jpg

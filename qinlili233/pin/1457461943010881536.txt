@@ -1,0 +1,2 @@
+紧急通知：我开发的开源项目ReinePrint中使用的qrcp项目存在目录穿越漏洞，可导致任意文件写入（限于运行权限，UAC开启情况下仅可写入无需管理员权限的目录）。在qrcp官方修复这个问题前，建议通过配置工具禁用qrcp接收器服务，或更新到最新commit（会默认禁用qrcp），filebrowser接收器服务不受影响。
+https://pic4.zhimg.com/80/v2-ee67a1173a50531e960c4b08acaf61bf_qhd.jpg

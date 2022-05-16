@@ -1,0 +1,2 @@
+tnd支付宝小程序不支持URLSearchParams，还得自己polyfill掉，吐了
+https://pic3.zhimg.com/80/v2-42e8a7cc7322b5825ba5a8bf91f420e7_qhd.jpg

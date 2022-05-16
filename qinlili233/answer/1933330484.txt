@@ -1,0 +1,3 @@
+Visual Studio 是不是坑了一代人？为什么？
+<p data-pid="qJWuYQu0">拒绝vs的人，才是真的坑了一代人</p><p data-pid="vZr-b-jO">对于一个使用cmake的开源项目</p><p data-pid="Rm9ZyXlh">用vs构建只需要：右键-在vs内打开-生成</p><p data-pid="xyQdoeW_">不用vs则需要打开cmake gui，选择文件夹，选择clang或gcc等backend，等待cmake生成方案，手动构建</p><p><br></p><p data-pid="jGvAH05N">别人打开vs开始生成后都能开把apex摸鱼了，你还在盯着cmake生成方案</p>
+1623314263

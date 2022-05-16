@@ -1,0 +1,3 @@
+怎么操作才能让孩子玩不了电脑游戏?
+<p data-pid="wmBYscOH">最简单办法是买个主机或者手机</p><p data-pid="waQWDa9k">但咱还是可以考虑下技术手段的</p><p data-pid="oEkwua_5">只要让游戏使用的图形api不能在高效率下工作就行了</p><p data-pid="QnlErGkE">软渲染就效率挺低的</p><p data-pid="5dq8OnpF">opengl有mesa的softpipe</p><p data-pid="LNIzkJsw">vulkan有谷歌的swiftshader</p><p data-pid="cOGSVYho">但是dx10开始dx就没有软渲染了</p><p data-pid="2MwNjobO">不要怕，dx11以内，可以用wined3d翻译成opengl，dx12可以用vkd3d翻译成vulkan</p><p data-pid="LbIDu_4e">到此为止，全部图形api都变成软渲染了</p><p data-pid="wPhSvALs">于是帧率暴跌延迟巨大毫无游戏体验</p><p data-pid="Iotx0_uZ">双路64核的EPYC也只能在2000年的游戏上以720p维持15fps</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+1627469261

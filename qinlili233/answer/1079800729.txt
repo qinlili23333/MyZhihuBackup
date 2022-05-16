@@ -1,0 +1,3 @@
+10000⁴ 和 4¹⁰⁰⁰⁰，怎样比较大小？
+<p data-pid="7VxzBjJQ">匿名用户的解法确实有效，但是我们完全可以设而不求</p><p data-pid="cvvpeVYn">if(4n**10000n-10000n**4n&gt;0){console.log("Yes")}</p><p data-pid="DbFeQZuI">在浏览器f12里运行这一行代码，返回的结果是Yes，所以4的10000次方大于10000的4次方</p><p data-pid="CXCdToW8">这个方法不用计算出具体的数值，不用自己比大小，效果更好</p>
+1584350276

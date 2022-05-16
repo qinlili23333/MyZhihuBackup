@@ -1,0 +1,2 @@
+笑嘻辽...首先ufs时代速度达不到40m/s的机器根本就不存在，emmc5.1都不止这个速度，其次mtp确实很屎但为什么不用adb pull/push传文件？现在速度快的android文件管理工具都是基于adb的
+https://www.zhihu.com/question/508862055/answer/2296770673?utm_source=zhihu&utm_medium=social&utm_oi=729630383821324288

@@ -1,0 +1,3 @@
+对比两款cpu时，若制程和架构相同，那么对比功耗高低即可得出强弱吗？
+<p data-pid="YYqbzyPN">不能</p><p data-pid="sloo-YEi">5820k和4667v3的功耗是差不多的</p><p data-pid="UvMLFY3L">但4667v3的性能远超5820k</p><p data-pid="YJKiZoSn">因为频率和功耗是二次关系，频率提升需要提升更多的功耗</p><p data-pid="zl3kgMER">所以同功耗下，多核低频性能更强</p><p data-pid="CJY-vAgm">所以自然也存在功耗更高，性能更低的情况</p><p data-pid="ECUpXJU-">比如2650L v3比5820k省电的同时多核高了40%</p><p></p>
+1613648437

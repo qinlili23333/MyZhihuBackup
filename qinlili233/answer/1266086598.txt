@@ -1,0 +1,3 @@
+写代码过程中最忌讳的是什么？总感觉最近太过于急于求成？
+<p data-pid="IM54x4EW">只求能跑，不求速度，变量乱用</p><p data-pid="YjFOXaOb">我见过为了设置状态栏效果，反复getWindow十几次的，每设置一个就get一次</p><p data-pid="nXomYkWK">明明应该get一次丢变量里每次调用变量就行的事情</p><p><br></p><p data-pid="u1l3aXeV">我也见过bitmap用完不销毁等着内存泄漏的</p><p><br></p><p data-pid="mdTMrzPn">我甚至还见过用longlong存年龄的...你是上古大椿吗...</p><p><br></p><p data-pid="PIPmzJrD">更别说某些ui线程跑计算，动不动就anr的</p><p><br></p><p data-pid="brjyc-Ai">能跑，是实现需求的第一步，但永远不是结束</p><p data-pid="kYRWu_5v">跑起来，跑得快，跑的稳，逐层递进，这才是程序员应有的追求</p><p></p><p></p><p></p><p></p>
+1591348906

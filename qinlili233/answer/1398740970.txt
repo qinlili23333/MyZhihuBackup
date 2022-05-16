@@ -1,0 +1,3 @@
+程序员的你，做过什么傻傻的事情？
+<p data-pid="rHIBkLCL">前几天突发奇想想编译一份massgate，对就土豆开源的那个冲突世界的服务端</p><p data-pid="fsoW4IH7">cmake反复提示找不到mysql依赖</p><p data-pid="KkxhuZX-">于是我重装了一次mysql（现在mysql的头文件要安装才有）</p><p data-pid="v0Lnxaem">然后cmake还是认不到</p><p data-pid="S8kP5i3w">于是我索性把mysql装到源码文件夹里去了</p><p data-pid="dv4KuWUo">这次cmake认到了</p><p data-pid="GY6SRGlc">然后新问题来了，提示x64下不支持asm</p><p data-pid="mD6shvwj">折腾半天还是没能编译成功</p><p data-pid="h-CWxjwZ">然后...重点来了</p><p data-pid="p6j0BGb-">我发现我的tomcat里面的druid连不上mysql了</p><p><br></p><h2>嗯，我非但没编译成功，还把之前好不容易配置好的环境搞炸了</h2><h2>于是我花了一小时回滚全盘备份...</h2>
+1597056274

@@ -1,0 +1,3 @@
+OPPOreno和HUAWEImate20pro有什么区别？
+<p data-pid="pNjUJVIC">mate20pro搭载980，reno搭载710/855</p><p data-pid="hFh1Njis">cpu855&gt;980&gt;&gt;&gt;710</p><p data-pid="fwjOnzRI">gpu855&gt;980&gt;&gt;&gt;&gt;710</p><p data-pid="vOp4US_z">能耗比980&gt;855&gt;710</p><p data-pid="tZcCCWqU">reno的710版本就是割草机，710再怎么优化也不可能比得过835</p><p data-pid="0el58qZc">如果偏重大型游戏，尤其是adreno优化的游戏，选reno，855的gpu更给力，如果偏重复杂任务性能比如处理视频等等，855略胜一筹，但是855和980差距不大，但是855续航是不如980的，缓存阉割+过高的频率，要续航选mate20pro肯定没错</p><p></p>
+1556357983

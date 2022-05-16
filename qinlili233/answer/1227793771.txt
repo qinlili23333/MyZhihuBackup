@@ -1,0 +1,3 @@
+为什么500兆宽带wifi只能跑100兆左右？
+<p data-pid="qWbxTcDX">用iperf测一下无线性能，有线端搭建server，无线端作为client</p><p data-pid="K9t-A3sp">如果iperf都只有100m，建议换路由器</p><p data-pid="7aVkdgYG">如果iperf一切正常，建议投诉运营商</p>
+1589678841

@@ -1,0 +1,3 @@
+为什么在提到编辑器的时候都只说 vim、emacs 等，而不提及 Word 呢？
+<p data-pid="8kJ22OhQ">word的目的是对已有内容进行高效率的排版等处理</p><p data-pid="RuxIFzXV">但是真要纯粹写点什么无论是写小说还是写代码，还是需要一个文本编辑器</p><p data-pid="xwrbeiNQ">文本编辑器一般除了输入以外啥也干不了，但是正是因为简单，所以才能更专注</p><p data-pid="YSCDNfcu">毕竟没什么人可以在word下专注的码字吧</p>
+1537066368

@@ -1,0 +1,3 @@
+建议三星用户关闭wifi省电，根据我的多次测试wifi省电会导致大约200mbps的下行速率损失
+https://pic1.zhimg.com/80/v2-0a564a13262f61e56658c5485e2d5a7a_qhd.jpg
+https://pic4.zhimg.com/80/v2-194f122ed5efef53efb00bec55223a85_qhd.jpg

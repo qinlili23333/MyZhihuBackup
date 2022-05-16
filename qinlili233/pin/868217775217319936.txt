@@ -1,0 +1,3 @@
+不是按照md标准来就叫优化好了，看看这内存占用 <a data-hash="3d198a56310c02c4a83efb9f4a4c027e" href="https://www.zhihu.com/people/3d198a56310c02c4a83efb9f4a4c027e" class="member_mention" data-hovercard="p$b$3d198a56310c02c4a83efb9f4a4c027e">@知乎小管家</a> 你们的客户端是插件比QQ多，还是捆绑比贴吧多，还是3d特效比unity引擎的真3d游戏多？输入法只在知乎卡顿，有时候还会crash不是模拟器跑一遍不闪退就没问题了的，墙裂要求给知乎程序猿专门配备调试用手机，让他们见识一下实机运行有多糟糕截止目前，除了chrome(chrome还是我的系统webview，承担知乎的网页部分)，知乎是我机器上最吃内存的东西网页版已经卡的不行，还非要客户端一起卡，这可真是平等对待啊<br><br><br>
+https://pica.zhimg.com/80/v2-db503a3af3dc18b33070d2c1d06ea159_qhd.jpg
+https://pic4.zhimg.com/80/v2-827d3a5675284d9215c45ea9792afee0_qhd.jpg

@@ -1,0 +1,3 @@
+「927 事件」卷土重来，你对各大高校爆发的「O 泡果奶事件」有什么看法？
+<p data-pid="rwrXOzGl">威力不够</p><p data-pid="COWBFG7J">先不说api故意低于23绕开系统权限管理这种技巧对于10+已经基本无效了</p><p data-pid="VyaFF_lp">如果是我，我会这么写：直接请求设备管理员权限，开始播放后自动锁屏，检测到亮屏就接着锁屏，连给你卸载的机会都没有</p><p data-pid="6DBgoqL1">顺带用aosp默认签名，尝试请求系统级权限，可以骗过一堆用默认签名的rom</p><p data-pid="BwN92c3E">再加点子进程守护，加点receiver保活，把重启废掉</p><p data-pid="qK915gPq">最后全局混淆，上dex2c加固，躲避杀毒</p><p data-pid="DU3vjCFq">制作者水平还是不够啊</p><p><br></p><p data-pid="Ed-Bm96p">二更：我们还可以做点增强</p><p data-pid="YNI892yc">设备管理员权限虽然可以达到锁机级别保护，但是防不住adb，所以先请求辅助权限，然后主动把adb关了</p><p data-pid="26T9AxQS">然后为了防止被rec里删除，如果检测到root权限且分区格式为ext4，就给安装包加个chattr，这样rec里都删不掉</p>
+1602800583

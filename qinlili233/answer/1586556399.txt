@@ -1,0 +1,3 @@
+许多老程序员不建议新手用IDE集成开发环境，而是用编辑器＋编译器，用命令行编译，这个怎么看？
+<p data-pid="0-nJbDQs">每个人都有自己适合的toolchain，而且可能不止一套</p><p data-pid="lZKl_Bl6">新手应该尽可能接触不同的工具，然后自己拼出两套以上最合适的toolchain</p><p data-pid="B7Bhnzph">第一套只要最好用就行， 不必考虑授权等等</p><p data-pid="0tnhdq4p">第二套要求避开商业限制，尽可能使用开源和免费的工具</p><p data-pid="GxN1xO82">日常用第一套，第二套做后备</p><p data-pid="eaKrb3wy">toolchain也需要不断与时俱进，做调整，我以前用的文本编辑器是atom，后来就换成了vscode</p><p><br></p><p data-pid="i9JOcric">有的人敲命令行就是熟练，就是效率高，图形界面对他就是累赘，这种人真的有</p><p data-pid="n7J9jDvG">有的人就是背不下来命令只会用图形界面，这种人也有</p><p data-pid="WB5cUwMo">不要人云亦云，找到最适合自己的方法才是最重要的</p><p><br></p><p data-pid="FhnBV8bJ">以及，请尽可能保证你开发过程中代码良好的兼容性，以实现快速过渡toolchain</p>
+1630562313

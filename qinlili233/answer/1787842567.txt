@@ -1,0 +1,3 @@
+为什么有很多的程序员觉得Linux比Windows更加方便，更加有效率？
+<p data-pid="FNPfPkZp">要不是我要打游戏，我才不想用win开发</p><h2>windows installer这个东西，就是停留在上世纪九十年代</h2><p data-pid="6eKoh3mA">完全依照的是传统用光盘安装软件的思路设计的，根本不适用于现代软件部署</p><p data-pid="FA36aYZj">installer这个拷贝一份安装包到package cache，卸载还要安装包的操作简直是屑中屑</p><p data-pid="9aMz2MUK">微软自己也知道这个installer屎山修不下去，所以单独搞了个msix部署出来，结果vs的组件现在还在用installer</p><p><br></p><p data-pid="aQBtRu6n">linux上的软件安装卸载就很简单，apt install，apt remove就完事了，安装完就不需要安装包，卸载也不需要安装包</p>
+1617150189

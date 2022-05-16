@@ -1,0 +1,3 @@
+为什么好多人觉得office比WPS好用？
+<p data-pid="39Q2AQoA">因为wps是封闭的，你无法给wps添加自己想要的扩展功能</p><p data-pid="_zSsX5fU">msoffice有插件接口，可以自己随便写插件</p><p data-pid="CQwnMXyf">libreoffice完全开源，想要什么功能自己改了编译就行</p><p><br></p><p data-pid="E-MQOPE2">也就是说，只有wps，你觉得它不好用的时候你没有办法把它变好用</p><p></p><p></p>
+1591488730

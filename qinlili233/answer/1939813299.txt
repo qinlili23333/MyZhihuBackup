@@ -1,0 +1,3 @@
+为什么华为用了短短几年时间就在手机CPU超越了高通CPU处理器研发？
+<p data-pid="h8aIkSHS">810 epic fail</p><p data-pid="aSoC1-mw">820/821作死双丛集+阉割缓存</p><p data-pid="1-5Pbn8T">835单核倒车</p><p data-pid="wV9Y51Tn">845缓存漏电</p><p data-pid="0AcufBk1">855开始作死1+3+4三丛集，但这个奇葩的分布竟然盘了这么几年盘活了，于是865成功进一步升级</p><p data-pid="UvpGmKDm">888三星5nm坑了一把</p><p><br></p><p><br></p><h2>不是麒麟多给力，无奈高通总作死啊</h2><p data-pid="m6Mxy-Xu">如果810不用20nm直接上三星14nm</p><p data-pid="mJD13bDb">如果820/821上4核热插拔+充足的缓存</p><p data-pid="CP_oyA8y">如果835把完整的kryo1用10nm重制</p><p data-pid="tn8VsLJd">如果845的L4不加那么大不至于漏电</p><p data-pid="_c2ye02q">但凡有一个如果，高通都不至于到今天这地步</p><p data-pid="h6fzYw4j">你说这连翻四代，谁顶得住？</p><p><br></p><h2>不仅养活了麒麟，把猎户座也盘活了，今年的2100直接cpu反超888，可惜gpu高通还能吃老本</h2><p></p><p></p>
+1623661344

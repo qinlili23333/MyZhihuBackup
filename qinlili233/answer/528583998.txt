@@ -1,0 +1,3 @@
+麒麟960和骁龙821谁更发热差劲？
+<p data-pid="GaVF8zgW">个人自用821，发热其实还好，就是不能长时间cpu满载不然肯定会突破80，gpu满载没事，cgss连续肝三小时cpu连50都没上</p><p data-pid="LtdpTYj7">960发热主要在gpu上，gpu功耗都快8w了，不打游戏发热不会大但是一打重gpu负载游戏...这货功耗能到821两倍</p><p data-pid="hcGThVmb">看你个人使用习惯吧，要打游戏肯定821，不打游戏可以考虑960</p><br><p data-pid="FEcwF4ak">最后，如果有人觉得821比较热，自行刷个floppy kernel，记得选eas调度的，821用hmp没有用eas凉快</p>
+1541810985

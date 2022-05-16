@@ -1,0 +1,3 @@
+手机续航还是要靠大电池，所谓省电模式，其实并不能真的延长多少续航，倒是电池多200mah都能显著提升续航。图1为正常使用，图2为省电模式，注意观察电流变化
+https://pica.zhimg.com/80/v2-3971ed70fd29b45f83fe261b04786924_qhd.jpg
+https://pica.zhimg.com/80/v2-aab00161fad5ac29b73b4f805a93d1ac_qhd.jpg

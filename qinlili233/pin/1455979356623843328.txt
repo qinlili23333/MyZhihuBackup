@@ -1,0 +1,1 @@
+捏麻麻滴，用luke stackwalker抓出来觉得finale的帧率锁定应该是基于WaitForSingleObject，于是写了一下午代码好不如在MaiSense里加了IAT Hook，然后发现吊用没有，还是60fps稳稳的

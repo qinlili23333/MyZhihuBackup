@@ -1,0 +1,3 @@
+cpu的TDP功耗是不睿频的最大功耗吗？
+<p data-pid="qhnqwS3o">不是。</p><p data-pid="R4CGpt1j">TDP只是热设计功耗，它是一个设计值，并不是实际值。</p><p data-pid="BOT5sOIV">实际值会受到负载类型等多方面因素影响，可能高于TDP也可能低于TDP。</p>
+1570614992

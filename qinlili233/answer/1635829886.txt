@@ -1,0 +1,3 @@
+如何看待鸿蒙os里全是android痕迹?
+<h2>写在前面：这是一个情报型回答</h2><blockquote data-pid="KhYs4AcD">虽然我觉得目前的homo os就是android换皮</blockquote><p data-pid="AvGd-dPr">但我还是想说，一个全是android痕迹的系统，还真不一定是android</p><p data-pid="LmXJUnVI">就举个例子，chromeos，或者国内可能更熟悉一点的是fydeos</p><p data-pid="LzUrh9yI">可以无损运行android app，到处都是android痕迹</p><p data-pid="CTb7E-Me">但是chromeos不是android，虽然两者都来自google</p><p data-pid="QBmMzELA">chromeos实际上是在linux内核上跑了一个高度虚拟化的android framework，并与chromeos本身融合（所以android的vpn类app可以起到全系统vpn的效果）</p><p></p><p></p>
+1608425104

@@ -1,0 +1,3 @@
+为什么epic会这么大方的送游戏？
+<p data-pid="M-cX2OkD">epic是唯一一家自带引擎入口的游戏平台</p><p data-pid="kxKZA1dV">你看，右键托盘，第一个选项就是ue</p><p data-pid="tFiMDz-k">同样主界面里，ue和商店和库都是平起平坐的</p><p data-pid="27e4twgW">也就是说，你只要白嫖了，大概率你因此接触到ue</p><p data-pid="89BRaBXn">只要你用了ue，epic就必然能赚钱，哪怕你最后发布到steam（发布到其他平台，epic抽5%引擎费用，发布到epic，epic自己拿分成）</p><p><br></p><p data-pid="CAVBnpgK">联想到ue和u3d等其他引擎一直以来的斗争，不难得出结论：epic的真实目的是要推广ue，尤其是即将到来的ue5，打倒其他引擎</p><p data-pid="zqVcaMX_">而反过来,epic又让游戏开发者接触到了更多其他游戏.一个ue启动器,时不时还送你个游戏.epic构建了一个玩家与开发者的闭环生态,让玩家成为开发者,让开发者成为玩家,两个群体合二为一,且都能让epic赚钱</p><p data-pid="yBb3yIrK">（然而u3d最近的一系列离谱操作，简直给ue一波神助攻）</p>
+1597838435

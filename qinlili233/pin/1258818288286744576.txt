@@ -1,0 +1,1 @@
+在win10 arm上运行一个arm的Android模拟器时，模拟器会把arm翻译为x86，系统又把x86翻译为arm，于是明明是在arm上模拟arm却只有5%不到的效率

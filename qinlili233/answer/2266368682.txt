@@ -1,0 +1,3 @@
+大一学生想换 Linux 怎么样？
+<p data-pid="NZmklVwQ">换啥换？</p><p data-pid="Jvz355n2">开发环境，WSL足够了，现在WSL2连GUI都支持了，可以说WSL2相比原生Linux唯一的缺点只有性能损失，其他全是优点</p><p data-pid="sES33mTA">个人使用显然是不在乎这点性能损失的，性能差距拉开的时间还不够重启切系统的</p><p data-pid="VXSZ1CKv">所以我的建议是，用WSL，无缝切换，文件互通，甚至还能实现跨系统调用（WSL内甚至可以调用windows程序）</p><p><br></p><p data-pid="7Z5VhBgB">对了，Android也是基于Linux的，如果你有一台完全root后的Android手机，你可以用这台手机来学习和体验Linux特性，虽然Android做了很多封装，但Linux的特性还是基本全都原汁原味保留下来了，root之后就全都能调用了</p>
+1639205596

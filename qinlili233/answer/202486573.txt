@@ -1,0 +1,3 @@
+路由器的LAN速率与WiFi速率有什么异同？
+<p data-pid="bfZ0H8YR">泻药</p><p data-pid="qNPm8ZjW">我有实际体验过</p><p data-pid="ZoiTl-2q">那时还没换r9000，用的k2，就是百兆lan，1200m无线</p><p data-pid="PSMzxMqa">测试用的790i主板，双千兆lan，插两根网线到路由器，开启链路聚合(k2刷op后可以魔改出链路聚合)</p><p data-pid="LTlHIG04">测试手机为米5sp和米4</p><p data-pid="8H8CCFsT">手机到电脑速度为21m/s左右，接近200m水准</p><p data-pid="HRsSoYu4">手机到手机为7m/s，偏离预期</p><p data-pid="l2URY1qB">经过排查，原因是k2不支持mu-mimo，导致只能单发单收影响手机到手机速度</p>
+1500793097

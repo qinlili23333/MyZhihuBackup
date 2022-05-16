@@ -1,0 +1,3 @@
+2019 年 315 晚会上展示的收集个人信息的手机 App 反映了哪些问题？手机软件有哪些坑？
+<p data-pid="LcLWbW0L">没事别瞎几把给app权限。重点把握电话权限和存储空间权限，这两个权限是收集个人信息的重头戏</p><p data-pid="zuKF6ho0">对于拿捏不准的app丢虚拟环境（容器/virtual xposed），没事少装不明来源的app</p><p data-pid="Nk50kKEg">用好appops和存储重定向，后台服务能禁止的禁止光</p><p data-pid="NmQcqKYD">优先使用Google play版本的app，但是play商店之前也出过恶意app，也需要谨慎</p><p data-pid="zImBArRa">最后别没事在手机里存隐私文件</p><p></p>
+1552694548

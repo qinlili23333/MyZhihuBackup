@@ -1,0 +1,3 @@
+PC Microsoft Store是对开发者的政策不好么，为什么没有能流行起来？
+<p data-pid="SB2brQSw">对,就是政策不好</p><p data-pid="1icAcQ4I">现在win32转制的也可以上架,按照道理上架没什么额外功夫,甚至我都会在github和其他地方主动分发uwp版安装包</p><p data-pid="rfdlTpZl">但是我就是不上架,因为上架特么要交钱啊</p><p data-pid="zk3OCb1Y">大约一两百块的门槛吧</p><p data-pid="V5RHeXRH">又没人帮我出这一两百我为什么要上架啊</p><p data-pid="p4vvwSu7">github release不香么</p><p data-pid="DVXhIjxV">自从微软收购github,真正的微软商店就是github了</p>
+1621732474

@@ -1,0 +1,3 @@
+如何评价 iOS 13.2 疯狂杀微信后台事件以及微信方的回应？
+<p data-pid="ValeidvR">草，微信不会在Android和iOS用了同一套跨平台代码编译的吧</p><p data-pid="DA3jpsMc">Android这边微信就是这么干的</p><p data-pid="SuXtLUJJ">简单说说Android这边的原理</p><p data-pid="_xN6pjlT">前提：Android注册一个唤醒锁可以阻止cpu休眠，一个名字可以注册一个唤醒锁</p><p data-pid="j8JmjSNv">微信干了这样一个惊天大事：</p><p data-pid="d1hcSWs1">唤醒锁不是同名不能重复注册吗，所以微信写了一个method，传入时间，传出结果是时间的hash，用hash命名，注册唤醒锁</p><p data-pid="oPBj6Dqd">于是这样微信就可以注册上万个唤醒锁</p><p data-pid="T1Jxu552">感兴趣的可以下一个wld看看唤醒锁</p><p data-pid="RxOtMXz0">看样子这套方案在iOS也是一样的...</p><p><br></p><p><br></p><p data-pid="M3mrvHkf">因为已经不同微信了所以我就懒得下回来再做一次逆向分析了</p>
+1572783199

@@ -1,0 +1,3 @@
+从设计之初来想，一个主机有了唯一确定的IP地址，那么给他发数据的目的地就唯一确定，为啥还要MAC地址？
+<p data-pid="yvOgj_kn">mac地址是用于标识设备唯一性的</p><p data-pid="hHn1rtws">用到mac地址的地方不一定需要tcp/ip协议</p><p data-pid="CE1mml4D">比如蓝牙，没有tcp/ip，但是却需要使用mac地址</p><p data-pid="fvHADXtc">mac地址自始至终目的是保证设备唯一，但ip地址无法和设备完全绑定，这个ip每时每刻可以分配给不同的设备</p><p><br></p><p data-pid="i6EDaXTm">一个mac地址理论上只能对应一个设备，一个设备可以拥有多个mac地址</p><p data-pid="jYDGPtrD">一个ip可以对应多个设备（AnyCast多播），一个设备也可以拥有多个ip</p>
+1641201313

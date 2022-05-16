@@ -1,0 +1,3 @@
+大学生，非计算机专业，Linux和windows哪个系统更方便日常办公（考虑到文件发送）？
+<p data-pid="QUatPeNz">windows，因为windows自带一个除了io性能弟弟外其他性能可以和物理机持平的wsl</p><p data-pid="No3YrC8-">而在linux里无论是wine还是kvm都有明显的效率折扣</p><p></p>
+1573016558

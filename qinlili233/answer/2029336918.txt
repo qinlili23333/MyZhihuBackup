@@ -1,0 +1,3 @@
+如何看待华为P50系列采用高通骁龙888处理器？
+<p data-pid="eJ2ryeqX">4g版888不会在发热上有任何优势，一样会很热</p><p data-pid="7KcVy8PL">888发热主要是gpu和超大核</p><p data-pid="Ue19sZNr">其中gpu能效比较低，所以gpu如果负载上来了温度会一下子起飞</p><p data-pid="Yegjtir9">超大核的效率还行，只能说发热配得上性能</p><p data-pid="akUoJJAF">p50分辨率比s21u稍微低一点，应该还好些，应该能保证全分辨率大部分游戏稳60</p><p data-pid="_rDAfOb3">就看真机散热如何了</p><p data-pid="5nLzyXZa">（s21u在2k120下屁股肉都能掉帧，平均帧率只有112左右不能稳120）</p>
+1627641988

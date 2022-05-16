@@ -1,0 +1,3 @@
+请问软件开发与编程对电脑有什么要求吗？
+<p data-pid="PLtCB8pY">如果你不做UI，也不需要跑单双精读或者cuda，那么你不需要高端独显，买个730这种亮机卡足矣</p><p data-pid="Tsp08EbK">ssd一定要，要大，建议512g</p><p data-pid="hsLKnSwu">内存一定要大，16g起步，小内存对于在虚拟机中人力debug会很吃力</p><p data-pid="8nUc-Vhd">CPU不用太高主频，框框一定要多，没钱也要上洋垃圾e5，有钱就e5v3v4甚至双路</p><p data-pid="gU63mxwk">网卡要吞吐快，方便自己两台电脑间互调试</p>
+1491215897

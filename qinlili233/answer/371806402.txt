@@ -1,0 +1,3 @@
+安卓是开源系统，如何让中兴禁用？
+<p data-pid="I4i9txqS">在system ui的源代码里加入检测到ro.product.brand=ZTE就制造exception（比如invoke时传递一个不存在的变量等类似办法制造崩溃）</p><p data-pid="zRICGdXa">这样安卓会在中兴手机上一直崩溃</p><p data-pid="WuKsRb7X">当然，中兴的程序员可能会发现，删掉这段代码就正常了</p>
+1524218422

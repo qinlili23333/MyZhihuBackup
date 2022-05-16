@@ -1,0 +1,3 @@
+英雄联盟新出的回放功能是如何实现的？
+<p data-pid="-aDaa3Xy">和ps里的动作记录器一样的</p><p data-pid="yOtExOam">ps里你处理时动作窗体里会显示你的操作</p><p data-pid="hLH0Jsy0">比如“新建图层”这样</p><p data-pid="xl1rQu_B">但是这就和ps绝对不会录制你的整个过程一样</p><p data-pid="C_2Xa6jG">记录的是动作，只要按照记录复原一下就好了</p>
+1502061763

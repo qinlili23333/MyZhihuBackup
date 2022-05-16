@@ -1,0 +1,3 @@
+如何评价iOS 14.5 Beta推出的使用Apple Watch解锁Face ID设备的功能?
+<p data-pid="Pj2hJmsN">苹果版Smart Lock</p><p data-pid="r1E46p3o">Smart Lock同时设置人脸和附近设备时的逻辑也是优先人脸，但同时静默扫描附近蓝牙设备，如果人脸失败，等待扫描完成后若发现有可信设备则解锁</p><p data-pid="2JEJ-Gyr">技术上没啥新鲜的，又一个android特性移植到了ios而已</p><p></p>
+1612248176

@@ -1,0 +1,3 @@
+其实x264有足够能力把4k视频压小<br>试了这个压制参数--preset placebo --opencl -r 16 --b-adapt 2 -b 16 -I 360 -i 185m，画质和原先1.6g版本毫无区别不过这个参数对解码端要求很高，没硬解的话估计会很惨想要挑战自己设备解码能力请戳<a href="https://link.zhihu.com/?target=https%3A//www.pipipan.com/fs/8067059-204412515" data-icon-type="link" data-original-url="https://www.pipipan.com/fs/8067059-204412515" class="external">链接</a>下载
+https://pic3.zhimg.com/80/v2-d0cca45db11aebf4f1bc005a9ce64863_qhd.jpg
+https://pic1.zhimg.com/80/v2-b2640ac23ce736c651d2b63d937ae7b8_qhd.jpg

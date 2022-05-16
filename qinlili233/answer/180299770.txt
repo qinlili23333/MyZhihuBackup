@@ -1,0 +1,3 @@
+为何linux作为服务器端十年不重启都不卡而安卓用半年就十分卡?
+<p data-pid="aVof278x">服务器没有gui</p><p data-pid="RArSZyne">服务器没有全家桶</p><p data-pid="lyGwGUQu">服务器要运行的东西已经开着，不会连带唤醒</p><p data-pid="ou44FlvT">服务器程序不用加固</p>
+1496833479

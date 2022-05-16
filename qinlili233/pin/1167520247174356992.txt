@@ -1,0 +1,2 @@
+怀疑某数字加固涉嫌窃取用户位置信息，在百度等定位sdk里额外插入代码
+https://pic3.zhimg.com/80/v2-6a317ebe8869671ba6b9c0462b73dc31_qhd.jpg

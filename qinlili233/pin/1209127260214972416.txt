@@ -1,0 +1,1 @@
+牙膏厂核显不支持HDMI2.0真的麻烦，为了让surface go输出4k60hz的HDMI信号，我必须用typec转dp，再把dp转HDMI，或者就只能用果子那个把这两个转换整合在一起的昂贵的typec转HDMI

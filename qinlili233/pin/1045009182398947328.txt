@@ -1,0 +1,2 @@
+群里一假到不能再假的广告图，看字体就知道不对劲，没有hinting的字体里突然出现了有hinting而且还是cleartype渲染出的数字，高度也没对齐，字符间距也不对。我是说，做这种图也请用点心好吗
+https://pica.zhimg.com/80/v2-86d2506fa3290ea25dff6ba7b64aa35b_qhd.jpg

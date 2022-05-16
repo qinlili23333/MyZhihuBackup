@@ -1,0 +1,3 @@
+如何用最低的成本自制一个显卡坞？
+<p data-pid="KgOGxiiX">最低成本首选minipcie（已淘汰）/ultrabay（已停产）方案，直接拉线就行不需要主控</p><p data-pid="eGkLMBtg">次低成本肯定是m2转，买矿老板用的那种m2转pcie套件就行十几块钱</p><p data-pid="lUiYLm8F">用雷电最贵，不值得</p><p></p>
+1609121389

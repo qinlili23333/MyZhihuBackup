@@ -1,0 +1,3 @@
+下一世代的游戏主机为达到更高性能是否有可能选用英伟达的GPU？
+<p data-pid="6BF3ZZY_">主机端如果用nvidia的gpu就必然会用nvidia的cpu，nvidia的cpu只有arm架构的，对跨平台游戏开发不友好，所以估计还是AMD</p>
+1546327231

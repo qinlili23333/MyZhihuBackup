@@ -1,0 +1,3 @@
+现在笔记本都带蓝牙了，为何还要开发Type-C鼠标？
+<p data-pid="1y8UVf2Y">现役鼠标月刃，蓝牙+2.4g+typec三模</p><p data-pid="FQs8A2Qx">去掉2.4g我没意见</p><p data-pid="dT7CtVY-">去掉typec我觉得就是纯纯的ybb了</p><p data-pid="XRFZynvm">没电的时候你蓝牙用个锤子</p><p data-pid="NmfngIWC">typec的存在则可以保证没电了插个线继续用</p>
+1627732461

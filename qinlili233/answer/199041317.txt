@@ -1,0 +1,3 @@
+如何看待 iOS 应用 Pin 的开发者指责锤子科技的 Big Bang 抄袭其想法和交互？
+<p data-pid="nm_mzKMd">其实有时候真的有这样一种情况</p><p data-pid="eqKbHCfA">a想出了xxx这个主意</p><p data-pid="32eFPiJK">b不知道a，几天后b也想出了这个主意</p><p data-pid="ezElq7pc">b从来不知道a，也不知道本来还有这个主意，这种情况怎么算？</p>
+1500176080

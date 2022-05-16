@@ -1,0 +1,3 @@
+AMD Threadripper(线程撕裂者）是胶水CPU?
+<p data-pid="RnwBQ6jg">是的，epyc也是</p>
+1502120586

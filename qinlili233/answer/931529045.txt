@@ -1,0 +1,3 @@
+如何看待谷歌工程师透露谷歌有20亿行代码，相当于写40遍Windows？
+<p data-pid="3EWENAQX">用行数来衡量代码是绝对的睿智行为</p><p data-pid="mQbwfh-w">在代码最开始反复const 0x0，我可以瞬间把5行代码弄成40亿行</p><p data-pid="BpRvUclt">难道我就比谷歌牛批了？</p><p data-pid="UC6DJb7D">衡量代码的标准是实现了什么而不是有多少</p><p></p>
+1576055047

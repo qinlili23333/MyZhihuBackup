@@ -1,0 +1,3 @@
+有哪些事让你感觉游戏体验极差？
+<p data-pid="srKOgpk0">nvidia 980ti 驱动已停止响应并自动恢复</p><br><br><br><br><p data-pid="G0z66ZeA">:(</p><p data-pid="8NOmnLeo">你的电脑似乎遇到了一些问题</p><p data-pid="2LZavMJV">我们正在收集信息，稍后为你重启</p><p data-pid="f0_0tsbT">已完成0%</p><p data-pid="ql7TrWdY">错误代码:machine_check_exception</p>
+1501041032

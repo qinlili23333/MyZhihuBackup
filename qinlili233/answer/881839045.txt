@@ -1,0 +1,3 @@
+哪些型号的手机能给iPhone充电?
+<p data-pid="hw1MxQuK">任何手机</p><p data-pid="OlzMByXP">得益于五福一安传统，iPhone只要输出达到500ma的usb口就能充电</p><p data-pid="xHgkYsOb">任何手机的otg输出带载都大于500ma，所以只要配合otg任何手机都可以</p>
+1572867975

@@ -1,0 +1,2 @@
+讲个笑话，微信省流量。这三天主力机上微信总共收发个位数的纯文字消息，吃了我5m多，telegram收发数百条消息还不到1m。<br>别说什么gcm推送省流量，我微信是谷歌play版，实测gcm也生效
+https://pic3.zhimg.com/80/v2-278f5d67ef9b58ca1b2110b926a5a01b_qhd.jpg

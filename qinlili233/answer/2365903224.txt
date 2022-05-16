@@ -1,0 +1,3 @@
+如果尝试将 Redmi 或者小米刷上其他系统，是不是能得到参数和体验的双赢？
+<p data-pid="pCXvPmYy">对咯</p><p data-pid="cdnH5VSD">我的小米5splus首发购入用了三年，为什么？</p><p data-pid="hKX8D0RP">因为我刷了lineage啊</p><p data-pid="oR9o9jDN">没有任何臃肿的附加组件，真正的原生，真正的舒心好用</p><p data-pid="3cYA5VqD">现在依然健在，作为遥控器用，一次充电能用半个月</p><p><br></p><p data-pid="wj_lo6z1">不过说实话，一般人能刷上lineage并启动起来就不容易了，更不要说折腾到易用的程度了</p><p data-pid="uELwZYtE">虽然我曾经制作过无脑twrp还原包，可以说是尽可能低门槛了，但还是有人连twrp都刷不上...</p><p><br></p><p><br></p><p><br></p><p data-pid="lei6hxVV">哦对了，还有些人会不小心刷核反应堆进去，小福子永远的神</p>
+1645931350

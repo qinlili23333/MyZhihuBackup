@@ -1,0 +1,3 @@
+如何评论iPhone7及以上设备在iOS11导出拍摄的4K视频仍然是H.264编码而非HEVC编码？
+<p data-pid="hBX3dpCk">苹果自以为别家设备不支持hevc</p><p data-pid="c_fKLrh0">然而高通从820开始就支持hevc硬解了...</p>
+1527029250

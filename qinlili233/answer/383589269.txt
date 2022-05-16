@@ -1,0 +1,3 @@
+公共场合通过数据线充电, 如果误点了信任, 或者安卓机开着usb调试模式, 我会受到哪些损失?
+<p data-pid="4PFM-OTW">你的手机甚至能直接被刷机</p><p data-pid="SoaUJvAn">adb reboot recovery</p><p data-pid="b5CiEcyn">adb sideload newsystem.zip</p><p data-pid="UdF5Ozqe">之后你的手机就有船新的系统了</p><p data-pid="2UVjQDX6">或者，本来没被激活的黑域/冰箱被激活了</p><p data-pid="Zup16gVI">或者，你的system分区被解锁了</p><p data-pid="sTZHZXbT">或者直接删除framework-res.apk，就砖了</p>
+1525472268

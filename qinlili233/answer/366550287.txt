@@ -1,0 +1,3 @@
+360 杀毒的真实水平怎么样？
+<p data-pid="soX2ZDND">杀毒水平不咋地，误报水平无敌</p><p data-pid="z1P2V49_">自己写的wechat patch，为了减小体积全部upx加壳，然后360这**玩意见了upx就报毒</p><p data-pid="oN4tm9gX">然而upx这东西本来并无害，只不过病毒也喜欢用upx罢了</p>
+1523678127

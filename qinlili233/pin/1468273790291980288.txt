@@ -1,0 +1,2 @@
+支付宝的uc内核虽然支持wasm，但加载用时是chrome97的5倍，蚂蚁的程序员平时都在写什么玩意我暂且蒙在新德里
+https://pic2.zhimg.com/80/v2-6a4131210d41eecda7d0c21dc3ada521_qhd.jpg

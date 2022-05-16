@@ -1,0 +1,1 @@
+electron早就升级到83内核了，vscode还在78

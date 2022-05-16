@@ -1,0 +1,3 @@
+安装win10网卡总是先识别为82579LM卸载后扫描又识别为82579V后才正常工作，怎么解决？
+<p data-pid="1QsT48us">泻药</p><p data-pid="Xt0ONQIf">win10上的intel网卡驱动是残废版，需要手动安装完整版</p><p data-pid="xEb3uXnE">戳右侧去官网下载intel完整版网卡驱动，卸载系统现有驱动安装，然后重启一次就好了<a href="http://link.zhihu.com/?target=https%3A//downloadcenter.intel.com/ja/download/25016" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">downloadcenter.intel.com</span><span class="invisible">/ja/download/25016</span><span class="ellipsis"></span></a></p>
+1520418723

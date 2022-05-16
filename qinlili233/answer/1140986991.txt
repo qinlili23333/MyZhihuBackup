@@ -1,0 +1,3 @@
+如何看待余承东表示：华为 P40 已完全没有谷歌的东西了？是否意味着华为已启用鸿蒙系统？
+<p data-pid="733qKZY_">有没有手上有真机的，我觉得华为应该有个地方的谷歌残留没处理干净</p><p data-pid="4upLQogh">用mt管理器定位到/system/framework/framework.jar，里面有多个dex，全部选中打开，应该会发现有个Lcom/google/collect，这可是谷歌的东西</p>
+1586434241

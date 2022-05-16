@@ -1,0 +1,3 @@
+为什么手机上没有像 Switch 上面那样好玩的大作？
+<p data-pid="UupspWIz">要是手机能把散热堆到switch一样，就有了</p><p data-pid="DTx8Jf5r">865的峰值性能早就超过switch上的x1了，但是截至到目前，没有任何一款手机能连续一小时平均性能超过switch</p><p data-pid="8Dx-2TNS">switch在风扇启动后就根本不会降频，所以性能一直是满血的</p><p data-pid="3ClaFoWV">而手机没有风扇，绝大多数手机甚至没有热管</p><p data-pid="qTTpioxU">结果就是前几分钟还能满血跑，跑着跑着降频了</p><p data-pid="MdhQIarT">包括苹果，降频也很严重，连续运行一段时间后的a12相比冷的a12折损超过三分之一性能</p><p data-pid="p4HajgU4">不信你可以拿手机反复跑分，对比switch（刷Android用3dmark就行），手机没有冰箱分数就越来越低</p><p data-pid="kwVrCmdu">等到6nm大规模使用了，堆一个1.5倍865规模的gpu走低频多核路线，那时候，在手机上运行大作才成为现实</p>
+1589066786
